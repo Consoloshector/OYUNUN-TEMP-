@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+<!DOCTYPE html><html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
@@ -7,10 +6,7 @@
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <title>HTML</title>
   <link rel="stylesheet" href="OT.css">
-  
-</head>
-
-<style>
+</head><style>
 
 *{
   margin: 0;
@@ -33,7 +29,6 @@ header{
 }
 
 header>.divbest{
-  
   width: 600px;
   display: flex;
   justify-content: space-between;
@@ -57,10 +52,10 @@ header>.divbest>.div-a>img{
 
 .box{
  margin-top: 100px;
-display: flex;
-flex-direction: column;
-justify-content: center;
-align-items: center;
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+ align-items: center;
 }
 
 .box>.mac{
@@ -73,7 +68,6 @@ align-items: center;
   justify-content: center;
   border: 3px solid black;
   background-color: rgba(0, 0, 0, 0.7)
-  
 }
 
 .box>div>a{
@@ -81,7 +75,7 @@ align-items: center;
   font-size: 2rem;
 }
 
-.secret1{
+.secret{
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -90,130 +84,99 @@ align-items: center;
   display: none;
 }
  
-.secret1>div{
-background-color: white;
-padding: 10px;
-display:flex;
-justify-content: center;
-border: 1px solid black;
+.secret>div{
+  background-color: white;
+  padding: 10px;
+  display:flex;
+  justify-content: center;
+  border: 1px solid black;
 }
 
-.secret1>div>a{
+.secret>div>a{
   color: black;
   font-size: 2rem;
 }
 
-.secret2{
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  width:600px;
-  background-color: rgba(0, 0, 0, 0.7);
-  display: none;
-}
- 
-.secret2>div{
-background-color: white;
-padding: 10px;
-display:flex;
-justify-content: center;
-border: 1px solid black;
-}
-
-.secret2>div>a{
-  color: black;
-  font-size: 2rem;
-}
-
-.secret3{
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  width:600px;
-  background-color: rgba(0, 0, 0, 0.7);
-  display: none;
-}
- 
-.secret3>div{
-background-color: white;
-padding: 10px;
-display:flex;
-justify-content: center;
-border: 1px solid black;
-}
-
-.secret3>div>a{
-  color: black;
-  font-size: 2rem;
+@media (max-width: 768px) {
+  header {
+    height: 180px;
+  }
+  header .divbest {
+    width: 100%;
+    padding: 0 10px;
+    flex-direction: column;
+    align-items: center;
+  }
+  header .divbest .div-img img,
+  header .divbest .div-a img {
+    width: 100px;
+    height: 100px;
+    margin: 10px 0;
+  }
+  .box {
+    margin-top: 50px;
+  }
+  .mac {
+    width: 90%;
+    height: 60px;
+    margin-top: 30px;
+  }
+  .box div a {
+    font-size: 1.2rem;
+  }
+  .secret {
+    width: 90%;
+    flex-direction: column;
+    align-items: center;
+  }
+  .secret > div {
+    width: 100%;
+    text-align: center;
+  }
 }
 
-</style>
-
-<body>
-  
+</style><body>
   <div class="main">
-    
-<header>
-  
-  <div class="divbest">
-    
-  <div class="div-img">
-    <img src="1739807568358.png" alt="" />
+    <header>
+      <div class="divbest">
+        <div class="div-img">
+          <img src="1739807568358.png" alt="" />
+        </div>
+        <div class="div-a">
+          <img src="IMG-20250219-WA0089.jpg" alt="" />
+        </div>
+      </div>
+    </header><div class="box">
+  <div class="mac">
+    <a class="at1" href="#">Roma - Porto</a>
   </div>
-  <div class="div-a">
-    <img src="IMG-20250219-WA0089.jpg" alt="" />
+  <div class="secret secret1">
+    <div><a href="https://myfootball.top/11453124-roma-portu-pryamaya-translyaciya-20-fevralya.html">Link 1</a></div>
+    <div><a href="https://myfootball.top/11453124-roma-portu-pryamaya-translyaciya-20-fevralya.html">Link 2</a></div>
   </div>
-  
-  </div>
-  
-</header>
-
-<div class="box">
   
   <div class="mac">
-   <a class="at1" href="#">Roma - Porto</a>
-   </div>
-   <div class="secret1">
-     <div><a href="https://myfootball.top/11453124-roma-portu-pryamaya-translyaciya-20-fevralya.html">Link 1</a></div>
-     <div><a href="https://myfootball.top/11453124-roma-portu-pryamaya-translyaciya-20-fevralya.html">Link 2</a></div>
-   </div>
-   
-   <div class="mac">
     <a class="at2" href="#">Galatasaray - Alkmaar</a>
-    </div>
-     <div class="secret2">
-     <div><a href="https://www.canlitv.vin/cbcsport-canli-yayin">Link 1</a></div>
-     <div><a href="https://tv.mobiltv.net/cbc-sport-canli">Link 2</a></div>
-   </div>
-   
-    <div class="mac">
+  </div>
+  <div class="secret secret2">
+    <div><a href="https://www.canlitv.vin/cbcsport-canli-yayin">Link 1</a></div>
+    <div><a href="https://tv.mobiltv.net/cbc-sport-canli">Link 2</a></div>
+  </div>
+  
+  <div class="mac">
     <a class="at3" href="#">Anderlecht - Fenerbahçe</a>
-    </div>
-     <div class="secret3">
-   <div><a href="https://tv.mobiltv.net/cbc-sport-canli">Link 1</a></div>
-   <div><a href="https://www.canlitv.vin/cbcsport-canli-yayin">Link 2</a></div>
- </div>
- 
-    
- </div>
-    
+  </div>
+  <div class="secret secret3">
+    <div><a href="https://tv.mobiltv.net/cbc-sport-canli">Link 1</a></div>
+    <div><a href="https://www.canlitv.vin/cbcsport-canli-yayin">Link 2</a></div>
+  </div>
 </div>
 
-<script>
-  
-  $(document).ready(function(){
-    $('.at1').click(function(){
-    $('.secret1').slideToggle()
-    })
-    $('.at2').click(function(){
-    $('.secret2').slideToggle()
-    })
-    $('.at3').click(function() {
-    $('.secret3').slideToggle()
-    })
-  })
-  
-</script>
-  
-</body>
-     </html>
+  </div>  <script>
+    $(document).ready(function(){
+      $('.at1').click(function(){ $('.secret1').slideToggle(); });
+      $('.at2').click(function(){ $('.secret2').slideToggle(); });
+      $('.at3').click(function(){ $('.secret3').slideToggle(); });
+    });
+  </script></body>
+</html>

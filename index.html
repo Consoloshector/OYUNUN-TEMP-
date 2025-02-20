@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
   <title>HTML</title>
   <link rel="stylesheet" href="OT.css">
   
@@ -11,181 +12,208 @@
 
 <style>
 
-  *{
-    text-decoration: none;
-  }
-  
-  body{
-    background-image: url('09e609e605409aaab45b97dae87f7a35.jpg');
-    background-size: cover;
-    background-attachment: fixed;
-  }
-  
-  h1{
-    color:white;
-    text-align:center;
-  }
-  
-  .div-main{
-    margin-top:30px;
-    display:grid;
-    grid-template-columns: repeat(1,1fr);
-    padding: 5px;
-    gap: 30px;
-  }
-  
-  .bestmini{
-    background:#757680;
-    padding: 20px;
-    border-radius:20px;
-    display: grid;
-    grid-template-columns: repeat(1,1fr);
-    text-align:center;
-    gap: 20px;
-    opacity:0.9;
-    
-  }
-  
-  .adiv{
-    display: flex;
-    justify-content: space-evenly
-  }
-  
-  .adiv>a{
-    background-color: green;
-    width:70px;
-    height:40px;
-    font-size: 1.1rem;
-    font-family: sans-serif;
-    font-weight: 500;
-    background-color:#757680;
-    border:1px solid white;
-    color: yellow;
-    border-radius:7px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-  }
-  
-  .adiv>a:hover{
-    background-color: yellow;
-    color:#757680;
-  }
-  
-  .time-span{
-    color: yellow;
-    font-size:1rem;
-  }
-  
-  .name-vs {
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+.main{
+  background-image: url('/IMG-20250220-WA0186.jpg');
+  height:100vh;
+  background-size: cover;
+}
+
+header{
   display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 10px; 
-  font-size: 1.7rem;
-  font-family: sans-serif;
-  color: whitesmoke;
-  flex-direction: column;
+  justify-content:center;
+  background:rgba(172, 254, 64, 0);
+  height:250px;
 }
 
-.name1-span,
-.name2-span {
-  display: block;
-}
-
-.vs-span {
-  color: yellow;
-  font-weight: bold;
-  font-size: 1.5rem;
-}
+header>.divbest{
   
+  width: 600px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header>.divbest>.div-img>img{
+  width:150px;
+  height:150px;
+  margin-left: 20px;
+}
+
+header>.divbest>.div-a{
+  display: flex;
+}
+
+header>.divbest>.div-a>img{
+  width:150px;
+  height:150px;
+}
+
+.box{
+ margin-top: 100px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+
+.box>.mac{
+  border-radius:10px;
+  margin-top: 50px;
+  width:600px;
+  height:100px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 3px solid black;
+  background-color: rgba(0, 0, 0, 0.7)
+  
+}
+
+.box>div>a{
+  color: white;
+  font-size: 2rem;
+}
+
+.secret1{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width:600px;
+  background-color: rgba(0, 0, 0, 0.7);
+  display: none;
+}
+ 
+.secret1>div{
+background-color: white;
+padding: 10px;
+display:flex;
+justify-content: center;
+border: 1px solid black;
+}
+
+.secret1>div>a{
+  color: black;
+  font-size: 2rem;
+}
+
+.secret2{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width:600px;
+  background-color: rgba(0, 0, 0, 0.7);
+  display: none;
+}
+ 
+.secret2>div{
+background-color: white;
+padding: 10px;
+display:flex;
+justify-content: center;
+border: 1px solid black;
+}
+
+.secret2>div>a{
+  color: black;
+  font-size: 2rem;
+}
+
+.secret3{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width:600px;
+  background-color: rgba(0, 0, 0, 0.7);
+  display: none;
+}
+ 
+.secret3>div{
+background-color: white;
+padding: 10px;
+display:flex;
+justify-content: center;
+border: 1px solid black;
+}
+
+.secret3>div>a{
+  color: black;
+  font-size: 2rem;
+}
+
 </style>
 
 <body>
   
-  <h1>OYUNUN TEMPİ</h1>
-  <div class="div-main">
+  <div class="main">
+    
+<header>
+  
+  <div class="divbest">
+    
+  <div class="div-img">
+    <img src="/1739807568358.png" alt="" />
+  </div>
+  <div class="div-a">
+    <img src="/IMG-20250219-WA0089.jpg" alt="" />
   </div>
   
+  </div>
   
-  <script>
+</header>
+
+<div class="box">
+  
+  <div class="mac">
+   <a class="at1" href="#">Roma - Porto</a>
+   </div>
+   <div class="secret1">
+     <div><a href="https://myfootball.top/11453124-roma-portu-pryamaya-translyaciya-20-fevralya.html">Link 1</a></div>
+     <div><a href="https://myfootball.top/11453124-roma-portu-pryamaya-translyaciya-20-fevralya.html">Link 2</a></div>
+   </div>
+   
+   <div class="mac">
+    <a class="at2" href="#">Galatasaray - Alkmaar</a>
+    </div>
+     <div class="secret2">
+     <div><a href="https://www.canlitv.vin/cbcsport-canli-yayin">Link 1</a></div>
+     <div><a href="https://tv.mobiltv.net/cbc-sport-canli">Link 2</a></div>
+   </div>
+   
+    <div class="mac">
+    <a class="at3" href="#">Anderlecht - Fenerbahçe</a>
+    </div>
+     <div class="secret3">
+   <div><a href="https://tv.mobiltv.net/cbc-sport-canli">Link 1</a></div>
+   <div><a href="https://www.canlitv.vin/cbcsport-canli-yayin">Link 2</a></div>
+ </div>
+ 
     
-    const best=document.getElementsByClassName('div-main')[0];
-     
+ </div>
     
-    const data=[{
-      time:'21:45',
-      name1:'Milan',
-      vs:'vs',
-      name2:'Feyenoord',
-      link1:'https://www.canlitv.vin/cbcsport-canli-yayin',
-      link2:'https://www.canlitv.vin/cbcsport-canli-yayin',
-      link3:'https://www.canlitv.vin/cbcsport-canli-yayin'
-    },
-    {
-       time:'00:00',
-      name1:'Bayern Munich',
-      vs:'vs',
-      name2:'Celtic',
-      link1:'https://www.canlitv.vin/cbcsport-canli-yayin',
-      link2:'https://www.canlitv.vin/cbcsport-canli-yayin',
-      link3:'https://www.canlitv.vin/cbcsport-canli-yayin'
-    },
-    {
-     time: '00:00',
-    name1: 'Benifica',
-    vs: 'vs',
-    name2: 'Monaco',
-    link1: 'https://www.canlitv.vin/ictimai-tv-canli',
-    link2: 'https://www.canlitv.vin/ictimai-tv-canli',
-    link3: 'https://www.canlitv.vin/ictimai-tv-canli'
- }];
-    
-    data.forEach((f)=>{
-      const bestmini=document.createElement('div')
-      bestmini.className='bestmini';
-      
-      const name1=document.createElement('span')
-      name1.className='name1-span'
-      name1.textContent=f.name1;
-      
-       const name2 =document.createElement('span')
-      name2.className='name2-span'
-      name2.textContent=f.name2;
-      
-       const namevs = document.createElement('span')
-      namevs.className = 'name-vs';
-      
-       const vs = document.createElement('span')
-      vs.className = 'vs-span'
-      vs.textContent = f.vs;
-      
-      const time=document.createElement('span')
-      time.className='time-span'
-      time.textContent=f.time;
-      
-      const adiv=document.createElement('div')
-      adiv.className='adiv';
-      
-      const link1=document.createElement('a')
-      link1.textContent='Link 1'
-      link1.setAttribute('href',f.link1);
-      
-      const link2=document.createElement('a')
-      link2.textContent='Link 2'
-      link2.setAttribute('href',f.link2);
-     
-       const link3=document.createElement('a')
-      link3.textContent='Link 3'
-      link3.setAttribute('href',f.link3);
-      
-      namevs.append(name1,vs,name2)
-      adiv.append(link1,link2,link3)
-      bestmini.append(time,namevs,adiv)
-      best.append(bestmini)
+</div>
+
+<script>
+  
+  $(document).ready(function(){
+    $('.at1').click(function(){
+    $('.secret1').slideToggle()
     })
-    
-  </script>
+    $('.at2').click(function(){
+    $('.secret2').slideToggle()
+    })
+    $('.at3').click(function() {
+    $('.secret3').slideToggle()
+    })
+  })
+  
+</script>
   
 </body>
-</html>
+     </html>

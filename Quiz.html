@@ -102,30 +102,48 @@
       font-size: 16px;
     }
   }
-
 </style>
 
 <body>
 
   <div class="quiz-div">
     <h4>Hansı komandadır?</h4>
-    <img src="IMG-20250226-WA0052.jpg" alt="Quiz Image" />
-    <input id="input" type="text" placeholder="Cavabı yazın">
-    <p class="p"></p>
+    <img src="/QuizSayt/IMG-20250225-WA0097.jpg" alt="Quiz Image" />
+    <input id="input" type="text" placeholder="Komandanı yazın">
+    <p class="p" id="result1"></p>
+    <input id="input2" type="text" placeholder="İli yazın">
+    <p class="p" id="result2"></p>
   </div>
 
   <script>
-    const p = document.querySelector('.p');
+    const result1 = document.getElementById('result1');
+    const result2 = document.getElementById('result2');
     const input = document.getElementById('input');
-    const cavab = 'Bayer 2024';
+    const input2 = document.getElementById('input2');
+    const cavab = 'Napoli';
+    const cavab2 = '2020';
 
     input.addEventListener('input', () => {
       if (input.value.trim().toLowerCase() === cavab.toLowerCase()) {
-        p.textContent = 'Cavab doğrudur!';
-        p.className = 'p p-right';
+        result1.textContent = 'Cavab doğrudur!';
+        result1.classList.add('p-right');
+        result1.classList.remove('p-fail');
       } else {
-        p.textContent = 'Cavab yanlışdır!';
-        p.className = 'p p-fail';
+        result1.textContent = 'Cavab yanlışdır!';
+        result1.classList.add('p-fail');
+        result1.classList.remove('p-right');
+      }
+    });
+
+    input2.addEventListener('input', () => {
+      if (input2.value.trim().toLowerCase() === cavab2.toLowerCase()) {
+        result2.textContent = 'Cavab doğrudur!';
+        result2.classList.add('p-right');
+        result2.classList.remove('p-fail');
+      } else {
+        result2.textContent = 'Cavab yanlışdır!';
+        result2.classList.add('p-fail');
+        result2.classList.remove('p-right');
       }
     });
   </script>

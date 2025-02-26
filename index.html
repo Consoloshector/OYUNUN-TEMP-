@@ -136,6 +136,81 @@
       border-radius:10px;
       margin-left:80px;
     }
+
+    
+    
+    /* Böyük ekranlar (1200px+) */
+@media (min-width: 1200px) {
+  .box {
+    max-width: 800px;
+  }
+}
+
+/* Noutbuklar və orta ölçülü ekranlar (992px - 1200px) */
+@media (max-width: 1200px) {
+  header {
+    height: 220px;
+  }
+  .mac {
+    height: 70px;
+  }
+}
+
+/* Planşetlər (768px - 992px) */
+@media (max-width: 992px) {
+  header {
+    height: 180px;
+  }
+  .divbest {
+    width: 90%;
+  }
+  .mac {
+    height: 60px;
+    font-size: 1.3rem;
+  }
+}
+
+/* Böyük telefonlar (576px - 768px) */
+@media (max-width: 768px) {
+  header {
+    height: 150px;
+  }
+  .divbest {
+    padding: 0 15px;
+  }
+  .mac {
+    height: 50px;
+    font-size: 1.2rem;
+  }
+  .textbox {
+    width: 180px;
+    height: 45px;
+  }
+}
+
+/* Kiçik telefonlar (576px və aşağı) */
+@media (max-width: 576px) {
+  header {
+    height: 130px;
+  }
+  .divbest .div-img img,
+  .divbest .div-a img {
+    width: 80px;
+    height: 80px;
+  }
+  .mac {
+    width: 100%;
+    height: 45px;
+    font-size: 1rem;
+  }
+  .textbox {
+    width: 160px;
+    height: 40px;
+  }
+  .box div a {
+    font-size: 1rem;
+  }
+}
   </style></head>
 <body>
   <div class="main">

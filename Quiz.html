@@ -4,120 +4,132 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title></title>
+  <title>Quiz</title>
 </head>
 
 <style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
 
-*{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: sans-serif;
-}
-  
-.main{
-  width:100%;
-  height:100vh;
-  display:flex;
-  justify-content: center;
-  align-items: center;
-  background-image:url('IMG-20250220-WA0186.jpg');
+  body {
+    background-image: url('/IMG-20250220-WA0186.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    
-}
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
 
-.quiz-div{
-  width:55%;
-  height:350px;
-  background: rgba(238, 85, 1, 0.2);
-  padding: 10px;
-  display: grid;
-  grid-template-columns: repeat(1,1fr);
-  backdrop-filter: blur(30px);
-  border: 3px solid black;
-  border-radius: 10px;
-} 
+  .quiz-div {
+    width: 50%;
+    max-width: 450px;
+    background: rgba(255, 156, 5, 0.15);
+    backdrop-filter: blur(15px);
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+  }
 
-.quiz-div>img{
-  width:100%;
-}
+  h4 {
+    color: #fff;
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
 
-h4{
-  color:#f0f0f0;
-  text-align: center;
-  margin-top:5px;
-}
+  .quiz-div img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 15px;
+  }
 
-input{
-  height:35px;
-  font-weight: 600;
-  font-family: Arial, Helvetica, sans-serif;
-  text-align: center;
-}
+  input {
+    width: 100%;
+    height: 40px;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 16px;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    outline: none;
+  }
 
+  input::placeholder {
+    color: rgba(255, 255, 255, 0.7);
+  }
 
+  .p {
+    font-size: 18px;
+    margin-top: 10px;
+    font-weight: bold;
+  }
 
-svg{
-  height:35px;
-  margin-top: -49px;
-  margin-left: 170px;
-  border-left:2px solid black;
-  padding: 3px;
-}
+  .p-right {
+    color: #28a745;
+  }
 
-.p-right{
-  color: #28a745;
-  font-weight: bold;
-  text-align: center;
-}
+  .p-fail {
+    color: #dc3545;
+  }
 
-.p-fail{
-  color:#dc3545;
-  font-weight: bold;
-  text-align: center;
-  
-}
+  /* Mobil cihazlar */
+  @media (max-width: 600px) {
+    .quiz-div {
+      width: 90%;
+      max-width: 350px;
+      padding: 15px;
+    }
+
+    h4 {
+      font-size: 18px;
+    }
+
+    input {
+      height: 35px;
+      font-size: 14px;
+    }
+
+    .p {
+      font-size: 16px;
+    }
+  }
+
 </style>
 
 <body>
-  
-  <div class="main">
-    
-    <div class="quiz-div">
-      
-      <h4 id="h4">Hansı komandadır?</h4>
-      <img src="IMG-20250226-WA0052.jpg" alt="" />
-      <input id="input" type="text">
-      <p class="p"></p>
-    </div>
-    
+
+  <div class="quiz-div">
+    <h4>Hansı komandadır?</h4>
+    <img src="/QuizSayt/IMG-20250225-WA0097.jpg" alt="Quiz Image" />
+    <input id="input" type="text" placeholder="Cavabı yazın">
+    <p class="p"></p>
   </div>
-  
+
   <script>
-    
-    
-    const p=document.getElementsByClassName('p')[0];
-    const input=document.getElementById('input');
-    const cavab='Bayer 2024';
-    
-   input.addEventListener('input',()=>{
-     if(input.value.trim().toLowerCase() === cavab.toLowerCase()){
-       p.textContent='Cavab doğrudur!'
-       p.className='p-right'
-     }
-     else{
-       p.textContent='Cavab yanlışdır!'
-       p.className='p-fail'
-     }
-   })
-    
-    
-    
+    const p = document.querySelector('.p');
+    const input = document.getElementById('input');
+    const cavab = 'Napoli';
+
+    input.addEventListener('input', () => {
+      if (input.value.trim().toLowerCase() === cavab.toLowerCase()) {
+        p.textContent = 'Cavab doğrudur!';
+        p.className = 'p p-right';
+      } else {
+        p.textContent = 'Cavab yanlışdır!';
+        p.className = 'p p-fail';
+      }
+    });
   </script>
-  
+
 </body>
 
 </html>

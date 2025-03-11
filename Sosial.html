@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <title></title>
+</head>
+
+<style>
+  
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+  }
+
+  .main {
+    width: 100%;
+    min-height: 100vh;
+    background-image: url("/IMG-20250220-WA0186.jpg");
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 90px 13px
+  }
+
+  .sosial {
+    background-color: rgba(255, 255, 255, 0.7);
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
+    padding: 50px;
+    font-size: 3rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+
+  .sosial>div {
+    display: flex;
+    gap: 15px;
+    align-items: center;
+  }
+
+  a {
+    color: rgba(0, 0, 0, 1);
+  }
+
+  /* Mobil versiya */
+  @media (max-width: 768px) {
+    .sosial {
+      padding: 30px;
+      font-size: 2rem;
+      gap: 25px;
+    }
+
+    .sosial>div {
+      flex-direction: column;
+      gap: 10px;
+    }
+  }
+
+  /* Planşet versiyası */
+  @media (max-width: 1024px) {
+    .sosial {
+      padding: 40px;
+      font-size: 2.5rem;
+      gap: 30px;
+    }
+  }
+
+  /* Kiçik ekranlı mobil telefonlar */
+  @media (max-width: 480px) {
+    .sosial {
+      padding: 20px;
+      font-size: 1.8rem;
+      gap: 20px;
+    }
+  }
+
+</style>
+
+<body>
+
+  <div class="main">
+    <div class="sosial">
+      <h1 style="font-size:3rem">Rəsmi səhifələrmiz</h1>
+      <div>
+        <i class="fa-brands fa-whatsapp"></i><a href="https://whatsapp.com/channel/0029VaEBKeQ1yT26BEY2EP3i">WhatsApp səhifəsi</a>
+      </div>
+      <div>
+        <i class="fa-brands fa-instagram"></i><a href="https://www.instagram.com/oyununtempi?igsh=MnNpcG83cnF1M2l3">Instagram səhifəsi</a>
+      </div>
+      <div>
+        <i class="fa-brands fa-telegram"></i><a href="https://t.me/OyununTempiTelegram">Telegram səhifəsi</a>
+      </div>
+      <div>
+        <i class="fa-brands fa-tiktok"></i><a href="https://www.tiktok.com/@oyununtempi?_t=ZS-8uXyW8HFimW&_r=1">TikTok səhifəsi</a>
+      </div>
+      <div>
+        <i class="fa-brands fa-youtube"></i><a href="https://www.youtube.com/@oyununtempi">YouTube səhifəsi</a>
+      </div>
+    </div>
+  </div>
+
+</body>
+
+</html>

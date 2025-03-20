@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  
+  <style>
+     * {
+       margin: 0;
+       padding: 0;
+       box-sizing: border-box;
+       text-decoration: none;
+     }
+    
+    .main{
+       padding: 20px;
+       background-image: url('/IMG-20250220-WA0186.jpg');
+       min-height: 100vh;
+       background-size: cover;
+       background-position: center;
+       display: flex;
+       justify-content: center;
+       align-items: center;
+    }
+    
+    .quiz{
+      width: 100%;
+      max-width: 900px;
+      display: flex;
+      flex-direction: column;
+      gap: 30px;
+      background: rgba(255, 156, 5, 0.15);
+      backdrop-filter: blur(15px);
+      border-radius: 10px;
+      padding: 20px
+    }
+    
+    .quiz-box{
+      background-color: #FF8D35;
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 15px;
+      padding: 10px;
+      border-radius: 10px;
+    }
+    
+    .quiz-box>img{
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+    
+    .quiz-box>span{
+      font-weight: 600;
+      font-size: 1.5rem;
+      background-color: yellow;
+      padding: 5px 10px;
+      border-radius: 5px;
+    }
+    
+    .quiz-box>input{
+      width: 30%;
+      height: 30px;
+      font-weight: 700;
+      text-align: center;
+      border: 2px solid #ccc;
+      border-radius: 5px;
+    }
+
+    .quiz-right{
+      border: 7px solid darkgreen;
+    }
+    
+    .quiz-fail{
+      border: 7px solid red;
+    }
+    
+    .h1{
+      margin:0 auto;
+      font-size: 2rem;
+      color: white;
+      font-weight: 700;
+    }
+
+    /* Responsive Styles */
+    @media (max-width: 768px) {
+      .quiz-box {
+        flex-direction: column;
+        align-items: center;
+        padding: 15px;
+      }
+
+      .quiz-box>span {
+        font-size: 1.2rem;
+        margin: 5px 0;
+      }
+
+      .quiz-box>input {
+        width: 70%;
+        margin-top: 10px;
+      }
+
+      .quiz {
+        padding: 20px;
+        gap: 20px;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .quiz-box>img {
+        width: 80px;
+        height: 80px;
+      }
+
+      .quiz-box>span {
+        font-size: 1rem;
+      }
+
+      .quiz-box>input {
+        width: 80%;
+      }
+    }
+  </style>
+  
+</head>
+
+<body>
+  
+  <div class="main">
+    
+    <div class="quiz">
+      <h1 class="h1">Hansı futbolçudur? 2024/25</h1>
+      <div class="quiz-box">
+        <img src="/Futbolçunu tap /image.png" alt="" />
+        <span>CM</span>
+        <img src="/Futbolçunu tap /Manchester_City_FC_badge.svg (1).png" alt="" />
+        <span>#47</span>
+        <input type="text" value="" class="input1" />
+      </div>
+      <div class="quiz-box">
+        <img src="/Futbolçunu tap /almanya.jpg" alt="" />
+        <span>CB</span>
+        <img src="/Futbolçunu tap /Real_Madrid_CF.svg (1).png" alt="" />
+        <span>#22</span>
+        <input class="input2"/>
+      </div>
+      <div class="quiz-box">
+        <img src="/Futbolçunu tap /Flag_of_Argentina.svg.png" alt="" />
+        <span>CM</span>
+        <img src="/Futbolçunu tap /1200px-Chelsea_FC.svg.png" alt="" />
+        <span>#8</span>
+        <input class="input3"/>
+      </div>
+      <div class="quiz-box">
+        <img src="/Futbolçunu tap /almanya.jpg" alt="" />
+        <span>CF</span>  
+        <img src="/Futbolçunu tap /FC_Bayern_München_logo_(2024).svg.png" alt="input4" />
+        <span>#25</span>
+        <input class="input4" />
+      </div>
+      <div class="quiz-box"> 
+        <img src="/Futbolçunu tap /Flag_of_Portugal_(alternate).svg.png" alt="" /> 
+        <span>CM</span>
+        <img src="/Futbolçunu tap /1200px-Paris_Saint-Germain_F.C..svg.png" alt="" />
+        <span>#17</span>
+        <input class="input5" />
+      </div>
+      
+    </div>
+    
+  </div>
+  
+  
+  <script>
+      const input1=document.getElementsByClassName("input1")[0];
+      const input2=document.getElementsByClassName("input2")[0];
+      const input3=document.getElementsByClassName("input3")[0];
+      const input4=document.getElementsByClassName("input4")[0];
+      const input5=document.getElementsByClassName("input5")[0];
+      const quiz1=document.getElementsByClassName("quiz-box")[0];
+      const quiz2=document.getElementsByClassName("quiz-box")[1];
+      const quiz3=document.getElementsByClassName("quiz-box")[2];
+      const quiz4=document.getElementsByClassName("quiz-box")[3];
+      const quiz5=document.getElementsByClassName("quiz-box")[4];
+      
+      const cavab1="Phil Foden";
+      const cavab2="Antonio Rüdiger";
+      const cavab3="Enzo Fernandez";
+      const cavab4="Thomas Müller";
+      const cavab5="Vitinha";
+      
+      input1.addEventListener('input', () => {
+        if (input1.value.trim().toLowerCase() === cavab1.toLowerCase()) {
+          quiz1.classList.remove('quiz-fail');
+          quiz1.classList.add('quiz-right');
+        }
+        else{
+          quiz1.classList.add('quiz-fail');
+        }
+      });
+    
+      input2.addEventListener('input', () => {
+        if (input2.value.trim().toLowerCase() === cavab2.toLowerCase()) {
+          quiz2.classList.remove('quiz-fail');
+          quiz2.classList.add('quiz-right');
+        }
+        else{
+          quiz2.classList.add('quiz-fail');
+        }
+      });
+
+      input3.addEventListener('input', () => {
+        if (input3.value.trim().toLowerCase() === cavab3.toLowerCase()) {
+          quiz3.classList.remove('quiz-fail');
+          quiz3.classList.add('quiz-right');
+        }
+        else{
+          quiz3.classList.add('quiz-fail');
+        }
+      });
+    
+      input4.addEventListener('input', () => {
+        if (input4.value.trim().toLowerCase() === cavab4.toLowerCase()) {
+          quiz4.classList.remove('quiz-fail');
+          quiz4.classList.add('quiz-right');
+        }
+        else{
+          quiz4.classList.add('quiz-fail');
+        }
+      });
+    
+      input5.addEventListener('input', () => {
+        if (input5.value.trim().toLowerCase() === cavab5.toLowerCase()) {
+          quiz5.classList.remove('quiz-fail');
+          quiz5.classList.add('quiz-right');
+        }
+        else{
+          quiz5.classList.add('quiz-fail');
+        }
+      });
+  </script>
+</body>
+
+</html>

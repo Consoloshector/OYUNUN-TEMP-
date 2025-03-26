@@ -41,20 +41,44 @@
       background-color: #FF8D35;
       width: 100%;
       display: flex;
-      justify-content: space-between;
+      justify-content:space-between;
       align-items: center;
       gap: 15px;
-      padding: 10px;
+      padding: 20px;
       border-radius: 10px;
     }
     
-    .quiz-box>img{
-      width: 100px;
-      height: 100px;
-      border-radius: 50%;
-      object-fit: cover;
+     .quiz-box>.img1{
+      width:150px;
+      height:150px;
+      
     }
     
+   .quiz-box>.img2 {
+  width: 110px;
+  height: 150px;
+}
+
+.quiz-box>.img3{
+      width:110px;
+      height:150px;
+    }
+    
+    .quiz-box>.img4 {
+  width: 150px;
+  height: 150px;
+}
+
+.quiz-box>.img5 {
+  width: 150px;
+  height: 150px;
+}    
+   
+ .olke{
+   width: 140px;
+height: 120px;
+ } 
+ 
     .quiz-box>span{
       font-weight: 600;
       font-size: 1.5rem;
@@ -121,6 +145,7 @@
         font-size: 1rem;
       }
 
+
       .quiz-box>input {
         width: 80%;
       }
@@ -136,38 +161,38 @@
     <div class="quiz">
       <h1 class="h1">Hansı futbolçudur? 2024/25</h1>
       <div class="quiz-box">
-        <img src="image.png" alt="" />
-        <span>CM</span>
-        <img src="Manchester_City_FC_badge.svg (1).png" alt="" />
-        <span>#47</span>
+        <img class="olke" src="image.png" alt="" />
+        <span>CDM</span>
+        <img class="img1" src="Tottenham-Badge-200mm-Wafer-Cake.png" alt="" />
+        <span>#14</span>
         <input type="text" value="" class="input1" />
       </div>
       <div class="quiz-box">
-        <img src="almanya.jpg" alt="" />
-        <span>CB</span>
-        <img src="Real_Madrid_CF.svg (1).png" alt="" />
-        <span>#22</span>
+        <img class="olke" src="almanya.jpg" alt="" />
+        <span>CF</span>
+        <img class="img2" src="379.png" alt="" />
+        <span>#11</span>
         <input class="input2"/>
       </div>
       <div class="quiz-box">
-        <img src="Flag_of_Argentina.svg.png" alt="" />
-        <span>CM</span>
-        <img src="1200px-Chelsea_FC.svg.png" alt="" />
-        <span>#8</span>
+        <img class="olke" src="Flag_of_Portugal_(alternate).svg.png" alt="" />
+        <span>RW</span>
+        <img class="img3" src="1200px-Sporting_Clube_de_Portugal_(Logo).svg.png" alt="" />
+        <span>#17</span>
         <input class="input3"/>
       </div>
       <div class="quiz-box">
-        <img src="almanya.jpg" alt="" />
-        <span>CF</span>  
-        <img src="FC_Bayern_München_logo_(2024).svg.png" alt="input4" />
-        <span>#25</span>
+        <img class="olke" src="Flag_of_France.svg.png" alt="" />
+        <span>RB</span>  
+        <img class="img4" src="FC_Bayern_München_logo_(2024).svg.png" alt="input4" />
+        <span>#23</span>
         <input class="input4" />
       </div>
       <div class="quiz-box"> 
-        <img src="Flag_of_Portugal_(alternate).svg.png" alt="" /> 
+        <img class="olke" src="Flag_of_Côte_d'Ivoire.svg.png" alt="" /> 
         <span>CM</span>
-        <img src="1200px-Paris_Saint-Germain_F.C..svg.png" alt="" />
-        <span>#17</span>
+        <img class="img5" src="Stade-Rennais.png" alt="" />
+        <span>#8</span>
         <input class="input5" />
       </div>
       
@@ -188,11 +213,11 @@
       const quiz4=document.getElementsByClassName("quiz-box")[3];
       const quiz5=document.getElementsByClassName("quiz-box")[4];
       
-      const cavab1="Phil Foden";
-      const cavab2="Antonio Rüdiger";
-      const cavab3="Enzo Fernandez";
-      const cavab4="Thomas Müller";
-      const cavab5="Vitinha";
+      const cavab1="Archie Gray";
+      const cavab2="Niclas Füllkrug";
+      const cavab3="Francisco Trincão";
+      const cavab4="Sacha Boey";
+      const cavab5="Seko Fofana";
       
       input1.addEventListener('input', () => {
         if (input1.value.trim().toLowerCase() === cavab1.toLowerCase()) {

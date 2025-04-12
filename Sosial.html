@@ -4,108 +4,118 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css" integrity="sha512-Evv84Mr4kqVGRNSgIGL/F/aIDqQb7xQ2vcrdIwxfjThSH8CSR7PBEakCr51Ck+w+/U6swU2Im1vVX0SVk9ABhg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <title></title>
-</head>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
 
-<style>
+    body {
+      background-color: #f4a261;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 30px;
+      height:100vh;
+    }
+    
+    body>a>img{
+      width: 200px;
+      height: 200px;
+    }
+
+    .main {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      gap: 10px;
+      padding: 10px;
+      max-width: 1000px;
+      margin: 0 auto;
+    }
+
+    .quizpart {
+      aspect-ratio: 1 / 1;
+      overflow: hidden;
+      border-radius: 10px;
+      background-color: #fff;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .quizpart>a>img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      display: block;
+    }
+    
+    .spa {
+  background: rgba(255, 255, 255, 0.7);
+  backdrop-filter: blur(10px);
   
-  * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    text-decoration: none;
-    font-family: sans-serif;
-  }
+}
 
-  .main {
-    width: 100%;
-    min-height: 100vh;
-    background-image: url("IMG-20250220-WA0186.jpg");
-    background-size: cover;
-    background-position: center;
+    /* Mobil üçün */
+    @media (max-width: 600px) {
+      .main {
+        grid-template-columns: 1fr 1fr;
+        margin-top:;
+      }
+      body>a>img{
+      width: 100px;
+      height: 100px;
+    }
+    
+    .spa{
     display: flex;
-    justify-content: center;
-    align-items: center;
-    padding: 90px 13px
-  }
-
-  .sosial {
-    background-color: rgba(255, 255, 255, 0.7);
-    display: flex;
-    flex-direction: column;
-    gap: 40px;
-    padding: 50px;
-    font-size: 3rem;
-    justify-content: center;
-    align-items: center;
     text-align: center;
   }
-
-  .sosial>div {
-    display: flex;
-    gap: 15px;
-    align-items: center;
-  }
-
-  a {
-    color: rgba(0, 0, 0, 1);
-  }
-
-  /* Mobil versiya */
-  @media (max-width: 768px) {
-    .sosial {
-      padding: 30px;
-      font-size: 2rem;
-      gap: 25px;
+    
     }
 
-    .sosial>div {
-      flex-direction: column;
-      gap: 10px;
+    /* Planşet üçün */
+    @media (min-width: 601px) and (max-width: 992px) {
+      .main {
+        grid-template-columns: repeat(2, 1fr);
+      }
     }
-  }
 
-  /* Planşet versiyası */
-  @media (max-width: 1024px) {
-    .sosial {
-      padding: 40px;
-      font-size: 2.5rem;
-      gap: 30px;
+    /* Desktop üçün */
+    @media (min-width: 993px) {
+      .main {
+        grid-template-columns: repeat(2, 1fr);
+        
+              }
     }
-  }
-
-  /* Kiçik ekranlı mobil telefonlar */
-  @media (max-width: 480px) {
-    .sosial {
-      padding: 20px;
-      font-size: 1.8rem;
-      gap: 20px;
-    }
-  }
-
-</style>
+  </style>
+</head>
 
 <body>
 
+<a href="https://whatsapp.com/channel/0029VaEBKeQ1yT26BEY2EP3i"><img src="/1739807568358.png" alt="" /></a>
+
+ <span class="spa">Bizi sosial mediada tap! Oyunun Tempi loqosuna kliklə və qoşul! </span>
   <div class="main">
-    <div class="sosial">
-      <h1 style="font-size:3rem">Rəsmi səhifələrmiz</h1>
-      <div>
-        <i class="fa-brands fa-whatsapp"></i><a href="https://whatsapp.com/channel/0029VaEBKeQ1yT26BEY2EP3i">WhatsApp səhifəsi</a>
-      </div>
-      <div>
-        <i class="fa-brands fa-instagram"></i><a href="https://www.instagram.com/oyununtempi?igsh=MnNpcG83cnF1M2l3">Instagram səhifəsi</a>
-      </div>
-      <div>
-        <i class="fa-brands fa-telegram"></i><a href="https://t.me/OyununTempiTelegram">Telegram səhifəsi</a>
-      </div>
-      <div>
-        <i class="fa-brands fa-tiktok"></i><a href="https://www.tiktok.com/@oyununtempi?_t=ZS-8uXyW8HFimW&_r=1">TikTok səhifəsi</a>
-      </div>
-      <div>
-        <i class="fa-brands fa-youtube"></i><a href="https://www.youtube.com/@oyununtempi">YouTube səhifəsi</a>
-      </div>
+    <div class="quizpart">
+      <a href="/Futbolçunu tap /tap.html"><img src="/QUİZS/IMG-20250411-WA0106.jpg" alt="Futbolçu Quiz">
+      </a>
+    </div>
+    <div class="quizpart">
+      <a href="/QuizSayt/QuizSaytClub.html">
+      <img src="/QUİZS/IMG-20250411-WA0107.jpg" alt="Klub Quiz">
+      </a>
+    </div>
+    <div class="quizpart">
+      <a href="/QuizSayt/QuizSayt.html">
+      <img src="/QUİZS/IMG-20250411-WA0108.jpg" alt="Milli Quiz">
+      </a>
+    </div>
+    <div class="quizpart">
+      <a href="#">
+      <img src="/QUİZS/IMG-20250411-WA0109.jpg" alt="Futbol Quiz">
+      </a>
     </div>
   </div>
 

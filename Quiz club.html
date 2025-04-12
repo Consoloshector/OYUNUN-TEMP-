@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Quiz</title>
+</head>
+
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+  }
+
+  body {
+    background-image: url('071b2c257cf296ba7523b4c1aa66d799.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    flex-direction: column;
+    gap: 30px;
+  }
+
+  .quiz-div {
+    width: 50%;
+    max-width: 450px;
+    background: rgba(255, 156, 5, 0.15);
+    backdrop-filter: blur(15px);
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+  }
+
+  h4 {
+    color: #fff;
+    font-size: 22px;
+    margin-bottom: 10px;
+  }
+
+  .quiz-div img {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 15px;
+  }
+
+  input {
+    width: 100%;
+    height: 40px;
+    border: 2px solid rgba(255, 255, 255, 0.3);
+    border-radius: 8px;
+    padding: 10px;
+    font-size: 16px;
+    text-align: center;
+    background: rgba(255, 255, 255, 0.2);
+    color: white;
+    outline: none;
+  }
+
+  input::placeholder {
+    color: rgba(255, 255, 255, 0.7);
+  }
+
+  .p {
+    font-size: 18px;
+    margin-top: 10px;
+    font-weight: bold;
+  }
+
+  .p-right {
+    color: #28a745;
+  }
+
+  .p-fail {
+    color: #dc3545;
+  }
+
+  /* Mobil cihazlar */
+  @media (max-width: 600px) {
+    .quiz-div {
+      width: 90%;
+      max-width: 350px;
+      padding: 15px;
+    }
+
+    h4 {
+      font-size: 18px;
+    }
+
+    input {
+      height: 35px;
+      font-size: 14px;
+    }
+
+    .p {
+      font-size: 16px;
+    }
+  }
+</style>
+
+<body>
+
+  <div class="quiz-div">
+    <h4>Hansı Millidir?</h4>
+    <img src="IMG-20250406-WA0020.jpg" alt="Quiz Image" />
+    <input id="input" type="text" placeholder="Millini yazın">
+    <p class="p" id="result1"></p>
+    <input id="input2" type="text" placeholder="İli yazın">
+    <p class="p" id="result2"></p>
+  </div>
+
+  <div style="background-color:rgba(255, 85, 0,0.8);padding: 10px;border: 2px solid black;border-radius: 10px;width:200px; height: 50px; display: flex;justify-content: center; align-items: center"><a href="FindFootballer.html" style="color: white;text-decoration: none">Növbəti Quiz</a></div>
+
+  <script>
+    const result1 = document.getElementById('result1');
+    const result2 = document.getElementById('result2');
+    const input = document.getElementById('input');
+    const input2 = document.getElementById('input2');
+    const cavab = 'Fransa';
+    const cavab2 = '2019';
+
+    input.addEventListener('input', () => {
+      if (input.value.trim().toLowerCase() === cavab.toLowerCase()) {
+        result1.textContent = 'Cavab doğrudur!';
+        result1.classList.add('p-right');
+        result1.classList.remove('p-fail');
+      } else {
+        result1.textContent = 'Cavab yanlışdır!';
+        result1.classList.add('p-fail');
+        result1.classList.remove('p-right');
+      }
+    });
+
+    input2.addEventListener('input', () => {
+      if (input2.value.trim().toLowerCase() === cavab2.toLowerCase()) {
+        result2.textContent = 'Cavab doğrudur!';
+        result2.classList.add('p-right');
+        result2.classList.remove('p-fail');
+      } else {
+        result2.textContent = 'Cavab yanlışdır!';
+        result2.classList.add('p-fail');
+        result2.classList.remove('p-right');
+      }
+    });
+  </script>
+
+</body>
+
+</html>

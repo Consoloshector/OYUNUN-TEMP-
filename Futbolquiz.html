@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+</head>
+
+<style>
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+  
+  body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    background-image: url("071b2c257cf296ba7523b4c1aa66d799.jpg");
+     background-size: cover;
+ background-position: center;
+  }
+  
+  .main{
+    background-color: #FF7000;
+    display: flex;
+    
+  }
+  
+  .esas{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color:rgba(30, 30, 30,0.5);
+    gap: 10px;
+    padding: 10px 0;
+  }
+  
+  .sual{
+    background-color:#CDDE26;
+    width:99%;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 1.2rem;
+    padding: 10px;
+  }
+  
+  .cavabs{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+  
+  }
+  
+  .cavabs>div{
+     background-color:rgba(244, 162, 97, 1);
+     border-radius: 20px;
+     padding: 10px;
+     font-weight: 500;
+  }
+</style>
+
+<body>
+  
+    
+    <div class="esas">
+      
+      <div class="sual">
+        <span>Aşağıdakı futbolçulardan hansı rəsmi karyerası ərzində həm Şimali Amerikada, həm Cənubi Amerikada, həm də Avropada klublarda oynamışdır?</span>
+      </div>
+      
+      <div class="cavabs">
+        <div>
+          <span>A) Ronaldinho</span>
+        </div>
+        <div>
+          <span>B) Diego Maradona</span>
+        </div>
+        <div>
+         <span>C) Sebestián Abreu</span> 
+        </div>
+        <div>
+          <span>D) Zlatan İbrahimović</span>
+        </div>
+      </div>
+      
+    </div>
+    
+    <script>
+  const cavablar = document.querySelectorAll(".cavabs > div");
+  
+  cavablar.forEach((btn, index) => {
+    btn.addEventListener("click", () => {
+      const dogruIndex = 2; // 0-based: C variantı
+      
+      if (index === dogruIndex) {
+        alert("Doğru cavab: Sebastián Abreu\n\nHekayə:\nSebastián 'El Loco' Abreu Uruqvaylı hücumçudur və karyerası boyunca 30-dan çox klubda oynayıb, bu da onu FIFA tərəfindən ən çox klub dəyişmiş futbolçu kimi tanıdıb. O, Şimali Amerikada (Meksika və ABŞ), Cənubi Amerikada (Uruqvay, Argentina, Braziliya, Çili, Paraqvay və s.) və Avropada (İspaniya, Yunanıstan) çıxış edib.");
+      } else {
+        alert("Yanlış cavab! Zəhmət olmasa yenidən yoxla.");
+      }
+    });
+  });
+</script>
+  
+</body>
+
+</html>

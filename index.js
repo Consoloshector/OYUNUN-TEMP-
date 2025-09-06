@@ -1,17 +1,17 @@
 const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-            { oyun: 'Ukraniya - Fransa', saat: '22:45', 
-                link1: 'https://myfootball.top/11491855-ukraina-franciya-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-05092025-smotret-onlayn.html', 
-                link2: 'https://izleyintv-loanpaydayok-com.cdn.ampproject.org/c/s/izleyintv.loanpaydayok.com/2025/09/ukrayna-fransa-maci-canli-izle-05-eylul-2025.html/amp/?c=1' },
+            { oyun: 'Ermənistan - Portuqaliya', saat: '20:00', 
+                link1: 'https://ovogoaal.com/soccerstreams/armenia-vs-portugal/', 
+                link2: 'https://toddaymatch.blogspot.com/2025/08/hd-5.html' },
 
-            { oyun: 'İslandiya - Azərbaycan', saat: '22:45', 
+            { oyun: 'İngiltərə - Andorra', saat: '20:00', 
                 link1: 'https://www.canlitv.vin/cbcsport-canli-yayin', 
-                link2: 'https://myfootball.top/11491859-islandiya-azerbaydzhan-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-05092025-smotret-onlayn.html' },
+                link2: 'https://rotabettv356.com/mac/ingiltere-andorra-cbc-sport/' },
 
-            { oyun: 'İtaliya - Estoniya', saat: '22:45', 
-                link1: 'https://myfootball.top/11491853-italiya-estoniya-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-05092025-smotret-onlayn.html', 
-                link2: 'https://izleyintv-loanpaydayok-com.cdn.ampproject.org/c/s/izleyintv.loanpaydayok.com/2025/09/italya-estonya-maci-canli-izle-05-eylul-2025.html/amp/?c=1' }
+            { oyun: 'Nigeriya - Ruanda', saat: '20:00', 
+                link1: 'https://toddaymatch.blogspot.com/2025/08/hd-9.html', 
+                link2: 'https://toddaymatch.blogspot.com/2025/08/hd-9.html' }
         ];
 
         oyunlar.forEach(e => {

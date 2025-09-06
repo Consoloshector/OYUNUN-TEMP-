@@ -2,7 +2,7 @@ const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
             { oyun: 'Ermənistan - Portuqaliya', saat: '20:00', 
-                link1: 'https://ovogoaal.com/soccerstreams/armenia-vs-portugal/', 
+                link1: 'https://live.shoot-yalla.me/live/24265/1366286/armenia-vs-portugal', 
                 link2: 'https://toddaymatch.blogspot.com/2025/08/hd-5.html' },
 
             { oyun: 'İngiltərə - Andorra', saat: '20:00', 

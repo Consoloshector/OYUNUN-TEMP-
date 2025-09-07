@@ -1,17 +1,17 @@
 const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-            { oyun: 'Ermənistan - Portuqaliya', saat: '20:00', 
+            { oyun: 'Türkiyə - İspaniya', saat: '22:45', 
                 link1: 'https://live.shoot-yalla.me/live/24265/1366286/armenia-vs-portugal', 
                 link2: 'https://toddaymatch.blogspot.com/2025/08/hd-5.html' },
 
-            { oyun: 'İngiltərə - Andorra', saat: '20:00', 
+            { oyun: 'Almaniya - Ş. İrlandiya', saat: '22:45', 
                 link1: 'https://www.canlitv.vin/cbcsport-canli-yayin', 
                 link2: 'https://rotabettv356.com/mac/ingiltere-andorra-cbc-sport/' },
 
-            { oyun: 'Nigeriya - Ruanda', saat: '20:00', 
-                link1: 'https://toddaymatch.blogspot.com/2025/08/hd-9.html', 
-                link2: 'https://toddaymatch.blogspot.com/2025/08/hd-9.html' }
+            // { oyun: 'Nigeriya - Ruanda', saat: '20:00', 
+            //     link1: 'https://toddaymatch.blogspot.com/2025/08/hd-9.html', 
+            //     link2: 'https://toddaymatch.blogspot.com/2025/08/hd-9.html' }
         ];
 
         oyunlar.forEach(e => {

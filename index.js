@@ -2,12 +2,12 @@ const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
             { oyun: 'Türkiyə - İspaniya', saat: '22:45', 
-                link1: 'https://live.shoot-yalla.me/live/24265/1366286/armenia-vs-portugal', 
-                link2: 'https://toddaymatch.blogspot.com/2025/08/hd-5.html' },
+                link1: 'https://www.canlitv.vin/cbcsport-canli-yayin', 
+                link2: 'https://rotabettv356.com/mac/turkiye-ispanya-tv8/' },
 
             { oyun: 'Almaniya - Ş. İrlandiya', saat: '22:45', 
-                link1: 'https://www.canlitv.vin/cbcsport-canli-yayin', 
-                link2: 'https://rotabettv356.com/mac/ingiltere-andorra-cbc-sport/' },
+                link1: 'https://live.shoot-yalla.me/live/24279/1366288/germany-vs-northern-ireland', 
+                link2: 'https://www.footybite.is/Germany-vs-Northern-Ireland/51010' },
 
             // { oyun: 'Nigeriya - Ruanda', saat: '20:00', 
             //     link1: 'https://toddaymatch.blogspot.com/2025/08/hd-9.html', 

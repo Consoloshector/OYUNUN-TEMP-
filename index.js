@@ -15,7 +15,7 @@ const main = document.getElementsByClassName('main')[0];
 
                  { oyun: 'Serbiya - İngiltərə', saat: '22:45', 
                  link1: 'https://live.shoot-yalla.me/live/24319/1323310/serbia-vs-england', 
-                 link2: 'https://live.shoot-yalla.me/live/24319/1323310/serbia-vs-england' }',
+                 link2: 'https://live.shoot-yalla.me/live/24319/1323310/serbia-vs-england' },
 
                  { oyun: 'Ekvador - Argentina', saat: '03:00', 
                  link1: 'https://live.shoot-yalla.me/live/24325/1100320/ecuador-vs-argentina', 

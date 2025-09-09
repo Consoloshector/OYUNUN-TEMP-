@@ -1,17 +1,29 @@
 const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-            { oyun: 'İsrail - İtaliya', saat: '22:45', 
+                { oyun: 'Azərbaycan - Ukraniya', saat: '20:00', 
                 link1: 'https://www.canlitv.vin/cbcsport-canli-yayin', 
                 link2: 'https://tv.mobiltv.net/cbc-sport-canli' },
 
-            /*{ oyun: 'Almaniya - Ş. İrlandiya', saat: '22:45', 
-                link1: 'https://live.shoot-yalla.me/live/24279/1366288/germany-vs-northern-ireland', 
-                link2: 'https://www.footybite.is/Germany-vs-Northern-Ireland/51010' },*/
+                { oyun: 'Fransa - İslandiya', saat: '22:45', 
+                link1: 'https://www.canlitv.vin/cbcsport-canli-yayin', 
+                link2: 'https://tv.mobiltv.net/cbc-sport-canli' },
 
-            // { oyun: 'Nigeriya - Ruanda', saat: '20:00', 
-            //     link1: 'https://toddaymatch.blogspot.com/2025/08/hd-9.html', 
-            //     link2: 'https://toddaymatch.blogspot.com/2025/08/hd-9.html' }
+                 { oyun: 'Macarıstan - Portuqaliya', saat: '22:45', 
+                 link1: 'https://live.shoot-yalla.me/live/24318/1366294/hungary-vs-portugal', 
+                 link2: 'https://ovogoaal.com/soccerstreams/hungary-vs-portugal/' },
+
+                 { oyun: 'Serbiya - İngiltərə', saat: '22:45', 
+                 link1: 'https://live.shoot-yalla.me/live/24319/1323310/serbia-vs-england', 
+                 link2: 'https://live.shoot-yalla.me/live/24319/1323310/serbia-vs-england' }',
+
+                 { oyun: 'Ekvador - Argentina', saat: '03:00', 
+                 link1: 'https://live.shoot-yalla.me/live/24325/1100320/ecuador-vs-argentina', 
+                 link2: 'https://live.shoot-yalla.me/live/24325/1100320/ecuador-vs-argentina' },
+
+                { oyun: 'Boliviya - Braziliya', saat: '03:30', 
+                 link1: 'https://live.shoot-yalla.me/live/24326/1100318/bolivia-vs-brazil', 
+                 link2: 'https://live.shoot-yalla.me/live/24326/1100318/bolivia-vs-brazil' }
         ];
 
         oyunlar.forEach(e => {

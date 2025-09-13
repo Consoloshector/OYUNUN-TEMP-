@@ -5,7 +5,7 @@ const main = document.getElementsByClassName('main')[0];
                 link1: 'https://rotabettv357.com/mac/eyupspor-galatasaray-bein-sports-1/', 
                 link2: 'https://live.shoot-yalla.me/live/24389/1394470/ey%C3%BCpspor-vs-galatasaray' },
 
-                { oyun: 'Real Sociedad - Real Madrid', saat: '18:00', 
+                { oyun: 'Sociedad - Real Madrid', saat: '18:00', 
                 link1: 'https://www.canlitv.vin/idmantv-canli', 
                 link2: 'https://live.shoot-yalla.me/live/24376/1390857/real-sociedad-vs-real-madrid' },
 
@@ -13,7 +13,7 @@ const main = document.getElementsByClassName('main')[0];
                  link1: 'https://rotabettv357.com/mac/juventus-inter-tivibu-spor-1/', 
                  link2: 'https://rotabettv357.com/mac/juventus-inter-s-sport-2/' },
 
-                 { oyun: 'Bayern Munchen - Hamburg', saat: '20:30', 
+                 { oyun: 'Bayern - Hamburg', saat: '20:30', 
                  link1: 'https://rotabettv357.com/mac/bayern-munih-hamburg-tivibu-spor-2/', 
                  link2: 'https://live.shoot-yalla.me/live/24365/1388327/bayern-munich-vs-hamburger-sv' },
 

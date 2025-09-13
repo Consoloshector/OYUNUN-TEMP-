@@ -2,36 +2,36 @@ const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
                 { oyun: 'Eyüpspor - Galatasaray', saat: '18:00', 
-                link1: 'https://www.canlitv.vin/cbcsport-canli-yayin', 
-                link2: 'https://tv.mobiltv.net/cbc-sport-canli' },
+                link1: 'https://rotabettv357.com/mac/eyupspor-galatasaray-bein-sports-1/', 
+                link2: 'https://live.shoot-yalla.me/live/24389/1394470/ey%C3%BCpspor-vs-galatasaray' },
 
                 { oyun: 'Real Sociedad - Real Madrid', saat: '18:00', 
-                link1: 'https://www.canlitv.vin/cbcsport-canli-yayin', 
-                link2: 'https://tv.mobiltv.net/cbc-sport-canli' },
+                link1: 'https://www.canlitv.vin/idmantv-canli', 
+                link2: 'https://live.shoot-yalla.me/live/24376/1390857/real-sociedad-vs-real-madrid' },
 
                  { oyun: 'Juventus - Inter', saat: '20:00', 
-                 link1: 'https://live.shoot-yalla.me/live/24318/1366294/hungary-vs-portugal', 
-                 link2: 'https://ovogoaal.com/soccerstreams/hungary-vs-portugal/' },
+                 link1: 'https://rotabettv357.com/mac/juventus-inter-tivibu-spor-1/', 
+                 link2: 'https://rotabettv357.com/mac/juventus-inter-s-sport-2/' },
 
                  { oyun: 'Bayern Munchen - Hamburg', saat: '20:30', 
-                 link1: 'https://live.shoot-yalla.me/live/24319/1323310/serbia-vs-england', 
-                 link2: 'https://live.shoot-yalla.me/live/24319/1323310/serbia-vs-england' },
+                 link1: 'https://rotabettv357.com/mac/bayern-munih-hamburg-tivibu-spor-2/', 
+                 link2: 'https://live.shoot-yalla.me/live/24365/1388327/bayern-munich-vs-hamburger-sv' },
 
                  { oyun: 'Westham - Tottenham', saat: '20:30', 
-                 link1: 'https://live.shoot-yalla.me/live/24325/1100320/ecuador-vs-argentina', 
-                 link2: 'https://live.shoot-yalla.me/live/24325/1100320/ecuador-vs-argentina' },
+                 link1: 'https://rotabettv357.com/mac/west-ham-tottenham-bein-sports-3/', 
+                 link2: 'https://live.shoot-yalla.me/live/24356/1379008/west-ham-united-vs-tottenham' },
 
                 { oyun: 'Beşiktaş - Başakşehir', saat: '21:00', 
-                 link1: 'https://live.shoot-yalla.me/live/24326/1100318/bolivia-vs-brazil', 
-                 link2: 'https://live.shoot-yalla.me/live/24326/1100318/bolivia-vs-brazil' },
+                 link1: 'https://rotabettv357.com/mac/besiktas-rams-basaksehir-bein-sports-1/', 
+                 link2: 'https://live.shoot-yalla.me/live/24390/1394469/besiktas-vs-istanbul-basaksehir' },
 
                 { oyun: 'Fiorentina - Napoli', saat: '22:45', 
-                 link1: 'https://live.shoot-yalla.me/live/24326/1100318/bolivia-vs-brazil', 
-                 link2: 'https://live.shoot-yalla.me/live/24326/1100318/bolivia-vs-brazil' },
+                 link1: 'https://rotabettv357.com/mac/fiorentina-napoli-s-sport-2/', 
+                 link2: 'https://rotabettv357.com/mac/fiorentina-napoli-tivibu-spor-1/' },
 
                  { oyun: 'Brentford - Chelsea', saat: '23:00', 
-                 link1: 'https://live.shoot-yalla.me/live/24326/1100318/bolivia-vs-brazil', 
-                 link2: 'https://live.shoot-yalla.me/live/24326/1100318/bolivia-vs-brazil' }
+                 link1: 'https://rotabettv357.com/mac/brentford-chelsea-bein-sports-3/', 
+                 link2: 'https://live.shoot-yalla.me/live/24357/1379001/brentford-vs-chelsea' }
         ];
 
         oyunlar.forEach(e => {

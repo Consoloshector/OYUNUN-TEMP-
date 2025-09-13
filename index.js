@@ -18,8 +18,8 @@ const main = document.getElementsByClassName('main')[0];
                  link2: 'https://live.shoot-yalla.me/live/24365/1388327/bayern-munich-vs-hamburger-sv' },
 
                  { oyun: 'Westham - Tottenham', saat: '20:30', 
-                 link1: 'https://joybet117.cam/Watch/M546334', 
-                 link2: 'https://ovogoaal.com/soccerstreams/west-ham-vs-tottenham/' },
+                 link1: 'https://24taraftarium.xyz/channel?id=yayinb3', 
+                 link2: 'https://myfootball.life/11493706-vest-hem-yunayted-tottenhem-pryamaya-translyaciya-angliya-premer-liga-13092025-smotret-onlayn.html' },
 
                 { oyun: 'Beşiktaş - Başakşehir', saat: '21:00', 
                  link1: 'https://rotabettv357.com/mac/besiktas-rams-basaksehir-bein-sports-1/', 

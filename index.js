@@ -2,24 +2,24 @@ const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
                 { oyun: 'Burnley - Liverpool', saat: '17:00', 
-                link1: 'https://rotabettv357.com/mac/eyupspor-galatasaray-bein-sports-1/', 
-                link2: 'https://live.shoot-yalla.me/live/24389/1394470/ey%C3%BCpspor-vs-galatasaray' },
+                link1: 'https://myfootball.life/11493708-bernli-liverpul-pryamaya-translyaciya-angliya-premer-liga-14092025-smotret-onlayn.html', 
+                link2: 'https://rotabettv357.com/mac/burnley-liverpool-bein-sports-3/' },
 
                 { oyun: 'PSG - Lens', saat: '19:15', 
-                link1: 'https://www.canlitv.vin/idmantv-canli', 
-                link2: 'https://live.shoot-yalla.me/live/24376/1390857/real-sociedad-vs-real-madrid' },
+                link1: 'https://myfootball.life/11493605-pszh-lans-pryamaya-translyaciya-franciya-liga-1-14092025-smotret-onlayn.html', 
+                link2: 'https://rotabettv357.com/mac/psg-lens-bein-sports-5/' },
 
                  { oyun: 'Man City - Man United', saat: '19:30', 
-                 link1: 'https://rotabettv357.com/mac/juventus-inter-tivibu-spor-1/', 
-                 link2: 'https://rotabettv357.com/mac/juventus-inter-s-sport-2/' },
+                 link1: 'https://www.canlitv.vin/idmantv-canli', 
+                 link2: 'https://myfootball.life/11493709-manchester-siti-manchester-yun-pryamaya-translyaciya-angliya-premer-liga-14092025-smotret-onlayn.html' },
 
                  { oyun: 'Fenerbahçe - Trabzonspor', saat: '20:00', 
-                 link1: 'https://rotabettv357.com/mac/bayern-munih-hamburg-tivibu-spor-2/', 
-                 link2: 'https://live.shoot-yalla.me/live/24365/1388327/bayern-munich-vs-hamburger-sv' },
+                 link1: 'https://myfootball.life/11493684-fenerbahche-trabzonspor-pryamaya-translyaciya-turciya-superliga-14092025-smotret-onlayn.html', 
+                 link2: 'https://rotabettv357.com/mac/fenerbahce-trabzonspor-bein-sports-1/' },
 
                  { oyun: 'Barcelona - Valencia', saat: '23:00', 
-                 link1: 'https://24taraftarium.xyz/channel?id=yayinb3', 
-                 link2: 'https://myfootball.life/11493706-vest-hem-yunayted-tottenhem-pryamaya-translyaciya-angliya-premer-liga-13092025-smotret-onlayn.html' },
+                 link1: 'https://www.canlitv.vin/idmantv-canli', 
+                 link2: 'https://myfootball.life/11493740-barselona-valensiya-pryamaya-translyaciya-ispaniya-primera-divizion-14092025-smotret-onlayn.html' },
 
                 /*{ oyun: 'Beşiktaş - Başakşehir', saat: '21:00', 
                  link1: 'https://rotabettv357.com/mac/besiktas-rams-basaksehir-bein-sports-1/', 

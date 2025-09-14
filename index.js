@@ -13,7 +13,7 @@ const main = document.getElementsByClassName('main')[0];
                  link1: 'https://www.canlitv.vin/idmantv-canli', 
                  link2: 'https://myfootball.life/11493709-manchester-siti-manchester-yun-pryamaya-translyaciya-angliya-premer-liga-14092025-smotret-onlayn.html' },
 
-                 { oyun: 'Fenerbahçe - Trabzonspor', saat: '20:00', 
+                 { oyun: 'Fenerbahçe - Trabzon', saat: '20:00', 
                  link1: 'https://myfootball.life/11493684-fenerbahche-trabzonspor-pryamaya-translyaciya-turciya-superliga-14092025-smotret-onlayn.html', 
                  link2: 'https://rotabettv357.com/mac/fenerbahce-trabzonspor-bein-sports-1/' },
 

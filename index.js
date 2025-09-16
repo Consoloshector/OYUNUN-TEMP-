@@ -2,16 +2,16 @@ const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
                 { oyun: 'Benifica - Qarabağ', saat: '23:00', 
-                link1: 'https://myfootball.life/11493708-bernli-liverpul-pryamaya-translyaciya-angliya-premer-liga-14092025-smotret-onlayn.html', 
-                link2: 'https://rotabettv357.com/mac/burnley-liverpool-bein-sports-3/' },
+                link1: 'https://www.canlitv.me/live/ictimaitv-canli-hd', 
+                link2: 'https://rotabettv358.com/mac/benfica-karabag-tabii-spor-2/' },
 
                 { oyun: 'Real Madrid - Marseille', saat: '23:00', 
-                link1: 'https://myfootball.life/11493605-pszh-lans-pryamaya-translyaciya-franciya-liga-1-14092025-smotret-onlayn.html', 
-                link2: 'https://rotabettv357.com/mac/psg-lens-bein-sports-5/' },
+                link1: 'https://myfootball.life/11494807-real-madrid-marsel-pryamaya-translyaciya-liga-chempionov-16092025-smotret-onlayn.html', 
+                link2: 'https://rotabettv358.com/mac/real-madrid-marsilya-tabii-spor/' },
 
                  { oyun: 'Tottenham - Villareal', saat: '23:00', 
-                 link1: 'https://www.canlitv.vin/idmantv-canli', 
-                 link2: 'https://myfootball.life/11493709-manchester-siti-manchester-yun-pryamaya-translyaciya-angliya-premer-liga-14092025-smotret-onlayn.html' },
+                 link1: 'https://myfootball.life/11494804-tottenhem-vilyarreal-pryamaya-translyaciya-liga-chempionov-16092025-smotret-onlayn.html', 
+                 link2: 'https://rotabettv358.com/mac/tottenham-villarreal-trt-spor/' },
 
                  // { oyun: 'Fenerbahçe - Trabzon', saat: '20:00', 
                  // link1: 'https://myfootball.life/11493684-fenerbahche-trabzonspor-pryamaya-translyaciya-turciya-superliga-14092025-smotret-onlayn.html', 

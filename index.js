@@ -1,25 +1,25 @@
 const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: 'Benifica - Qarabağ', saat: '23:00', 
-                link1: 'https://www.canlitv.me/live/ictimaitv-canli-hd', 
-                link2: 'https://rotabettv358.com/mac/benfica-karabag-tabii-spor-2/' },
+                { oyun: ' Fenerbahçe - Alanyaspor', saat: '21:00', 
+                link1: 'https://myfootball.life/11494823-fenerbahche-alanyaspor-pryamaya-translyaciya-turciya-superliga-17092025-smotret-onlayn.html', 
+                link2: 'https://rotabettv358.com/mac/fenerbahce-alanyaspor-bein-sports-1/' },
 
-                { oyun: 'Real Madrid - Marseille', saat: '23:00', 
-                link1: 'https://myfootball.life/11494807-real-madrid-marsel-pryamaya-translyaciya-liga-chempionov-16092025-smotret-onlayn.html', 
-                link2: 'https://rotabettv358.com/mac/real-madrid-marsilya-tabii-spor/' },
+                { oyun: 'Al Nassr - İstiklol', saat: '22:15', 
+                link1: 'https://live.shoot-yalla.me/live/24466/1438576/al-nassr-vs-istiqlol', 
+                link2: 'https://live.shoot-yalla.me/live/24466/1438576/al-nassr-vs-istiqlol' },
 
-                 { oyun: 'Tottenham - Villareal', saat: '23:00', 
-                 link1: 'https://myfootball.life/11494804-tottenhem-vilyarreal-pryamaya-translyaciya-liga-chempionov-16092025-smotret-onlayn.html', 
-                 link2: 'https://rotabettv358.com/mac/tottenham-villarreal-trt-spor/' },
+                 { oyun: ' Bayern - Chelsea ', saat: '23:00', 
+                 link1: 'https://myfootball.life/11494829-bavariya-chelsi-pryamaya-translyaciya-liga-chempionov-17092025-smotret-onlayn.html', 
+                 link2: 'https://live.shoot-yalla.me/live/24461/1451031/bayern-munich-vs-chelsea' },
 
-                 // { oyun: 'Fenerbahçe - Trabzon', saat: '20:00', 
-                 // link1: 'https://myfootball.life/11493684-fenerbahche-trabzonspor-pryamaya-translyaciya-turciya-superliga-14092025-smotret-onlayn.html', 
-                 // link2: 'https://rotabettv357.com/mac/fenerbahce-trabzonspor-bein-sports-1/' },
+                 { oyun: ' Liverpool - Atletico Madrid', saat: '23:00', 
+                 link1: 'https://www.canlitv.me/live/ictimaitv-canli-hd', 
+                 link2: 'https://myfootball.life/11494827-liverpul-atletiko-madrid-pryamaya-translyaciya-liga-chempionov-17092025-smotret-onlayn.html' },
 
-                 // { oyun: 'Barcelona - Valencia', saat: '23:00', 
-                 // link1: 'https://www.canlitv.vin/idmantv-canli', 
-                 // link2: 'https://myfootball.life/11493740-barselona-valensiya-pryamaya-translyaciya-ispaniya-primera-divizion-14092025-smotret-onlayn.html' },
+                 { oyun: ' PSG - Atalanta ', saat: '23:00', 
+                  link1: 'https://myfootball.life/11494826-pszh-atalanta-pryamaya-translyaciya-liga-chempionov-17092025-smotret-onlayn.html', 
+                  link2: 'https://live.shoot-yalla.me/live/24464/1451029/paris-saint-germain-vs-atalanta' },
 
                 /*{ oyun: 'Beşiktaş - Başakşehir', saat: '21:00', 
                  link1: 'https://rotabettv357.com/mac/besiktas-rams-basaksehir-bein-sports-1/', 

@@ -10,7 +10,7 @@ const main = document.getElementsByClassName('main')[0];
                 link2: 'https://myfootball.life/11495428-hoffenhaym-bavariya-pryamaya-translyaciya-germaniya-bundesliga-20092025-smotret-onlayn.html' },
 
                  { oyun: 'Brighton - Tottenham', saat: '18:00', 
-                 link1: 'https://myfootball.life/11494846-nyukasl-yunayted-barselona-pryamaya-translyaciya-liga-chempionov-18092025-smotret-onlayn.html', 
+                 link1: 'https://joybet117.cam/Watch/M460754', 
                  link2: 'https://ovogoaal.com/soccerstreams/brighton-vs-tottenham/' },
 
                  { oyun: 'Real Madrid - Espanyol', saat: '18:15', 

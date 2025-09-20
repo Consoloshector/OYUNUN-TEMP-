@@ -2,24 +2,24 @@ const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
                 { oyun: 'Liverpool - Everton', saat: '15:30', 
-                link1: 'https://myfootball.life/11494844-ayntraht-galatasaray-pryamaya-translyaciya-liga-chempionov-18092025-smotret-onlayn.html', 
-                link2: 'https://www.canlitv.me/live/ictimaitv-canli-hd' },
+                link1: 'https://myfootball.life/11495422-liverpul-everton-pryamaya-translyaciya-angliya-premer-liga-20092025-smotret-onlayn.html', 
+                link2: 'https://live.shoot-yalla.me/live/24506/1379014/liverpool-vs-everton' },
 
                 { oyun: 'Hoffenheim - Bayern', saat: '17:30', 
-                link1: 'https://myfootball.life/11494845-manchester-siti-napoli-pryamaya-translyaciya-liga-chempionov-18092025-smotret-onlayn.html', 
-                link2: 'https://tv.mobiltv.net/cbc-sport-canli' },
+                link1: 'https://rotabettv359.com/mac/hoffenheim-bayern-munih-tivibu-spor-2/', 
+                link2: 'https://myfootball.life/11495428-hoffenhaym-bavariya-pryamaya-translyaciya-germaniya-bundesliga-20092025-smotret-onlayn.html' },
 
                  { oyun: 'Brighton - Tottenham', saat: '18:00', 
                  link1: 'https://myfootball.life/11494846-nyukasl-yunayted-barselona-pryamaya-translyaciya-liga-chempionov-18092025-smotret-onlayn.html', 
-                 link2: 'https://rotabettv359.com/mac/newcastle-barcelona-tabii-spor/' },
+                 link2: 'https://ovogoaal.com/soccerstreams/brighton-vs-tottenham/' },
 
                  { oyun: 'Real Madrid - Espanyol', saat: '18:15', 
-                 link1: 'https://www.canlitv.me/live/ictimaitv-canli-hd', 
-                 link2: 'https://myfootball.life/11494827-liverpul-atletiko-madrid-pryamaya-translyaciya-liga-chempionov-17092025-smotret-onlayn.html' },
+                 link1: 'https://myfootball.life/11495444-real-madrid-espanol-pryamaya-translyaciya-ispaniya-primera-divizion-20092025-smotret-onlayn.html', 
+                 link2: 'https://rotabettv359.com/mac/real-madrid-espanyol-idman-tv/' },
 
                  { oyun: 'Man United - Chelsea', saat: '20:30', 
-                  link1: 'https://myfootball.life/11494826-pszh-atalanta-pryamaya-translyaciya-liga-chempionov-17092025-smotret-onlayn.html', 
-                  link2: 'https://live.shoot-yalla.me/live/24464/1451029/paris-saint-germain-vs-atalanta' },
+                  link1: 'https://rotabettv359.com/mac/manchester-utd-chelsea-bein-sports-3/', 
+                  link2: 'https://rotabettv359.com/mac/manchester-utd-chelsea-idman-tv/' },
 
                 /*{ oyun: 'Beşiktaş - Başakşehir', saat: '21:00', 
                  link1: 'https://rotabettv357.com/mac/besiktas-rams-basaksehir-bein-sports-1/', 

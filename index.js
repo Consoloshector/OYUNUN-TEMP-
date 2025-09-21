@@ -1,25 +1,25 @@
 const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: 'Liverpool - Everton', saat: '15:30', 
-                link1: 'https://myfootball.life/11495422-liverpul-everton-pryamaya-translyaciya-angliya-premer-liga-20092025-smotret-onlayn.html', 
-                link2: 'https://live.shoot-yalla.me/live/24506/1379014/liverpool-vs-everton' },
+                { oyun: 'Arsenal - Man City', saat: '19:30', 
+                link1: 'https://idmantv.az/az', 
+                link2: 'https://myfootball.life/11495524-arsenal-manchester-siti-pryamaya-translyaciya-angliya-premer-liga-21092025-smotret-onlayn.html' },
 
-                { oyun: 'Hoffenheim - Bayern', saat: '17:30', 
-                link1: 'https://rotabettv359.com/mac/hoffenheim-bayern-munih-tivibu-spor-2/', 
-                link2: 'https://myfootball.life/11495428-hoffenhaym-bavariya-pryamaya-translyaciya-germaniya-bundesliga-20092025-smotret-onlayn.html' },
+                { oyun: 'Kasımpaşa - Fenerbahçe', saat: '21:00', 
+                  link1: 'https://rotabettv360.com/mac/kasimpasa-fenerbahce-bein-sports-1/', 
+                  link2: 'https://myfootball.life/11495530-kasympasha-fenerbahche-pryamaya-translyaciya-turciya-superliga-21092025-smotret-onlayn.html' },
+                 
+                { oyun: 'Marseille - PSG', saat: '22:45', 
+                link1: 'https://ovogoaal.com/soccerstreams/olympique-marseille-vs-psg/',
+                link2: 'https://myfootball.life/11495535-marsel-pszh-pryamaya-translyaciya-franciya-liga-1-21092025-smotret-onlayn.html'},
 
-                 { oyun: 'Brighton - Tottenham', saat: '18:00', 
-                 link1: 'https://joybet117.cam/Watch/M460754', 
-                 link2: 'https://ovogoaal.com/soccerstreams/brighton-vs-tottenham/' },
+                 { oyun: 'Barcelona - Getafe', saat: '23:30', 
+                 link1: 'https://idmantv.az/az', 
+                 link2: 'https://myfootball.life/11495538-barselona-hetafe-pryamaya-translyaciya-ispaniya-primera-divizion-21092025-smotret-onlayn.html' },
 
-                 { oyun: 'Real Madrid - Espanyol', saat: '18:15', 
-                 link1: 'https://myfootball.life/11495444-real-madrid-espanol-pryamaya-translyaciya-ispaniya-primera-divizion-20092025-smotret-onlayn.html', 
-                 link2: 'https://rotabettv359.com/mac/real-madrid-espanyol-idman-tv/' },
-
-                 { oyun: 'Man United - Chelsea', saat: '20:30', 
-                  link1: 'https://rotabettv359.com/mac/manchester-utd-chelsea-bein-sports-3/', 
-                  link2: 'https://rotabettv359.com/mac/manchester-utd-chelsea-idman-tv/' },
+                 // { oyun: 'Man United - Chelsea', saat: '20:30', 
+                 //  link1: 'https://rotabettv359.com/mac/manchester-utd-chelsea-bein-sports-3/', 
+                 //  link2: 'https://rotabettv359.com/mac/manchester-utd-chelsea-idman-tv/' },
 
                 /*{ oyun: 'Beşiktaş - Başakşehir', saat: '21:00', 
                  link1: 'https://rotabettv357.com/mac/besiktas-rams-basaksehir-bein-sports-1/', 

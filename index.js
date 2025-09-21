@@ -2,7 +2,7 @@ const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
                 { oyun: 'Arsenal - Man City', saat: '19:30', 
-                link1: 'https://idmantv.az/az', 
+                link1: 'https://www.canlitv.vin/idmantv-canli', 
                 link2: 'https://myfootball.life/11495524-arsenal-manchester-siti-pryamaya-translyaciya-angliya-premer-liga-21092025-smotret-onlayn.html' },
 
                 { oyun: 'Kasımpaşa - Fenerbahçe', saat: '21:00', 
@@ -14,7 +14,7 @@ const main = document.getElementsByClassName('main')[0];
                 link2: 'https://myfootball.life/11495535-marsel-pszh-pryamaya-translyaciya-franciya-liga-1-21092025-smotret-onlayn.html'},
 
                  { oyun: 'Barcelona - Getafe', saat: '23:30', 
-                 link1: 'https://idmantv.az/az', 
+                 link1: 'https://www.canlitv.vin/idmantv-canli', 
                  link2: 'https://myfootball.life/11495538-barselona-hetafe-pryamaya-translyaciya-ispaniya-primera-divizion-21092025-smotret-onlayn.html' },
 
                  // { oyun: 'Man United - Chelsea', saat: '20:30', 

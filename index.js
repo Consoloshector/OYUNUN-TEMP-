@@ -10,8 +10,8 @@ const main = document.getElementsByClassName('main')[0];
                   link2: 'https://myfootball.life/11495535-marsel-pszh-pryamaya-translyaciya-franciya-liga-1-21092025-smotret-onlayn.html' },
                  
                 { oyun: 'Ballon Dor mərasimi', saat: '23:00', 
-                link1: 'https://www.shoot-yalla.me/live/24580/1/fifa-ballon-or-2025-vs-fifa-ballon-or-2025',
-                link2: 'https://myfootball.life/11496456-translyaciya-ceremonii-vrucheniya-zolotogo-myacha-2025.html'},
+                link1: 'https://myfootball.life/11496456-translyaciya-ceremonii-vrucheniya-zolotogo-myacha-2025.html',
+                link2: 'https://www.shoot-yalla.me/live/24580/1/fifa-ballon-or-2025-vs-fifa-ballon-or-2025'},
 
                  // { oyun: 'Barcelona - Getafe', saat: '23:30', 
                  // link1: 'https://www.canlitv.vin/idmantv-canli', 

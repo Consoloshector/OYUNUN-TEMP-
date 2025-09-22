@@ -1,21 +1,21 @@
 const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: 'Arsenal - Man City', saat: '19:30', 
+                { oyun: 'Galatasaray - Konyaspor', saat: '21:00', 
                 link1: 'https://www.canlitv.vin/idmantv-canli', 
                 link2: 'https://myfootball.life/11495524-arsenal-manchester-siti-pryamaya-translyaciya-angliya-premer-liga-21092025-smotret-onlayn.html' },
 
-                { oyun: 'Kasımpaşa - Fenerbahçe', saat: '21:00', 
+                { oyun: 'Marseille - PSG', saat: '22:00', 
                   link1: 'https://rotabettv360.com/mac/kasimpasa-fenerbahce-bein-sports-1/', 
                   link2: 'https://myfootball.life/11495530-kasympasha-fenerbahche-pryamaya-translyaciya-turciya-superliga-21092025-smotret-onlayn.html' },
                  
-               /* { oyun: 'Marseille - PSG', saat: '22:45', 
+                { oyun: 'Ballon Dor mərasimi', saat: '22:00', 
                 link1: 'https://ovogoaal.com/soccerstreams/olympique-marseille-vs-psg/',
-                link2: 'https://myfootball.life/11495535-marsel-pszh-pryamaya-translyaciya-franciya-liga-1-21092025-smotret-onlayn.html'},*/
+                link2: 'https://myfootball.life/11495535-marsel-pszh-pryamaya-translyaciya-franciya-liga-1-21092025-smotret-onlayn.html'},
 
-                 { oyun: 'Barcelona - Getafe', saat: '23:30', 
-                 link1: 'https://www.canlitv.vin/idmantv-canli', 
-                 link2: 'https://myfootball.life/11495538-barselona-hetafe-pryamaya-translyaciya-ispaniya-primera-divizion-21092025-smotret-onlayn.html' },
+                 // { oyun: 'Barcelona - Getafe', saat: '23:30', 
+                 // link1: 'https://www.canlitv.vin/idmantv-canli', 
+                 // link2: 'https://myfootball.life/11495538-barselona-hetafe-pryamaya-translyaciya-ispaniya-primera-divizion-21092025-smotret-onlayn.html' },
 
                  // { oyun: 'Man United - Chelsea', saat: '20:30', 
                  //  link1: 'https://rotabettv359.com/mac/manchester-utd-chelsea-bein-sports-3/', 

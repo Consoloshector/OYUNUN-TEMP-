@@ -2,8 +2,8 @@ const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
                 { oyun: 'Galatasaray - Konyaspor', saat: '21:00', 
-                link1: 'https://www.canlitv.vin/idmantv-canli', 
-                link2: 'https://myfootball.life/11495524-arsenal-manchester-siti-pryamaya-translyaciya-angliya-premer-liga-21092025-smotret-onlayn.html' },
+                link1: 'https://rotabettv360.com/mac/galatasaray-konyaspor-bein-sports-1/', 
+                link2: 'https://myfootball.life/11495553-galatasaray-konyaspor-pryamaya-translyaciya-turciya-superliga-22092025-smotret-onlayn.html' },
 
                 { oyun: 'Marseille - PSG', saat: '22:00', 
                   link1: 'https://rotabettv360.com/mac/kasimpasa-fenerbahce-bein-sports-1/', 

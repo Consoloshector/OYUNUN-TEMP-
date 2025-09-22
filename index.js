@@ -6,12 +6,12 @@ const main = document.getElementsByClassName('main')[0];
                 link2: 'https://myfootball.life/11495553-galatasaray-konyaspor-pryamaya-translyaciya-turciya-superliga-22092025-smotret-onlayn.html' },
 
                 { oyun: 'Marseille - PSG', saat: '22:00', 
-                  link1: 'https://rotabettv360.com/mac/kasimpasa-fenerbahce-bein-sports-1/', 
-                  link2: 'https://myfootball.life/11495530-kasympasha-fenerbahche-pryamaya-translyaciya-turciya-superliga-21092025-smotret-onlayn.html' },
+                  link1: 'https://myfootball.life/11495535-marsel-pszh-pryamaya-translyaciya-franciya-liga-1-21092025-smotret-onlayn.html', 
+                  link2: 'https://myfootball.life/11495535-marsel-pszh-pryamaya-translyaciya-franciya-liga-1-21092025-smotret-onlayn.html' },
                  
                 { oyun: 'Ballon Dor mərasimi', saat: '22:00', 
-                link1: 'https://ovogoaal.com/soccerstreams/olympique-marseille-vs-psg/',
-                link2: 'https://myfootball.life/11495535-marsel-pszh-pryamaya-translyaciya-franciya-liga-1-21092025-smotret-onlayn.html'},
+                link1: 'https://myfootball.life/11496456-translyaciya-ceremonii-vrucheniya-zolotogo-myacha-2025.html',
+                link2: 'https://myfootball.life/11496456-translyaciya-ceremonii-vrucheniya-zolotogo-myacha-2025.html'},
 
                  // { oyun: 'Barcelona - Getafe', saat: '23:30', 
                  // link1: 'https://www.canlitv.vin/idmantv-canli', 

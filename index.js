@@ -1,17 +1,17 @@
 const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: 'Galatasaray - Konyaspor', saat: '21:00', 
-                link1: 'https://rotabettv360.com/mac/galatasaray-konyaspor-bein-sports-1/', 
-                link2: 'https://myfootball.life/11495553-galatasaray-konyaspor-pryamaya-translyaciya-turciya-superliga-22092025-smotret-onlayn.html' },
+                { oyun: 'Lincoln City - Chelsea', saat: '22:45', 
+                link1: 'https://ovogoaal.com/soccerstreams/lincoln-city-vs-chelsea/', 
+                link2: 'https://myfootball.life/11496322-linkoln-siti-chelsi-pryamaya-translyaciya-angliya-kubok-ligi-23092025-smotret-onlayn.html' },
 
-                { oyun: 'Marseille - PSG', saat: '22:00', 
-                  link1: 'https://myfootball.life/11495535-marsel-pszh-pryamaya-translyaciya-franciya-liga-1-21092025-smotret-onlayn.html', 
-                  link2: 'https://myfootball.life/11495535-marsel-pszh-pryamaya-translyaciya-franciya-liga-1-21092025-smotret-onlayn.html' },
+                { oyun: 'Liverpool - Southampton', saat: '23:00', 
+                  link1: 'https://ovogoaal.com/soccerstreams/liverpool-vs-southampton/', 
+                  link2: 'https://myfootball.life/11496325-liverpul-sautgempton-pryamaya-translyaciya-angliya-kubok-ligi-23092025-smotret-onlayn.html' },
                  
-                { oyun: 'Ballon dOr mərasimi', saat: '23:00', 
-                link1: 'https://myfootball.life/11496456-translyaciya-ceremonii-vrucheniya-zolotogo-myacha-2025.html',
-                link2: 'https://www.shoot-yalla.me/live/24580/1/fifa-ballon-or-2025-vs-fifa-ballon-or-2025'},
+                { oyun: 'Levante - Real Madrid', saat: '23:30', 
+                link1: 'https://www.canlitv.vin/idmantv-canli',
+                link2: 'https://myfootball.life/11496329-levante-real-madrid-pryamaya-translyaciya-ispaniya-primera-divizion-23092025-smotret-onlayn.html'},
 
                  // { oyun: 'Barcelona - Getafe', saat: '23:30', 
                  // link1: 'https://www.canlitv.vin/idmantv-canli', 

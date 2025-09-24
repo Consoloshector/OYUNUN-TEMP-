@@ -2,20 +2,20 @@ const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
                 { oyun: 'Kayserispor - Beşiktaş', saat: '21:00', 
-                link1: 'https://ovogoaal.com/soccerstreams/lincoln-city-vs-chelsea/', 
-                link2: 'https://myfootball.life/11496322-linkoln-siti-chelsi-pryamaya-translyaciya-angliya-kubok-ligi-23092025-smotret-onlayn.html' },
+                link1: 'https://rotabettv360.com/mac/kayserispor-besiktas-bein-sports-1/', 
+                link2: 'https://myfootball.life/11496338-kayserispor-beshiktash-pryamaya-translyaciya-turciya-superliga-24092025-smotret-onlayn.html' },
 
                 { oyun: 'Huddersfield - Man City', saat: '22:45', 
-                  link1: 'https://ovogoaal.com/soccerstreams/liverpool-vs-southampton/', 
-                  link2: 'https://myfootball.life/11496325-liverpul-sautgempton-pryamaya-translyaciya-angliya-kubok-ligi-23092025-smotret-onlayn.html' },
+                  link1: 'https://ovogoaal.com/soccerstreams/huddersfield-vs-man-city/', 
+                  link2: 'https://myfootball.life/11496344-haddersfild-manchester-siti-pryamaya-translyaciya-angliya-kubok-ligi-24092025-smotret-onlayn.html' },
                  
                 { oyun: 'Port Vale - Arsenal', saat: '23:00', 
-                link1: 'https://www.canlitv.vin/idmantv-canli',
-                link2: 'https://myfootball.life/11496329-levante-real-madrid-pryamaya-translyaciya-ispaniya-primera-divizion-23092025-smotret-onlayn.html'},
+                link1: 'https://www.shoot-yalla.me/live/24606/1457283/port-vale-vs-arsenal',
+                link2: 'https://myfootball.life/11496345-port-veyl-arsenal-pryamaya-translyaciya-angliya-kubok-ligi-24092025-smotret-onlayn.html'},
 
                  { oyun: 'Dinamo Zagreb - Fenerbahçe', saat: '23:00', 
-                 link1: 'https://www.canlitv.vin/idmantv-canli', 
-                 link2: 'https://myfootball.life/11495538-barselona-hetafe-pryamaya-translyaciya-ispaniya-primera-divizion-21092025-smotret-onlayn.html' },
+                 link1: 'https://rotabettv360.com/mac/dinamo-zagreb-fenerbahce-trt-1/', 
+                 link2: 'https://myfootball.life/11496349-dinamo-zagreb-fenerbahche-pryamaya-translyaciya-liga-evropy-24092025-smotret-onlayn.html' },
 
                  // { oyun: 'Man United - Chelsea', saat: '20:30', 
                  //  link1: 'https://rotabettv359.com/mac/manchester-utd-chelsea-bein-sports-3/', 

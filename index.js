@@ -1,21 +1,21 @@
 const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: 'Lincoln City - Chelsea', saat: '22:45', 
+                { oyun: 'Kayserispor - Beşiktaş', saat: '21:00', 
                 link1: 'https://ovogoaal.com/soccerstreams/lincoln-city-vs-chelsea/', 
                 link2: 'https://myfootball.life/11496322-linkoln-siti-chelsi-pryamaya-translyaciya-angliya-kubok-ligi-23092025-smotret-onlayn.html' },
 
-                { oyun: 'Liverpool - Southampton', saat: '23:00', 
+                { oyun: 'Huddersfield - Man City', saat: '22:45', 
                   link1: 'https://ovogoaal.com/soccerstreams/liverpool-vs-southampton/', 
                   link2: 'https://myfootball.life/11496325-liverpul-sautgempton-pryamaya-translyaciya-angliya-kubok-ligi-23092025-smotret-onlayn.html' },
                  
-                { oyun: 'Levante - Real Madrid', saat: '23:30', 
+                { oyun: 'Port Vale - Arsenal', saat: '23:00', 
                 link1: 'https://www.canlitv.vin/idmantv-canli',
                 link2: 'https://myfootball.life/11496329-levante-real-madrid-pryamaya-translyaciya-ispaniya-primera-divizion-23092025-smotret-onlayn.html'},
 
-                 // { oyun: 'Barcelona - Getafe', saat: '23:30', 
-                 // link1: 'https://www.canlitv.vin/idmantv-canli', 
-                 // link2: 'https://myfootball.life/11495538-barselona-hetafe-pryamaya-translyaciya-ispaniya-primera-divizion-21092025-smotret-onlayn.html' },
+                 { oyun: 'Dinamo Zagreb - Fenerbahçe', saat: '23:00', 
+                 link1: 'https://www.canlitv.vin/idmantv-canli', 
+                 link2: 'https://myfootball.life/11495538-barselona-hetafe-pryamaya-translyaciya-ispaniya-primera-divizion-21092025-smotret-onlayn.html' },
 
                  // { oyun: 'Man United - Chelsea', saat: '20:30', 
                  //  link1: 'https://rotabettv359.com/mac/manchester-utd-chelsea-bein-sports-3/', 

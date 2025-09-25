@@ -1,7 +1,7 @@
 const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: 'Oviedo - Barcelona', saat: '23:00', 
+                { oyun: 'Oviedo - Barcelona', saat: '23:30', 
                 link1: 'https://www.canlitv.vin/idmantv-canli', 
                 link2: 'https://myfootball.life/11496382-real-ovedo-barselona-pryamaya-translyaciya-ispaniya-primera-divizion-25092025-smotret-onlayn.html' },
 

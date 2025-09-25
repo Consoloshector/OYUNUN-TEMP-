@@ -1,11 +1,11 @@
 const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: 'Kayserispor - Beşiktaş', saat: '21:00', 
-                link1: 'https://rotabettv360.com/mac/kayserispor-besiktas-bein-sports-1/', 
-                link2: 'https://myfootball.life/11496338-kayserispor-beshiktash-pryamaya-translyaciya-turciya-superliga-24092025-smotret-onlayn.html' },
+                { oyun: 'Oviedo - Barcelona', saat: '23:00', 
+                link1: 'https://www.canlitv.vin/idmantv-canli', 
+                link2: 'https://myfootball.life/11496382-real-ovedo-barselona-pryamaya-translyaciya-ispaniya-primera-divizion-25092025-smotret-onlayn.html' },
 
-                { oyun: 'Huddersfield - Man City', saat: '22:45', 
+               /* { oyun: 'Huddersfield - Man City', saat: '22:45', 
                   link1: 'https://ovogoaal.com/soccerstreams/huddersfield-vs-man-city/', 
                   link2: 'https://myfootball.life/11496344-haddersfild-manchester-siti-pryamaya-translyaciya-angliya-kubok-ligi-24092025-smotret-onlayn.html' },
                  
@@ -15,7 +15,7 @@ const main = document.getElementsByClassName('main')[0];
 
                  { oyun: 'Dinamo Zagreb - Fenerbahçe', saat: '23:00', 
                  link1: 'https://rotabettv360.com/mac/dinamo-zagreb-fenerbahce-trt-1/', 
-                 link2: 'https://myfootball.life/11496349-dinamo-zagreb-fenerbahche-pryamaya-translyaciya-liga-evropy-24092025-smotret-onlayn.html' },
+                 link2: 'https://myfootball.life/11496349-dinamo-zagreb-fenerbahche-pryamaya-translyaciya-liga-evropy-24092025-smotret-onlayn.html' },*/
 
                  // { oyun: 'Man United - Chelsea', saat: '20:30', 
                  //  link1: 'https://rotabettv359.com/mac/manchester-utd-chelsea-bein-sports-3/', 

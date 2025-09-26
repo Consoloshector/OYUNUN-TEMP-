@@ -2,16 +2,16 @@ const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
                 { oyun: 'Alanyaspor - Galatasaray', saat: '21:00', 
-                link1: 'https://www.canlitv.vin/idmantv-canli', 
-                link2: 'https://myfootball.life/11496382-real-ovedo-barselona-pryamaya-translyaciya-ispaniya-primera-divizion-25092025-smotret-onlayn.html' },
+                link1: 'https://rotabettv362.com/mac/alanyaspor-galatasaray-bein-sports-1/', 
+                link2: 'https://myfootball.life/11497115-alanyaspor-galatasaray-pryamaya-translyaciya-turciya-superliga-26092025-smotret-onlayn.html' },
 
                 { oyun: 'Al İttihad - Al Nassr', saat: '22:00', 
-                  link1: 'https://ovogoaal.com/soccerstreams/huddersfield-vs-man-city/', 
-                  link2: 'https://myfootball.life/11496344-haddersfild-manchester-siti-pryamaya-translyaciya-angliya-kubok-ligi-24092025-smotret-onlayn.html' },
+                  link1: 'https://www.shoot-yalla.me/live/24656/1435945/al-ittihad-vs-al-nassr', 
+                  link2: 'https://www.footybite.to/AI-Ittihad--vs-AI-Nassr/50517' },
                  
                 { oyun: 'Bayern - Werder', saat: '22:30', 
-                link1: 'https://www.shoot-yalla.me/live/24606/1457283/port-vale-vs-arsenal',
-                link2: 'https://myfootball.life/11496345-port-veyl-arsenal-pryamaya-translyaciya-angliya-kubok-ligi-24092025-smotret-onlayn.html'},
+                link1: 'https://rotabettv362.com/mac/bayern-munih-werder-bremen-tivibu-spor-1/',
+                link2: 'https://myfootball.life/11497119-bavariya-verder-bremen-pryamaya-translyaciya-germaniya-bundesliga-26092025-smotret-onlayn.html'},
 
                  /*{ oyun: 'Dinamo Zagreb - Fenerbahçe', saat: '23:00', 
                  link1: 'https://rotabettv360.com/mac/dinamo-zagreb-fenerbahce-trt-1/', 

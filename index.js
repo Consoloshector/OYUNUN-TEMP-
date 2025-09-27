@@ -1,25 +1,25 @@
 const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: 'Alanyaspor - Galatasaray', saat: '21:00', 
+                { oyun: 'Chelsea - Brighton', saat: '18:00', 
                 link1: 'https://rotabettv362.com/mac/alanyaspor-galatasaray-bein-sports-1/', 
                 link2: 'https://myfootball.life/11497115-alanyaspor-galatasaray-pryamaya-translyaciya-turciya-superliga-26092025-smotret-onlayn.html' },
 
-                { oyun: 'Al İttihad - Al Nassr', saat: '22:00', 
+                { oyun: 'Man City - Burnley', saat: '18:00', 
                   link1: 'https://www.shoot-yalla.me/live/24656/1435945/al-ittihad-vs-al-nassr', 
                   link2: 'https://www.footybite.to/AI-Ittihad--vs-AI-Nassr/50517' },
                  
-                { oyun: 'Bayern - Werder', saat: '22:30', 
+                { oyun: 'Atletico Madrid - Real Madrid', saat: '18:15', 
                 link1: 'https://rotabettv362.com/mac/bayern-munih-werder-bremen-tivibu-spor-1/',
                 link2: 'https://myfootball.life/11497119-bavariya-verder-bremen-pryamaya-translyaciya-germaniya-bundesliga-26092025-smotret-onlayn.html'},
 
-                 /*{ oyun: 'Dinamo Zagreb - Fenerbahçe', saat: '23:00', 
+                 { oyun: 'Juventus - Atalanta', saat: '20:00', 
                  link1: 'https://rotabettv360.com/mac/dinamo-zagreb-fenerbahce-trt-1/', 
-                 link2: 'https://myfootball.life/11496349-dinamo-zagreb-fenerbahche-pryamaya-translyaciya-liga-evropy-24092025-smotret-onlayn.html' },*/
+                 link2: 'https://myfootball.life/11496349-dinamo-zagreb-fenerbahche-pryamaya-translyaciya-liga-evropy-24092025-smotret-onlayn.html' },
 
-                 // { oyun: 'Man United - Chelsea', saat: '20:30', 
-                 //  link1: 'https://rotabettv359.com/mac/manchester-utd-chelsea-bein-sports-3/', 
-                 //  link2: 'https://rotabettv359.com/mac/manchester-utd-chelsea-idman-tv/' },
+                 { oyun: 'Tottenham - Wolwes', saat: '23:00', 
+                  link1: 'https://rotabettv359.com/mac/manchester-utd-chelsea-bein-sports-3/', 
+                  link2: 'https://rotabettv359.com/mac/manchester-utd-chelsea-idman-tv/' },
 
                 /*{ oyun: 'Beşiktaş - Başakşehir', saat: '21:00', 
                  link1: 'https://rotabettv357.com/mac/besiktas-rams-basaksehir-bein-sports-1/', 

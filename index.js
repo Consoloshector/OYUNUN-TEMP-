@@ -2,24 +2,24 @@ const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
                 { oyun: 'Chelsea - Brighton', saat: '18:00', 
-                link1: 'https://rotabettv362.com/mac/alanyaspor-galatasaray-bein-sports-1/', 
-                link2: 'https://myfootball.life/11497115-alanyaspor-galatasaray-pryamaya-translyaciya-turciya-superliga-26092025-smotret-onlayn.html' },
+                link1: 'https://rotabettv362.com/mac/chelsea-brighton-bein-sports-max-2/', 
+                link2: 'https://myfootball.life/11497188-chelsi-brayton-pryamaya-translyaciya-angliya-premer-liga-27092025-smotret-onlayn.html' },
 
                 { oyun: 'Man City - Burnley', saat: '18:00', 
-                  link1: 'https://www.shoot-yalla.me/live/24656/1435945/al-ittihad-vs-al-nassr', 
-                  link2: 'https://www.footybite.to/AI-Ittihad--vs-AI-Nassr/50517' },
+                  link1: 'https://rotabettv362.com/mac/manchester-city-burnley-bein-sports-4/', 
+                  link2: 'https://myfootball.life/11497185-manchester-siti-bernli-pryamaya-translyaciya-angliya-premer-liga-27092025-smotret-onlayn.html' },
                  
                 { oyun: 'Atletico Madrid - Real Madrid', saat: '18:15', 
-                link1: 'https://rotabettv362.com/mac/bayern-munih-werder-bremen-tivibu-spor-1/',
-                link2: 'https://myfootball.life/11497119-bavariya-verder-bremen-pryamaya-translyaciya-germaniya-bundesliga-26092025-smotret-onlayn.html'},
+                link1: 'https://www.canlitv.vin/idmantv-canli',
+                link2: 'https://myfootball.life/11497189-atletiko-madrid-real-madrid-pryamaya-translyaciya-ispaniya-primera-divizion-27092025-smotret-onlayn.html'},
 
                  { oyun: 'Juventus - Atalanta', saat: '20:00', 
-                 link1: 'https://rotabettv360.com/mac/dinamo-zagreb-fenerbahce-trt-1/', 
-                 link2: 'https://myfootball.life/11496349-dinamo-zagreb-fenerbahche-pryamaya-translyaciya-liga-evropy-24092025-smotret-onlayn.html' },
+                 link1: 'https://rotabettv362.com/mac/juventus-atalanta-tivibu-spor-1/', 
+                 link2: 'https://myfootball.life/11497201-yuventus-atalanta-pryamaya-translyaciya-italiya-seriya-a-27092025-smotret-onlayn.html' },
 
                  { oyun: 'Tottenham - Wolwes', saat: '23:00', 
-                  link1: 'https://rotabettv359.com/mac/manchester-utd-chelsea-bein-sports-3/', 
-                  link2: 'https://rotabettv359.com/mac/manchester-utd-chelsea-idman-tv/' },
+                  link1: 'https://rotabettv362.com/mac/tottenham-wolverhampton-bein-sports-3/', 
+                  link2: 'https://myfootball.life/11497217-tottenhem-vulverhempton-pryamaya-translyaciya-angliya-premer-liga-27092025-smotret-onlayn.html' },
 
                 /*{ oyun: 'Beşiktaş - Başakşehir', saat: '21:00', 
                  link1: 'https://rotabettv357.com/mac/besiktas-rams-basaksehir-bein-sports-1/', 

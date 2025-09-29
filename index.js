@@ -1,11 +1,11 @@
 const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: 'Newcastle - Arsenal', saat: '19:30', 
-                link1: 'https://www.shoot-yalla.me/live/24702/1379026/newcastle-united-vs-arsenal', 
-                link2: 'https://myfootball.life/11497263-nyukasl-yunayted-arsenal-pryamaya-translyaciya-angliya-premer-liga-28092025-smotret-onlayn.html' },
+                { oyun: ' Beşiktaş - Kocaelispor', saat: '21:00', 
+                link1: 'https://rotabettv362.com/mac/besiktas-kocaelispor-bein-sports-1/', 
+                link2: 'https://myfootball.life/11497292-beshiktash-kodzhaelispor-pryamaya-translyaciya-turciya-superliga-29092025-smotret-onlayn.html' },
 
-                { oyun: 'Barcelona - Real Sociedad', saat: '20:00', 
+               /* { oyun: 'Barcelona - Real Sociedad', saat: '20:00', 
                   link1: 'https://www.canlitv.vin/idmantv-canli', 
                   link2: 'https://myfootball.life/11497267-barselona-real-sosedad-pryamaya-translyaciya-ispaniya-primera-divizion-28092025-smotret-onlayn.html' },
                  
@@ -15,7 +15,7 @@ const main = document.getElementsByClassName('main')[0];
 
                  { oyun: 'Milan - Napoli', saat: '22:45', 
                  link1: 'https://rotabettv362.com/mac/milan-napoli-tivibu-spor-1/', 
-                 link2: 'https://myfootball.life/11497276-milan-napoli-pryamaya-translyaciya-italiya-seriya-a-28092025-smotret-onlayn.html' },
+                 link2: 'https://myfootball.life/11497276-milan-napoli-pryamaya-translyaciya-italiya-seriya-a-28092025-smotret-onlayn.html' },*/
 
                  // { oyun: 'Tottenham - Wolwes', saat: '23:00', 
                  //  link1: 'https://rotabettv362.com/mac/tottenham-wolverhampton-bein-sports-3/', 

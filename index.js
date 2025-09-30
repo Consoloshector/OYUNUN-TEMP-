@@ -15,7 +15,7 @@ const main = document.getElementsByClassName('main')[0];
 
                  { oyun: 'Galatasaray - Liverpool', saat: '23:00', 
                  link1: 'https://www.canlitv.vin/cbcsport-canli-yayin', 
-                 link2: 'https://myfootball.life/11498087-galatasaray-liverpul-pryamaya-translyaciya-liga-chempionov-30092025-smotret-onlayn.html' },*/
+                 link2: 'https://myfootball.life/11498087-galatasaray-liverpul-pryamaya-translyaciya-liga-chempionov-30092025-smotret-onlayn.html' },
 
                   { oyun: 'Pafos - Bayern', saat: '23:00', 
                    link1: 'https://rotabettv362.com/mac/pafos-bayern-munih-tabii-spor-3/', 

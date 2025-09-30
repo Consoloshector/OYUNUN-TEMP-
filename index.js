@@ -7,23 +7,23 @@ const main = document.getElementsByClassName('main')[0];
 
                 { oyun: 'Bodo Glimt - Tottenham', saat: '23:00', 
                   link1: 'https://www.canlitv.vin/idmantv-canli', 
-                  link2: 'https://myfootball.life/11497267-barselona-real-sosedad-pryamaya-translyaciya-ispaniya-primera-divizion-28092025-smotret-onlayn.html' },
+                  link2: 'https://myfootball.life/11498091-bude-glimt-tottenhem-pryamaya-translyaciya-liga-chempionov-30092025-smotret-onlayn.html' },
                  
                 { oyun: 'Chelsea - Benifica', saat: '23:00', 
-                link1: 'https://rotabettv362.com/mac/fenerbahce-antalyaspor-bein-sports-1/',
-                link2: 'https://myfootball.life/11497270-fenerbahche-antalyaspor-pryamaya-translyaciya-turciya-superliga-28092025-smotret-onlayn.html'},
+                link1: 'https://www.canlitv.vin/cbcsport-canli-yayin',
+                link2: 'https://myfootball.life/11498089-chelsi-benfika-pryamaya-translyaciya-liga-chempionov-30092025-smotret-onlayn.html'},
 
                  { oyun: 'Galatasaray - Liverpool', saat: '23:00', 
-                 link1: 'https://rotabettv362.com/mac/milan-napoli-tivibu-spor-1/', 
-                 link2: 'https://myfootball.life/11497276-milan-napoli-pryamaya-translyaciya-italiya-seriya-a-28092025-smotret-onlayn.html' },*/
+                 link1: 'https://www.canlitv.vin/cbcsport-canli-yayin', 
+                 link2: 'https://myfootball.life/11498087-galatasaray-liverpul-pryamaya-translyaciya-liga-chempionov-30092025-smotret-onlayn.html' },*/
 
                   { oyun: 'Pafos - Bayern', saat: '23:00', 
-                   link1: 'https://rotabettv362.com/mac/tottenham-wolverhampton-bein-sports-3/', 
-                   link2: 'https://myfootball.life/11497217-tottenhem-vulverhempton-pryamaya-translyaciya-angliya-premer-liga-27092025-smotret-onlayn.html' },
+                   link1: 'https://rotabettv362.com/mac/pafos-bayern-munih-tabii-spor-3/', 
+                   link2: 'https://myfootball.life/11498090-pafos-bavariya-pryamaya-translyaciya-liga-chempionov-30092025-smotret-onlayn.html' },
 
                 { oyun: 'Inter - Slavia Prague', saat: '23:00', 
-                 link1: 'https://rotabettv357.com/mac/besiktas-rams-basaksehir-bein-sports-1/', 
-                 link2: 'https://live.shoot-yalla.me/live/24390/1394469/besiktas-vs-istanbul-basaksehir' },
+                 link1: 'https://rotabettv362.com/mac/inter-slavia-prag-tabii-spor-2/', 
+                 link2: 'https://myfootball.life/11498088-inter-slaviya-praga-pryamaya-translyaciya-liga-chempionov-30092025-smotret-onlayn.html' },
 
               /*  { oyun: 'Fiorentina - Napoli', saat: '22:45', 
                  link1: 'https://rotabettv357.com/mac/fiorentina-napoli-s-sport-2/', 

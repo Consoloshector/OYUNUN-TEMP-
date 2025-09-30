@@ -6,7 +6,7 @@ const main = document.getElementsByClassName('main')[0];
                 link2: 'https://myfootball.life/11498078-kayrat-real-madrid-pryamaya-translyaciya-liga-chempionov-30092025-smotret-onlayn.htmll' },
 
                 { oyun: 'Bodo Glimt - Tottenham', saat: '23:00', 
-                  link1: 'https://www.canlitv.vin/idmantv-canli', 
+                  link1: 'https://rotabettv362.com/mac/bodo-glimt-tottenham-tabii-spor-4/', 
                   link2: 'https://myfootball.life/11498091-bude-glimt-tottenhem-pryamaya-translyaciya-liga-chempionov-30092025-smotret-onlayn.html' },
                  
                 { oyun: 'Chelsea - Benifica', saat: '23:00', 
@@ -14,7 +14,7 @@ const main = document.getElementsByClassName('main')[0];
                 link2: 'https://myfootball.life/11498089-chelsi-benfika-pryamaya-translyaciya-liga-chempionov-30092025-smotret-onlayn.html'},
 
                  { oyun: 'Galatasaray - Liverpool', saat: '23:00', 
-                 link1: 'https://www.canlitv.vin/cbcsport-canli-yayin', 
+                 link1: 'https://tv.canlitvme.com/livetv/ictimaitv-canli-hd', 
                  link2: 'https://myfootball.life/11498087-galatasaray-liverpul-pryamaya-translyaciya-liga-chempionov-30092025-smotret-onlayn.html' },
 
                   { oyun: 'Pafos - Bayern', saat: '23:00', 

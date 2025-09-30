@@ -2,8 +2,8 @@ const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
                 { oyun: 'Kariat - Real Madrid', saat: '20:45', 
-                link1: 'https://rotabettv362.com/mac/besiktas-kocaelispor-bein-sports-1/', 
-                link2: 'https://myfootball.life/11497292-beshiktash-kodzhaelispor-pryamaya-translyaciya-turciya-superliga-29092025-smotret-onlayn.html' },
+                link1: 'https://www.canlitv.vin/cbcsport-canli-yayin', 
+                link2: 'https://myfootball.life/11498078-kayrat-real-madrid-pryamaya-translyaciya-liga-chempionov-30092025-smotret-onlayn.htmll' },
 
                 { oyun: 'Bodo Glimt - Tottenham', saat: '23:00', 
                   link1: 'https://www.canlitv.vin/idmantv-canli', 

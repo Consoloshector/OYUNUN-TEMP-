@@ -1,31 +1,31 @@
 const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Beşiktaş - Kocaelispor', saat: '21:00', 
+                { oyun: 'Kariat - Real Madrid', saat: '20:45', 
                 link1: 'https://rotabettv362.com/mac/besiktas-kocaelispor-bein-sports-1/', 
                 link2: 'https://myfootball.life/11497292-beshiktash-kodzhaelispor-pryamaya-translyaciya-turciya-superliga-29092025-smotret-onlayn.html' },
 
-               /* { oyun: 'Barcelona - Real Sociedad', saat: '20:00', 
+                { oyun: 'Bodo Glimt - Tottenham', saat: '23:00', 
                   link1: 'https://www.canlitv.vin/idmantv-canli', 
                   link2: 'https://myfootball.life/11497267-barselona-real-sosedad-pryamaya-translyaciya-ispaniya-primera-divizion-28092025-smotret-onlayn.html' },
                  
-                { oyun: 'Fenerbahçe - Antalyaspor', saat: '21:00', 
+                { oyun: 'Chelsea - Benifica', saat: '23:00', 
                 link1: 'https://rotabettv362.com/mac/fenerbahce-antalyaspor-bein-sports-1/',
                 link2: 'https://myfootball.life/11497270-fenerbahche-antalyaspor-pryamaya-translyaciya-turciya-superliga-28092025-smotret-onlayn.html'},
 
-                 { oyun: 'Milan - Napoli', saat: '22:45', 
+                 { oyun: 'Galatasaray - Liverpool', saat: '23:00', 
                  link1: 'https://rotabettv362.com/mac/milan-napoli-tivibu-spor-1/', 
                  link2: 'https://myfootball.life/11497276-milan-napoli-pryamaya-translyaciya-italiya-seriya-a-28092025-smotret-onlayn.html' },*/
 
-                 // { oyun: 'Tottenham - Wolwes', saat: '23:00', 
-                 //  link1: 'https://rotabettv362.com/mac/tottenham-wolverhampton-bein-sports-3/', 
-                 //  link2: 'https://myfootball.life/11497217-tottenhem-vulverhempton-pryamaya-translyaciya-angliya-premer-liga-27092025-smotret-onlayn.html' },
+                  { oyun: 'Pafos - Bayern', saat: '23:00', 
+                   link1: 'https://rotabettv362.com/mac/tottenham-wolverhampton-bein-sports-3/', 
+                   link2: 'https://myfootball.life/11497217-tottenhem-vulverhempton-pryamaya-translyaciya-angliya-premer-liga-27092025-smotret-onlayn.html' },
 
-                /*{ oyun: 'Beşiktaş - Başakşehir', saat: '21:00', 
+                { oyun: 'Inter - Slavia Prague', saat: '23:00', 
                  link1: 'https://rotabettv357.com/mac/besiktas-rams-basaksehir-bein-sports-1/', 
                  link2: 'https://live.shoot-yalla.me/live/24390/1394469/besiktas-vs-istanbul-basaksehir' },
 
-                { oyun: 'Fiorentina - Napoli', saat: '22:45', 
+              /*  { oyun: 'Fiorentina - Napoli', saat: '22:45', 
                  link1: 'https://rotabettv357.com/mac/fiorentina-napoli-s-sport-2/', 
                  link2: 'https://rotabettv357.com/mac/fiorentina-napoli-tivibu-spor-1/' },
 

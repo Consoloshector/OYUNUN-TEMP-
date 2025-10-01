@@ -1,29 +1,29 @@
 const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: 'Kariat - Real Madrid', saat: '20:45', 
+                { oyun: 'Qarabağ - Copenhagen', saat: '20:45', 
                 link1: 'https://www.canlitv.vin/cbcsport-canli-yayin', 
-                link2: 'https://myfootball.life/11498078-kayrat-real-madrid-pryamaya-translyaciya-liga-chempionov-30092025-smotret-onlayn.htmll' },
+                link2: 'https://myfootball.life/11498108-karabah-kopengagen-pryamaya-translyaciya-liga-chempionov-01102025-smotret-onlayn.html' },
 
-                { oyun: 'Bodo Glimt - Tottenham', saat: '23:00', 
-                  link1: 'https://rotabettv362.com/mac/bodo-glimt-tottenham-tabii-spor-4/', 
-                  link2: 'https://myfootball.life/11498091-bude-glimt-tottenhem-pryamaya-translyaciya-liga-chempionov-30092025-smotret-onlayn.html' },
+                { oyun: 'Arsenal - Olympiacos', saat: '23:00', 
+                  link1: 'https://rotabettv363.com/mac/arsenal-olympiakos-tabii-spor-2/', 
+                  link2: 'https://myfootball.life/11498115-arsenal-olimpiakos-pryamaya-translyaciya-liga-chempionov-01102025-smotret-onlayn.html' },
                  
-                { oyun: 'Chelsea - Benifica', saat: '23:00', 
-                link1: 'https://www.canlitv.vin/cbcsport-canli-yayin',
-                link2: 'https://myfootball.life/11498089-chelsi-benfika-pryamaya-translyaciya-liga-chempionov-30092025-smotret-onlayn.html'},
+                { oyun: 'Barcelona - PSG', saat: '23:00', 
+                link1: 'https://rotabettv363.com/mac/barcelona-psg-tabii-spor/',
+                link2: 'https://myfootball.life/11498118-barselona-pszh-pryamaya-translyaciya-liga-chempionov-01102025-smotret-onlayn.html'},
 
-                 { oyun: 'Galatasaray - Liverpool', saat: '23:00', 
-                 link1: 'https://tv.canlitvme.com/livetv/ictimaitv-canli-hd', 
-                 link2: 'https://myfootball.life/11498087-galatasaray-liverpul-pryamaya-translyaciya-liga-chempionov-30092025-smotret-onlayn.html' },
+                 { oyun: 'Monaco - Man City', saat: '23:00', 
+                 link1: 'https://rotabettv363.com/mac/monaco-manchester-city-tabii-spor-1/', 
+                 link2: 'https://myfootball.life/11498117-as-monako-manchester-siti-pryamaya-translyaciya-liga-chempionov-01102025-smotret-onlayn.html' },
 
-                  { oyun: 'Pafos - Bayern', saat: '23:00', 
-                   link1: 'https://rotabettv362.com/mac/pafos-bayern-munih-tabii-spor-3/', 
-                   link2: 'https://myfootball.life/11498090-pafos-bavariya-pryamaya-translyaciya-liga-chempionov-30092025-smotret-onlayn.html' },
+                  { oyun: 'Napoli - Sporting', saat: '23:00', 
+                   link1: 'https://rotabettv363.com/mac/napoli-sporting-lisbon-tabii-spor-5/', 
+                   link2: 'https://myfootball.life/11498113-napoli-sporting-pryamaya-translyaciya-liga-chempionov-01102025-smotret-onlayn.html' },
 
-                { oyun: 'Inter - Slavia Prague', saat: '23:00', 
-                 link1: 'https://rotabettv362.com/mac/inter-slavia-prag-tabii-spor-2/', 
-                 link2: 'https://myfootball.life/11498088-inter-slaviya-praga-pryamaya-translyaciya-liga-chempionov-30092025-smotret-onlayn.html' },
+               // { oyun: 'Inter - Slavia Prague', saat: '23:00', 
+                // link1: 'https://rotabettv362.com/mac/inter-slavia-prag-tabii-spor-2/', 
+                // link2: 'https://myfootball.life/11498088-inter-slaviya-praga-pryamaya-translyaciya-liga-chempionov-30092025-smotret-onlayn.html' },
 
               /*  { oyun: 'Fiorentina - Napoli', saat: '22:45', 
                  link1: 'https://rotabettv357.com/mac/fiorentina-napoli-s-sport-2/', 

@@ -17,10 +17,18 @@ const main = document.getElementsByClassName('main')[0];
                  link1: 'https://www.canlitv.vin/idmantv-canli', 
                  link2: 'https://myfootball.life/11498910-chelsi-liverpul-pryamaya-translyaciya-angliya-premer-liga-04102025-smotret-onlayn.html' },
 
-                  { oyun: ' Galatasaray - Beşiktaş ', saat: '21:00', 
-                   link1: 'https://rotabettv363.com/mac/napoli-sporting-lisbon-tabii-spor-5/', 
+                  { oyun: ' Galatasaray - Beşiktaş (1) ', saat: '21:00', 
+                   link1: 'https://gobtv2.com/channel?id=yayinb1', 
                    link2: 'https://myfootball.life/11498913-galatasaray-beshiktash-pryamaya-translyaciya-turciya-superliga-04102025-smotret-onlayn.html' },
 
+                { oyun: ' Galatasaray - Beşiktaş (2) ', saat: '21:00', 
+                   link1: 'https://monotv524.com/channel?id=yayinb1', 
+                   link2: 'https://golvar625.sbs/mac/galatasaray-besiktas-bein-sports-1/' },
+
+                { oyun: ' Galatasaray - Beşiktaş (3) ', saat: '21:00', 
+                   link1: 'https://www.shoot-yalla.me/live/24887/1394497/galatasaray-vs-besiktas', 
+                   link2: 'https://rotabettv364.com/mac/galatasaray-besiktas-bein-sports-1/' },
+                
                 { oyun: ' Real Madrid - Villareal ', saat: '23:00', 
                  link1: 'https://www.canlitv.vin/idmantv-canli', 
                  link2: 'https://myfootball.life/11498923-real-madrid-vilyarreal-pryamaya-translyaciya-ispaniya-primera-divizion-04102025-smotret-onlayn.html' },

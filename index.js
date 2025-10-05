@@ -1,37 +1,37 @@
 const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Arsenal - West Ham ', saat: '18:00', 
+                { oyun: ' Sevilla - Barcelona ', saat: '18:15', 
                 link1: 'https://rotabettv364.com/mac/arsenal-west-ham-idman-tv/', 
-                link2: 'https://myfootball.life/11498889-arsenal-vest-hem-yunayted-pryamaya-translyaciya-angliya-premer-liga-04102025-smotret-onlayn.html' },
+                link2: 'https://myfootball.life/11498966-sevilya-barselona-pryamaya-translyaciya-ispaniya-primera-divizion-05102025-smotret-onlayn.html' },
 
-                { oyun: ' Man United - Sunderland ', saat: '18:00', 
-                  link1: 'https://rotabettv364.com/mac/manchester-utd-sunderland-bein-sports-max-2/', 
+                { oyun: ' Brentford - Man City ', saat: '18:00', 
+                  link1: 'https://rotabettv364.com/mac/brentford-manchester-city-bein-sports-3/', 
                   link2: 'https://myfootball.life/11498888-manchester-yun-sanderlend-pryamaya-translyaciya-angliya-premer-liga-04102025-smotret-onlayn.html' },
                  
-                { oyun: ' Frankfurt - Bayern ', saat: '20:30', 
+                { oyun: ' Lille - PSG  ', saat: '20:30', 
                 link1: 'https://rotabettv364.com/mac/eintracht-frankfurt-bayern-munih-tivibu-spor-2/',
-                link2: 'https://myfootball.life/11498907-ayntraht-bavariya-pryamaya-translyaciya-germaniya-bundesliga-04102025-smotret-onlayn.html'},
+                link2: 'https://myfootball.life/11498980-brentford-manchester-siti-pryamaya-translyaciya-angliya-premer-liga-05102025-smotret-onlayn.html'},
 
-                 { oyun: 'Chelsea - Liverpool', saat: '20:30', 
+                 { oyun: ' Juventus - Milan ', saat: '22:45', 
                  link1: 'https://www.canlitv.vin/idmantv-canli', 
                  link2: 'https://myfootball.life/11498910-chelsi-liverpul-pryamaya-translyaciya-angliya-premer-liga-04102025-smotret-onlayn.html' },
 
-                  { oyun: ' Galatasaray - Beşiktaş (1) ', saat: '21:00', 
-                   link1: 'https://gobtv2.com/channel?id=yayinb1', 
-                   link2: 'https://myfootball.life/11498913-galatasaray-beshiktash-pryamaya-translyaciya-turciya-superliga-04102025-smotret-onlayn.html' },
+                  // { oyun: ' Galatasaray - Beşiktaş (1) ', saat: '21:00', 
+                  //  link1: 'https://gobtv2.com/channel?id=yayinb1', 
+                  //  link2: 'https://myfootball.life/11498913-galatasaray-beshiktash-pryamaya-translyaciya-turciya-superliga-04102025-smotret-onlayn.html' },
 
-                { oyun: ' Galatasaray - Beşiktaş (2) ', saat: '21:00', 
-                   link1: 'https://monotv524.com/channel?id=yayinb1', 
-                   link2: 'https://golvar625.sbs/mac/galatasaray-besiktas-bein-sports-1/' },
+                // { oyun: ' Galatasaray - Beşiktaş (2) ', saat: '21:00', 
+                //    link1: 'https://monotv524.com/channel?id=yayinb1', 
+                //    link2: 'https://golvar625.sbs/mac/galatasaray-besiktas-bein-sports-1/' },
 
-                { oyun: ' Galatasaray - Beşiktaş (3) ', saat: '21:00', 
-                   link1: 'https://www.shoot-yalla.me/live/24887/1394497/galatasaray-vs-besiktas', 
-                   link2: 'https://rotabettv364.com/mac/galatasaray-besiktas-bein-sports-1/' },
+                // { oyun: ' Galatasaray - Beşiktaş (3) ', saat: '21:00', 
+                //    link1: 'https://www.shoot-yalla.me/live/24887/1394497/galatasaray-vs-besiktas', 
+                //    link2: 'https://rotabettv364.com/mac/galatasaray-besiktas-bein-sports-1/' },
                 
-                { oyun: ' Real Madrid - Villareal ', saat: '23:00', 
-                 link1: 'https://www.canlitv.vin/idmantv-canli', 
-                 link2: 'https://myfootball.life/11498923-real-madrid-vilyarreal-pryamaya-translyaciya-ispaniya-primera-divizion-04102025-smotret-onlayn.html' },
+                // { oyun: ' Real Madrid - Villareal ', saat: '23:00', 
+                //  link1: 'https://www.canlitv.vin/idmantv-canli', 
+                //  link2: 'https://myfootball.life/11498923-real-madrid-vilyarreal-pryamaya-translyaciya-ispaniya-primera-divizion-04102025-smotret-onlayn.html' },
 
               /*  { oyun: 'Fiorentina - Napoli', saat: '22:45', 
                  link1: 'https://rotabettv357.com/mac/fiorentina-napoli-s-sport-2/', 

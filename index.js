@@ -9,7 +9,7 @@ const main = document.getElementsByClassName('main')[0];
                   link1: 'https://rotabettv364.com/mac/brentford-manchester-city-bein-sports-3/', 
                   link2: 'https://myfootball.life/11498888-manchester-yun-sanderlend-pryamaya-translyaciya-angliya-premer-liga-04102025-smotret-onlayn.html' },
                  
-                { oyun: ' Lille - PSG  ', saat: '20:30', 
+                { oyun: ' Lille - PSG  ', saat: '22:45', 
                 link1: 'https://rotabettv364.com/mac/eintracht-frankfurt-bayern-munih-tivibu-spor-2/',
                 link2: 'https://myfootball.life/11498980-brentford-manchester-siti-pryamaya-translyaciya-angliya-premer-liga-05102025-smotret-onlayn.html'},
 

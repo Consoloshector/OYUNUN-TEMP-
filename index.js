@@ -1,13 +1,13 @@
 const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Sevilla - Barcelona ', saat: '18:15', 
+               /* { oyun: ' Sevilla - Barcelona ', saat: '18:15', 
                 link1: 'https://rotabettv364.com/mac/arsenal-west-ham-idman-tv/', 
-                link2: 'https://myfootball.life/11498966-sevilya-barselona-pryamaya-translyaciya-ispaniya-primera-divizion-05102025-smotret-onlayn.html' },
+                link2: 'https://myfootball.life/11498966-sevilya-barselona-pryamaya-translyaciya-ispaniya-primera-divizion-05102025-smotret-onlayn.html' },*/
 
-                { oyun: ' Brentford - Man City ', saat: '19:30', 
-                  link1: 'https://rotabettv364.com/mac/brentford-manchester-city-bein-sports-3/', 
-                  link2: 'https://myfootball.life/11498888-manchester-yun-sanderlend-pryamaya-translyaciya-angliya-premer-liga-04102025-smotret-onlayn.html' },
+                { oyun: ' Samsunspor - Fenerbahçe ', saat: '21:00', 
+                  link1: 'https://rotabettv364.com/mac/samsunspor-fenerbahce-bein-sports-1/', 
+                  link2: 'https://myfootball.life/11498987-samsunspor-fenerbahche-pryamaya-translyaciya-turciya-superliga-05102025-smotret-onlayn.html' },
                  
                 { oyun: ' Lille - PSG  ', saat: '22:45', 
                 link1: 'https://rotabettv364.com/mac/eintracht-frankfurt-bayern-munih-tivibu-spor-2/',

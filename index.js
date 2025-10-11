@@ -1,21 +1,21 @@
 const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-               /* { oyun: ' Sevilla - Barcelona ', saat: '18:15', 
-                link1: 'https://rotabettv364.com/mac/arsenal-west-ham-idman-tv/', 
-                link2: 'https://myfootball.life/11498966-sevilya-barselona-pryamaya-translyaciya-ispaniya-primera-divizion-05102025-smotret-onlayn.html' },*/
+                { oyun: ' Bolqarıstan - Türkiyə ', saat: '22:45', 
+                link1: 'https://rotabettv364.com/mac/bulgaristan-turkiye-tv8/', 
+                link2: 'https://myfootball.life/11500295-bolgariya-turciya-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-11102025-smotret-onlayn.html' },
 
-                { oyun: ' Samsunspor - Fenerbahçe ', saat: '21:00', 
-                  link1: 'https://rotabettv364.com/mac/samsunspor-fenerbahce-bein-sports-1/', 
-                  link2: 'https://myfootball.life/11498987-samsunspor-fenerbahche-pryamaya-translyaciya-turciya-superliga-05102025-smotret-onlayn.html' },
+                { oyun: ' İspaniya - Gürcüstan ', saat: '22:45', 
+                  link1: 'https://ovogoaal.com/soccerstreams/spain-vs-georgia/', 
+                  link2: 'https://myfootball.life/11500299-ispaniya-gruziya-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-11102025-smotret-onlayn.html' },
                  
-                { oyun: ' Lille - PSG  ', saat: '22:45', 
-                link1: 'https://rotabettv364.com/mac/eintracht-frankfurt-bayern-munih-tivibu-spor-2/',
-                link2: 'https://myfootball.life/11498980-brentford-manchester-siti-pryamaya-translyaciya-angliya-premer-liga-05102025-smotret-onlayn.html'},
+                { oyun: ' Portuqaliya - İrlandiya ', saat: '22:45', 
+                link1: 'https://ovogoaal.com/soccerstreams/portugal-vs-ireland/',
+                link2: 'https://myfootball.life/11500297-portugaliya-irlandiya-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-11102025-smotret-onlayn.html'},
 
-                 { oyun: ' Juventus - Milan ', saat: '22:45', 
-                 link1: 'https://www.canlitv.vin/idmantv-canli', 
-                 link2: 'https://myfootball.life/11498910-chelsi-liverpul-pryamaya-translyaciya-angliya-premer-liga-04102025-smotret-onlayn.html' },
+                 { oyun: ' Estoniya - İtaliya ', saat: '22:45', 
+                 link1: 'https://ovogoaal.com/soccerstreams/estonia-vs-italy/', 
+                 link2: 'https://myfootball.life/11500296-estoniya-italiya-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-11102025-smotret-onlayn.html' },
 
                   // { oyun: ' Galatasaray - Beşiktaş (1) ', saat: '21:00', 
                   //  link1: 'https://gobtv2.com/channel?id=yayinb1', 

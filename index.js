@@ -1,21 +1,21 @@
 const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Bolqarıstan - Türkiyə ', saat: '22:45', 
-                link1: 'https://rotabettv364.com/mac/bulgaristan-turkiye-tv8/', 
-                link2: 'https://myfootball.life/11500295-bolgariya-turciya-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-11102025-smotret-onlayn.html' },
+                { oyun: ' Ş.İrlandiya - Almaniya ', saat: '22:45', 
+                link1: 'https://ovogoaal.com/soccerstreams/ireland-vs-germany/', 
+                link2: 'https://myfootball.life/11500766-sev-irlandiya-germaniya-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-13102025-smotret-onlayn.html' },
 
-                { oyun: ' İspaniya - Gürcüstan ', saat: '22:45', 
-                  link1: 'https://ovogoaal.com/soccerstreams/spain-vs-georgia/', 
-                  link2: 'https://myfootball.life/11500299-ispaniya-gruziya-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-11102025-smotret-onlayn.html' },
+                { oyun: ' İslandiya - Fransa ', saat: '22:45', 
+                  link1: 'https://ovogoaal.com/soccerstreams/iceland-vs-france/', 
+                  link2: 'https://myfootball.life/11500764-islandiya-franciya-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-13102025-smotret-onlayn.html' },
                  
-                { oyun: ' Portuqaliya - İrlandiya ', saat: '22:45', 
-                link1: 'https://ovogoaal.com/soccerstreams/portugal-vs-ireland/',
-                link2: 'https://myfootball.life/11500297-portugaliya-irlandiya-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-11102025-smotret-onlayn.html'},
+                { oyun: ' Ukraniya - Azərbaycan ', saat: '22:45', 
+                link1: 'https://www.canlitv.me/live/cbcsport-hd',
+                link2: 'https://myfootball.life/11500769-ukraina-azerbaydzhan-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-13102025-smotret-onlayn.html'},
 
-                 { oyun: ' Estoniya - İtaliya ', saat: '22:45', 
-                 link1: 'https://ovogoaal.com/soccerstreams/estonia-vs-italy/', 
-                 link2: 'https://myfootball.life/11500296-estoniya-italiya-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-11102025-smotret-onlayn.html' },
+                 // { oyun: ' Estoniya - İtaliya ', saat: '22:45', 
+                 // link1: 'https://ovogoaal.com/soccerstreams/estonia-vs-italy/', 
+                 // link2: 'https://myfootball.life/11500296-estoniya-italiya-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-11102025-smotret-onlayn.html' },
 
                   // { oyun: ' Galatasaray - Beşiktaş (1) ', saat: '21:00', 
                   //  link1: 'https://gobtv2.com/channel?id=yayinb1', 

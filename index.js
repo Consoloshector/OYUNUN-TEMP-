@@ -1,33 +1,29 @@
 const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' İspaniya - Bolqarıstan ', saat: '22:45', 
-                link1: 'https://www.shoot-yalla.to/live/25092/1366308/spain-vs-bulgaria', 
-                link2: 'https://myfootball.life/11500821-ispaniya-bolgariya-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-14102025-smotret-onlayn.html' },
+                { oyun: ' Man City - Everton ', saat: '18:00', 
+                link1: 'https://rotabettv364.com/mac/manchester-city-everton-bein-sports-3/', 
+                link2: 'https://myfootball.life/11501451-manchester-siti-everton-pryamaya-translyaciya-angliya-premer-liga-18102025-smotret-onlayn.html' },
 
-                { oyun: ' Türkiyə - Gürcüstan ', saat: '22:45', 
-                  link1: 'https://rotabettv364.com/mac/turkiye-gurcistan-tv8/', 
-                  link2: 'https://myfootball.life/11500823-turciya-gruziya-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-14102025-smotret-onlayn.html' },
+                { oyun: ' Barcelona - Girona ', saat: '18:15', 
+                  link1: 'https://www.canlitv.vin/idmantv-canli', 
+                  link2: 'https://myfootball.life/11501455-barselona-zhirona-pryamaya-translyaciya-ispaniya-primera-divizion-18102025-smotret-onlayn.html' },
                  
-                { oyun: ' Portuqaliya - Macarıstan ', saat: '22:45', 
-                link1: 'https://www.shoot-yalla.to/live/25091/1366309/portugal-vs-hungary',
-                link2: 'https://myfootball.life/11500820-portugaliya-vengriya-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-14102025-smotret-onlayn.html'},
+                { oyun: ' Bayern - Dortmund ', saat: '20:30', 
+                link1: 'https://rotabettv364.com/mac/bayern-munih-b-dortmund-tivibu-spor-1/',
+                link2: 'https://myfootball.life/11501468-bavariya-borussiya-d-pryamaya-translyaciya-germaniya-bundesliga-18102025-smotret-onlayn.html'},
 
-                 { oyun: ' İtaliya - İsrail ', saat: '22:45', 
-                 link1: 'https://www.shoot-yalla.to/live/25093/1366310/italy-vs-israel', 
-                 link2: 'https://myfootball.life/11500819-italiya-izrail-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-14102025-smotret-onlayn.html' },
+                 { oyun: ' Başakşehir - Galatasaray ', saat: '21:00', 
+                 link1: 'https://rotabettv364.com/mac/rams-basaksehir-galatasaray-bein-sports-1/', 
+                 link2: 'https://myfootball.life/11501475-bashakshehir-galatasaray-pryamaya-translyaciya-turciya-superliga-18102025-smotret-onlayn.html' },
 
-                  { oyun: ' Latviya - İngiltərə ', saat: '22:45', 
-                   link1: 'https://www.shoot-yalla.to/live/25094/1323342/latvia-vs-england', 
+                  { oyun: ' Al Nassr - Al Fateh ', saat: '22:00', 
+                   link1: 'https://www.shoot-yalla.to/live/25171/1435954/al-nassr-vs-al-fateh', 
                    link2: 'https://myfootball.life/11500817-latviya-angliya-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-14102025-smotret-onlayn.html' },
 
-                // { oyun: ' Galatasaray - Beşiktaş (2) ', saat: '21:00', 
-                //    link1: 'https://monotv524.com/channel?id=yayinb1', 
-                //    link2: 'https://golvar625.sbs/mac/galatasaray-besiktas-bein-sports-1/' },
-
-                // { oyun: ' Galatasaray - Beşiktaş (3) ', saat: '21:00', 
-                //    link1: 'https://www.shoot-yalla.me/live/24887/1394497/galatasaray-vs-besiktas', 
-                //    link2: 'https://rotabettv364.com/mac/galatasaray-besiktas-bein-sports-1/' },
+                { oyun: ' Roma - Inter ', saat: '22:45', 
+                   link1: 'https://rotabettv364.com/mac/roma-inter-tivibu-spor-1/', 
+                   link2: 'https://myfootball.life/11501481-roma-inter-pryamaya-translyaciya-italiya-seriya-a-18102025-smotret-onlayn.html' },
                 
                 // { oyun: ' Real Madrid - Villareal ', saat: '23:00', 
                 //  link1: 'https://www.canlitv.vin/idmantv-canli', 

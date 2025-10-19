@@ -2,7 +2,7 @@ const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
                 { oyun: ' Tottenham - Aston Villa ', saat: '17:00', 
-                link1: 'https://rotabettv364.com/mac/tottenham-aston-villa-bein-sports-3/', 
+                link1: 'https://monotv524.com/channel?id=yayinb3', 
                 link2: 'https://myfootball.life/11501523-tottenhem-aston-villa-pryamaya-translyaciya-angliya-premer-liga-19102025-smotret-onlayn.html' },
 
                 { oyun: ' Liverpool - Man United ', saat: '19:30', 

@@ -10,19 +10,19 @@ const main = document.getElementsByClassName('main')[0];
                   link2: 'https://myfootball.life/11502399-kayrat-pafos-pryamaya-translyaciya-liga-chempionov-21102025-smotret-onlayn.html' },
                 
                  { oyun: ' Arsenal - Atletico Madrid ', saat: '23:00', 
-                 link1: 'https://rotabettv364.com/mac/fenerbahce-fatih-karagumruk-bein-sports-1/', 
+                 link1: 'https://www.canlitv.me/live/cbcsport-hd', 
                  link2: 'https://myfootball.life/11502412-arsenal-atletiko-madrid-pryamaya-translyaciya-liga-chempionov-21102025-smotret-onlayn.html' },
                 
                 { oyun: ' Bayer - PSG ', saat: '23:00', 
-                link1: 'https://rotabettv364.com/mac/milan-fiorentina-tivibu-spor-1/',
+                link1: 'https://rotabettv364.com/mac/bayer-leverkusen-psg-tabii-spor-1/',
                 link2: 'https://myfootball.life/11502414-bayer-l-pszh-pryamaya-translyaciya-liga-chempionov-21102025-smotret-onlayn.html'},
 
                   { oyun: ' USG - Inter ', saat: '23:00', 
-                   link1: 'https://www.canlitv.vin/idmantv-canli', 
+                   link1: 'https://rotabettv364.com/mac/st-gilloise-inter-tabii-spor-3/', 
                    link2: 'https://myfootball.life/11502409-yunion-sent-zhillua-inter-pryamaya-translyaciya-liga-chempionov-21102025-smotret-onlayn.html' },
                 
                 { oyun: ' Villareal - Man City ', saat: '23:00', 
-                 link1: 'https://www.canlitv.vin/idmantv-canli', 
+                 link1: 'https://rotabettv364.com/mac/villarreal-manchester-city-tabii-spor-2/', 
                  link2: 'https://myfootball.life/11502413-vilyarreal-manchester-siti-pryamaya-translyaciya-liga-chempionov-21102025-smotret-onlayn.html' },
 
               /*  { oyun: 'Fiorentina - Napoli', saat: '22:45', 

@@ -1,29 +1,29 @@
 const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Tottenham - Aston Villa ', saat: '17:00', 
-                link1: 'https://monotv524.com/channel?id=yayinb3', 
-                link2: 'https://myfootball.life/11501523-tottenhem-aston-villa-pryamaya-translyaciya-angliya-premer-liga-19102025-smotret-onlayn.html' },
+                { oyun: ' Barcelona - Olympiacos ', saat: '20:45', 
+                link1: 'https://www.canlitv.me/live/cbcsport-hd', 
+                link2: 'https://myfootball.life/11502398-barselona-olimpiakos-pryamaya-translyaciya-liga-chempionov-21102025-smotret-onlayn.html' },
 
-                { oyun: ' Liverpool - Man United ', saat: '19:30', 
-                  link1: 'https://www.canlitv.vin/idmantv-canli', 
-                  link2: 'https://myfootball.life/11501542-liverpul-manchester-yun-pryamaya-translyaciya-angliya-premer-liga-19102025-smotret-onlayn.html' },
+                { oyun: ' Kariat - Pafos ', saat: '20:45', 
+                  link1: 'https://rotabettv364.com/mac/kairat-almaty-pafos-tabii-spor-1/', 
+                  link2: 'https://myfootball.life/11502399-kayrat-pafos-pryamaya-translyaciya-liga-chempionov-21102025-smotret-onlayn.html' },
                 
-                 { oyun: ' Fenerbahçe - Karagümrük ', saat: '21:00', 
+                 { oyun: ' Arsenal - Atletico Madrid ', saat: '23:00', 
                  link1: 'https://rotabettv364.com/mac/fenerbahce-fatih-karagumruk-bein-sports-1/', 
-                 link2: 'https://myfootball.life/11501547-fenerbahche-fatih-karagyumryuk-pryamaya-translyaciya-turciya-superliga-19102025-smotret-onlayn.html' },
+                 link2: 'https://myfootball.life/11502412-arsenal-atletiko-madrid-pryamaya-translyaciya-liga-chempionov-21102025-smotret-onlayn.html' },
                 
-                { oyun: ' Milan - Fiorentina ', saat: '22:45', 
+                { oyun: ' Bayer - PSG ', saat: '23:00', 
                 link1: 'https://rotabettv364.com/mac/milan-fiorentina-tivibu-spor-1/',
-                link2: 'https://myfootball.life/11501551-milan-fiorentina-pryamaya-translyaciya-italiya-seriya-a-19102025-smotret-onlayn.html'},
+                link2: 'https://myfootball.life/11502414-bayer-l-pszh-pryamaya-translyaciya-liga-chempionov-21102025-smotret-onlayn.html'},
 
-                  { oyun: ' Getafe - Real Madrid ', saat: '23:00', 
+                  { oyun: ' USG - Inter ', saat: '23:00', 
                    link1: 'https://www.canlitv.vin/idmantv-canli', 
-                   link2: 'https://myfootball.life/11501553-hetafe-real-madrid-pryamaya-translyaciya-ispaniya-primera-divizion-19102025-smotret-onlayn.html' },
+                   link2: 'https://myfootball.life/11502409-yunion-sent-zhillua-inter-pryamaya-translyaciya-liga-chempionov-21102025-smotret-onlayn.html' },
                 
-                // { oyun: ' Real Madrid - Villareal ', saat: '23:00', 
-                //  link1: 'https://www.canlitv.vin/idmantv-canli', 
-                //  link2: 'https://myfootball.life/11498923-real-madrid-vilyarreal-pryamaya-translyaciya-ispaniya-primera-divizion-04102025-smotret-onlayn.html' },
+                { oyun: ' Villareal - Man City ', saat: '23:00', 
+                 link1: 'https://www.canlitv.vin/idmantv-canli', 
+                 link2: 'https://myfootball.life/11502413-vilyarreal-manchester-siti-pryamaya-translyaciya-liga-chempionov-21102025-smotret-onlayn.html' },
 
               /*  { oyun: 'Fiorentina - Napoli', saat: '22:45', 
                  link1: 'https://rotabettv357.com/mac/fiorentina-napoli-s-sport-2/', 

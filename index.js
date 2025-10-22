@@ -2,7 +2,7 @@ const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
                 { oyun: ' Atletich Club - Qarabağ ', saat: '20:45', 
-                link1: 'https://www.canlitv.me/live/cbcsport-hd', 
+                link1: 'https://tv.canlitvme.com/livetv/ictimaitv-canli-hd', 
                 link2: 'https://myfootball.life/11502425-atletik-bilbao-karabah-pryamaya-translyaciya-liga-chempionov-22102025-smotret-onlayn.html' },
 
                 { oyun: ' Galatasaray - Bodo/Glimt ', saat: '20:45', 

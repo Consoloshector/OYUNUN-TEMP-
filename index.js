@@ -30,7 +30,7 @@ const main = document.getElementsByClassName('main')[0];
                  link2: 'https://myfootball.life/11502439-real-madrid-yuventus-pryamaya-translyaciya-liga-chempionov-22102025-smotret-onlayn.html' },
 
                  { oyun: ' Monaco - Tottenham ', saat: '23:00', 
-                 link1: 'https://www.shoot-yalla.to/live/25252/1451067/as-monaco-vs-tottenham', 
+                 link1: 'https://gobtv2.com/channel?id=yayinex4', 
                  link2: 'https://myfootball.life/11502435-as-monako-tottenhem-pryamaya-translyaciya-liga-chempionov-22102025-smotret-onlayn.html' }
         ];
 

@@ -1,23 +1,23 @@
 const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Atletich Club - Qarabağ ', saat: '20:45', 
-                link1: 'https://tv.canlitvme.com/livetv/ictimaitv-canli-hd', 
-                link2: 'https://myfootball.life/11502425-atletik-bilbao-karabah-pryamaya-translyaciya-liga-chempionov-22102025-smotret-onlayn.html' },
+                { oyun: ' Brest - PSG ', saat: '19:00', 
+                link1: 'https://rotabettv367.com/mac/brest-psg-bein-sports-4/', 
+                link2: 'https://myfootball.life/11503170-brest-pszh-pryamaya-translyaciya-franciya-liga-1-25102025-smotret-onlayn.html' },
 
-                { oyun: ' Galatasaray - Bodo/Glimt ', saat: '20:45', 
-                  link1: 'https://ovogoaal.com/match-updates/galatasaray-vs-bodo-glimt/', 
-                  link2: 'https://myfootball.life/11502426-galatasaray-bude-glimt-pryamaya-translyaciya-liga-chempionov-22102025-smotret-onlayn.html' },
+                { oyun: ' Napoli - Inter ', saat: '20:00', 
+                  link1: 'https://rotabettv367.com/mac/napoli-inter-s-sport-2/', 
+                  link2: 'https://myfootball.life/11503175-napoli-inter-pryamaya-translyaciya-italiya-seriya-a-25102025-smotret-onlayn.html' },
                 
-                 { oyun: ' Konyaspor - Beşiktaş ', saat: '21:00', 
-                 link1: 'https://www.shoot-yalla.to/live/24035/1394456/konyaspor-vs-besiktas', 
-                 link2: 'https://myfootball.life/11502428-konyaspor-beshiktash-pryamaya-translyaciya-turciya-superliga-22102025-smotret-onlayn.html' },
+                 { oyun: ' Man United - Brighton ', saat: '20:30', 
+                 link1: 'https://www.canlitv.vin/idmantv-canli', 
+                 link2: 'https://myfootball.life/11503179-manchester-yun-brayton-pryamaya-translyaciya-angliya-premer-liga-25102025-smotret-onlayn.html' },
                 
-                { oyun: ' Bayern - Club Brugge ', saat: '23:00', 
-                link1: 'https://www.shoot-yalla.to/live/25253/1451073/bayern-munich-vs-club-brugge',
-                link2: 'https://myfootball.life/11502441-bavariya-bryugge-pryamaya-translyaciya-liga-chempionov-22102025-smotret-onlayn.htmlova'},
+                { oyun: ' Brentford - Liverpool ', saat: '23:00', 
+                link1: 'https://www.canlitv.vin/idmantv-canli',
+                link2: 'https://myfootball.life/11503194-brentford-liverpul-pryamaya-translyaciya-angliya-premer-liga-25102025-smotret-onlayn.htmlT'},
 
-                 { oyun: ' Chelsea - Ajax ', saat: '23:00', 
+               /*  { oyun: ' Chelsea - Ajax ', saat: '23:00', 
                    link1: 'https://ovogoaal.com/match-updates/chelsea-vs-ajax/', 
                    link2: 'https://myfootball.life/11502440-chelsi-ayaks-pryamaya-translyaciya-liga-chempionov-22102025-smotret-onlayn.html' },
                 
@@ -31,7 +31,7 @@ const main = document.getElementsByClassName('main')[0];
 
                  { oyun: ' Monaco - Tottenham ', saat: '23:00', 
                  link1: 'https://gobtv2.com/channel?id=yayinex4', 
-                 link2: 'https://myfootball.life/11502435-as-monako-tottenhem-pryamaya-translyaciya-liga-chempionov-22102025-smotret-onlayn.html' }
+                 link2: 'https://myfootball.life/11502435-as-monako-tottenhem-pryamaya-translyaciya-liga-chempionov-22102025-smotret-onlayn.html' }*/
         ];
 
         oyunlar.forEach(e => {

@@ -1,37 +1,37 @@
 const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Brest - PSG ', saat: '19:00', 
-                link1: 'https://rotabettv367.com/mac/brest-psg-bein-sports-4/', 
-                link2: 'https://myfootball.life/11503170-brest-pszh-pryamaya-translyaciya-franciya-liga-1-25102025-smotret-onlayn.html' },
+                { oyun: ' Arsenal - Crystal Palace ', saat: '18:00', 
+                link1: 'https://rotabettv367.com/mac/arsenal-crystal-palace-bein-sports-3/', 
+                link2: 'https://myfootball.life/11503237-arsenal-kristal-pelas-pryamaya-translyaciya-angliya-premer-liga-26102025-smotret-onlayn.html' },
 
-                { oyun: ' Napoli - Inter ', saat: '20:00', 
-                  link1: 'https://rotabettv367.com/mac/napoli-inter-s-sport-2/', 
-                  link2: 'https://myfootball.life/11503175-napoli-inter-pryamaya-translyaciya-italiya-seriya-a-25102025-smotret-onlayn.html' },
+                { oyun: ' Aston Villa - Man City ', saat: '18:00', 
+                  link1: 'https://rotabettv367.com/mac/aston-villa-manchester-city-bein-sports-4/', 
+                  link2: 'https://myfootball.life/11503236-aston-villa-manchester-siti-pryamaya-translyaciya-angliya-premer-liga-26102025-smotret-onlayn.html' },
                 
-                 { oyun: ' Man United - Brighton ', saat: '20:30', 
+                 { oyun: ' Real Madrid - Barcelona [AZ] ', saat: '19:15', 
                  link1: 'https://www.canlitv.vin/idmantv-canli', 
-                 link2: 'https://myfootball.life/11503179-manchester-yun-brayton-pryamaya-translyaciya-angliya-premer-liga-25102025-smotret-onlayn.html' },
+                 link2: 'https://rotabettv367.com/mac/real-madrid-barcelona-idman-tv/' },
                 
-                { oyun: ' Brentford - Liverpool ', saat: '23:00', 
-                link1: 'https://www.canlitv.vin/idmantv-canli',
-                link2: 'https://myfootball.life/11503194-brentford-liverpul-pryamaya-translyaciya-angliya-premer-liga-25102025-smotret-onlayn.htmlT'},
+                { oyun: ' Real Madrid - Barcelona [TR] ', saat: '19:15', 
+                link1: 'https://rotabettv367.com/mac/real-madrid-barcelona-s-sport/',
+                link2: 'https://noingoaithatgiare.com/index.html'},
 
-               /*  { oyun: ' Chelsea - Ajax ', saat: '23:00', 
-                   link1: 'https://ovogoaal.com/match-updates/chelsea-vs-ajax/', 
-                   link2: 'https://myfootball.life/11502440-chelsi-ayaks-pryamaya-translyaciya-liga-chempionov-22102025-smotret-onlayn.html' },
+                 { oyun: ' Real Madrid - Barcelona [RU] ', saat: '19:15', 
+                   link1: 'https://myfootball.life/11503246-real-madrid-barselona-pryamaya-translyaciya-ispaniya-primera-divizion-26102025-smotret-onlayn.html', 
+                   link2: 'https://myfootball.life/11503246-real-madrid-barselona-pryamaya-translyaciya-ispaniya-primera-divizion-26102025-smotret-onlayn.html' },
                 
-                { oyun: ' Frankfurt - Liverpool ', saat: '23:00', 
-                 link1: 'https://ovogoaal.com/match-updates/frankfurt-vs-liverpool/', 
-                 link2: 'https://myfootball.life/11502438-ayntraht-liverpul-pryamaya-translyaciya-liga-chempionov-22102025-smotret-onlayn.html' },
+                { oyun: ' Real Madrid - Barcelona ', saat: '19:15', 
+                 link1: 'https://www.shoot-yalla.to/live/25355/1390916/real-madrid-vs-barcelona', 
+                 link2: 'https://ovogoaal.com/match-updates/real-madrid-vs-barcelona/' },
 
-                { oyun: ' Real Madrid - Juventus ', saat: '23:00', 
-                 link1: 'https://ovogoaal.com/match-updates/real-madrid-vs-juventus/', 
-                 link2: 'https://myfootball.life/11502439-real-madrid-yuventus-pryamaya-translyaciya-liga-chempionov-22102025-smotret-onlayn.html' },
+                { oyun: ' Everton - Tottenham ', saat: '20:30', 
+                 link1: 'https://rotabettv367.com/mac/everton-tottenham-bein-sports-3/', 
+                 link2: 'https://myfootball.life/11503259-everton-tottenhem-pryamaya-translyaciya-angliya-premer-liga-26102025-smotret-onlayn.html' },
 
-                 { oyun: ' Monaco - Tottenham ', saat: '23:00', 
-                 link1: 'https://gobtv2.com/channel?id=yayinex4', 
-                 link2: 'https://myfootball.life/11502435-as-monako-tottenhem-pryamaya-translyaciya-liga-chempionov-22102025-smotret-onlayn.html' }*/
+                 { oyun: ' Lazio - Juventus ', saat: '23:45', 
+                 link1: 'https://rotabettv367.com/mac/lazio-juventus-tivibu-spor-1/', 
+                 link2: 'https://myfootball.life/11503273-lacio-yuventus-pryamaya-translyaciya-italiya-seriya-a-26102025-smotret-onlayn.html' }
         ];
 
         oyunlar.forEach(e => {

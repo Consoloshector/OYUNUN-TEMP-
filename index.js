@@ -2,36 +2,36 @@ const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
                 { oyun: ' Burnley - Arsenal ', saat: '19:00', 
-                link1: 'https://rotabettv367.com/mac/inter-fiorentina-tivibu-spor-1/', 
-                link2: 'https://myfootball.life/11504222-inter-fiorentina-pryamaya-translyaciya-italiya-seriya-a-29102025-smotret-onlayn.html' },
+                link1: 'https://rotabettv367.com/mac/burnley-arsenal-bein-sports-3/', 
+                link2: 'https://myfootball.life/11504875-bernli-arsenal-pryamaya-translyaciya-angliya-premer-liga-01112025-smotret-onlayn.html' },
 
                 { oyun: ' Nottingham - Man United ', saat: '19:00', 
-                  link1: 'https://www.shoot-yalla.to/live/25405/1463474/fc-koln-vs-bayern-munich', 
-                  link2: 'https://myfootball.life/11504218-keln-bavariya-pryamaya-translyaciya-germaniya-kubok-dfb-29102025-smotret-onlayn.html' },
+                  link1: 'https://rotabettv367.com/mac/nottingham-forest-manchester-utd-bein-sports-max-2/', 
+                  link2: 'https://myfootball.life/11504872-nottingem-forest-manchester-yun-pryamaya-translyaciya-angliya-premer-liga-01112025-smotret-onlayn.html' },
                 
                  { oyun: ' Napoli - Como ', saat: '21:00', 
-                 link1: 'https://www.shoot-yalla.to/live/25397/1479620/wolverhampton-vs-chelsea', 
-                 link2: 'https://myfootball.life/11504214-vulverhempton-chelsi-pryamaya-translyaciya-angliya-kubok-ligi-29102025-smotret-onlayn.html' },
+                 link1: 'https://rotabettv367.com/mac/napoli-como-s-sport-2/', 
+                 link2: 'https://myfootball.life/11504887-napoli-komo-pryamaya-translyaciya-italiya-seriya-a-01112025-smotret-onlayn.html' },
                 
                 { oyun: ' Trabzonspor - Galatasaray ', saat: '21:00', 
-                link1: 'https://www.shoot-yalla.to/live/25396/1479619/arsenal-vs-brighton',
-                link2: 'https://myfootball.life/11504217-arsenal-brayton-pryamaya-translyaciya-angliya-kubok-ligi-29102025-smotret-onlayn.html'},
+                link1: 'https://rotabettv367.com/mac/galatasaray-trabzonspor-bein-sports-1/',
+                link2: 'https://myfootball.life/11504888-galatasaray-trabzonspor-pryamaya-translyaciya-turciya-superliga-01112025-smotret-onlayn.html'},
 
                  { oyun: ' Bayern - Bayer ', saat: '21:30', 
-                   link1: 'https://www.shoot-yalla.to/live/25394/1479617/swansea-city-vs-manchester-city', 
-                   link2: 'https://myfootball.life/11504216-suonsi-siti-manchester-siti-pryamaya-translyaciya-angliya-kubok-ligi-29102025-smotret-onlayn.html' },
+                   link1: 'https://rotabettv367.com/mac/bayern-munih-bayer-leverkusen-tivibu-spor-2/', 
+                   link2: 'https://myfootball.life/11504892-bavariya-bayer-l-pryamaya-translyaciya-germaniya-bundesliga-01112025-smotret-onlayn.html' },
                 
                 { oyun: ' Tottenham - Chelsea ', saat: '21:30', 
-                 link1: 'https://www.shoot-yalla.to/live/25395/1479618/liverpool-vs-crystal-palace', 
-                 link2: 'https://myfootball.life/11504215-liverpul-kristal-pelas-pryamaya-translyaciya-angliya-kubok-ligi-29102025-smotret-onlayn.htmlza' },
+                 link1: 'https://rotabettv367.com/mac/tottenham-chelsea-bein-sports-3/', 
+                 link2: 'https://myfootball.life/11504894-tottenhem-chelsi-pryamaya-translyaciya-angliya-premer-liga-01112025-smotret-onlayn.html' },
 
                 { oyun: ' Real Madrid - Valencia ', saat: '00:00', 
-                 link1: 'https://www.shoot-yalla.to/live/25398/1479621/newcastle-united-vs-tottenham', 
-                 link2: 'https://myfootball.life/11504231-nyukasl-yunayted-tottenhem-pryamaya-translyaciya-angliya-kubok-ligi-29102025-smotret-onlayn.html' },
+                 link1: 'https://rotabettv367.com/mac/real-madrid-valencia-s-sport/', 
+                 link2: 'https://myfootball.life/11504907-real-madrid-valensiya-pryamaya-translyaciya-ispaniya-primera-divizion-01112025-smotret-onlayn.html' },
 
                  { oyun: ' Liverpool - Aston Villa ', saat: '00:00', 
-                 link1: 'https://rotabettv367.com/mac/lazio-juventus-tivibu-spor-1/', 
-                 link2: 'https://myfootball.life/11503273-lacio-yuventus-pryamaya-translyaciya-italiya-seriya-a-26102025-smotret-onlayn.html' }
+                 link1: 'https://rotabettv367.com/mac/liverpool-aston-villa-idman-tv/', 
+                 link2: 'https://myfootball.life/11504908-liverpul-aston-villa-pryamaya-translyaciya-angliya-premer-liga-01112025-smotret-onlayn.html' }
         ];
 
         oyunlar.forEach(e => {

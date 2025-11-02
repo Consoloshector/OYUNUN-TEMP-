@@ -6,7 +6,7 @@ const main = document.getElementsByClassName('main')[0];
                 link2: 'https://myfootball.life/11504951-manchester-siti-bornmut-pryamaya-translyaciya-angliya-premer-liga-02112025-smotret-onlayn.html' },
 
                 { oyun: ' Beşiktaş - Fenerbahçe (1) ', saat: '21:00', 
-                  link1: 'https://rotabettv367.com/mac/besiktas-fenerbahce-bein-sports-1/', 
+                  link1: 'https://taraftar.cv/izle/besiktas-fenerbahce-futboi', 
                   link2: 'https://myfootball.life/11504954-beshiktash-fenerbahche-pryamaya-translyaciya-turciya-superliga-02112025-smotret-onlayn.html' },
                 
                  { oyun: ' Beşiktaş - Fenerbahçe (2)', saat: '21:00', 
@@ -14,7 +14,7 @@ const main = document.getElementsByClassName('main')[0];
                  link2: 'https://noingoaithatgiare.com/index.html' },
                 
                 { oyun: ' Beşiktaş - Fenerbahçe (3)', saat: '21:00', 
-                link1: 'https://taraftar.cv/izle/besiktas-fenerbahce-futboi',
+                link1: 'https://rotabettv367.com/mac/besiktas-fenerbahce-bein-sports-1/',
                 link2: 'https://hdselcukspor.in/izle/besiktas-fenerbahce-futboi'},
 
                  { oyun: ' Barcelona - Elche  ', saat: '21:30', 

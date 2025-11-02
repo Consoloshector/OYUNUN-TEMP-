@@ -6,8 +6,8 @@ const main = document.getElementsByClassName('main')[0];
                 link2: 'https://myfootball.life/11504951-manchester-siti-bornmut-pryamaya-translyaciya-angliya-premer-liga-02112025-smotret-onlayn.html' },
 
                 { oyun: ' Beşiktaş - Fenerbahçe (1) ', saat: '21:00', 
-                  link1: 'https://taraftar.cv/izle/besiktas-fenerbahce-futboi', 
-                  link2: 'https://myfootball.life/11504954-beshiktash-fenerbahche-pryamaya-translyaciya-turciya-superliga-02112025-smotret-onlayn.html' },
+                  link1: 'https://monotv524.com/channel?id=yayinzirve', 
+                  link2: 'https://golvar305.sbs/mac/besiktas-fenerbahce-bein-sports-1/' },
                 
                  { oyun: ' Beşiktaş - Fenerbahçe (2)', saat: '21:00', 
                  link1: 'https://www.shoot-yalla.to/live/25525/1394525/besiktas-vs-fenerbahce', 

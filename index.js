@@ -2,11 +2,11 @@ const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
                 { oyun: '  Napoli - Frankfurt ', saat: '21:45', 
-                link1: 'https://noingoaithatgiare.com/index.html', 
+                link1: 'https://www.youtube.com/live/gnWDSseIng8?si=NoJamt75lsiUJ7Zl', 
                 link2: 'https://myfootball.life/11505532-napoli-ayntraht-pryamaya-translyaciya-liga-chempionov-04112025-smotret-onlayn.html' },
 
                 { oyun: ' Slavia - Arsenal ', saat: '21:45', 
-                  link1: 'https://noingoaithatgiare.com/index.html', 
+                  link1: 'https://golvar355.sbs/mac/slavia-prag-arsenal-tabii-spor/', 
                   link2: 'https://myfootball.life/11505533-slaviya-praga-arsenal-pryamaya-translyaciya-liga-chempionov-04112025-smotret-onlayn.html' },
                 
                  { oyun: ' Juventus - Sporting ', saat: '00:00', 

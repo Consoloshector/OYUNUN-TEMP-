@@ -1,4 +1,4 @@
-const main = document.getElementsByClassName('main')[0];
+ const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
                 { oyun: '  Napoli - Frankfurt ', saat: '21:45', 
@@ -10,19 +10,19 @@ const main = document.getElementsByClassName('main')[0];
                   link2: 'https://myfootball.life/11505533-slaviya-praga-arsenal-pryamaya-translyaciya-liga-chempionov-04112025-smotret-onlayn.html' },
                 
                  { oyun: ' Juventus - Sporting ', saat: '00:00', 
-                 link1: 'https://noingoaithatgiare.com/index.html', 
+                 link1: 'https://www.shoot-yalla.me/live/25551/1451082/juventus-vs-sporting-cp', 
                  link2: 'https://myfootball.life/11505545-yuventus-sporting-pryamaya-translyaciya-liga-chempionov-04112025-smotret-onlayn.html' },
                 
                 { oyun: ' Liverpool - Real Madrid ', saat: '00:00', 
-                link1: 'https://noingoaithatgiare.com/index.html',
+                link1: 'https://www.shoot-yalla.me/live/25549/1451077/liverpool-vs-real-madrid',
                 link2: 'https://myfootball.life/11505546-liverpul-real-madrid-pryamaya-translyaciya-liga-chempionov-04112025-smotret-onlayn.html'},
 
                  { oyun: ' PSG - Bayern  ', saat: '00:00', 
-                   link1: 'ttps://noingoaithatgiare.com/index.html', 
+                   link1: 'https://www.shoot-yalla.me/live/25550/1451081/paris-saint-germain-vs-bayern-munich', 
                    link2: 'https://myfootball.life/11505547-pszh-bavariya-pryamaya-translyaciya-liga-chempionov-04112025-smotret-onlayn.html' },
                 
                 { oyun: ' Tottenham - Copenhagen  ', saat: '00:00', 
-                 link1: 'ttps://noingoaithatgiare.com/index.html', 
+                 link1: 'https://www.shoot-yalla.me/live/25555/1451076/tottenham-vs-fc-copenhagen', 
                  link2: 'https://myfootball.life/11505543-tottenhem-kopengagen-pryamaya-translyaciya-liga-chempionov-04112025-smotret-onlayn.html' },
 
                /* { oyun: ' Real Madrid - Valencia ', saat: '00:00', 

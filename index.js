@@ -1,29 +1,29 @@
 const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: '  Man City - Bournemouth ', saat: '20:30', 
-                link1: 'https://rotabettv367.com/mac/manchester-city-bournemouth-bein-sports-3/', 
-                link2: 'https://myfootball.life/11504951-manchester-siti-bornmut-pryamaya-translyaciya-angliya-premer-liga-02112025-smotret-onlayn.html' },
+                { oyun: '  Napoli - Frankfurt ', saat: '21:45', 
+                link1: 'https://noingoaithatgiare.com/index.html', 
+                link2: 'https://myfootball.life/11505532-napoli-ayntraht-pryamaya-translyaciya-liga-chempionov-04112025-smotret-onlayn.html' },
 
-                { oyun: ' Beşiktaş - Fenerbahçe (1) ', saat: '21:00', 
-                  link1: 'https://monotv524.com/channel?id=yayinzirve', 
-                  link2: 'https://golvar305.sbs/mac/besiktas-fenerbahce-bein-sports-1/' },
+                { oyun: ' Slavia - Arsenal ', saat: '21:45', 
+                  link1: 'https://noingoaithatgiare.com/index.html', 
+                  link2: 'https://myfootball.life/11505533-slaviya-praga-arsenal-pryamaya-translyaciya-liga-chempionov-04112025-smotret-onlayn.html' },
                 
-                 { oyun: ' Beşiktaş - Fenerbahçe (2)', saat: '21:00', 
-                 link1: 'https://www.shoot-yalla.to/live/25525/1394525/besiktas-vs-fenerbahce', 
-                 link2: 'https://noingoaithatgiare.com/index.html' },
+                 { oyun: ' Juventus - Sporting ', saat: '00:00', 
+                 link1: 'https://noingoaithatgiare.com/index.html', 
+                 link2: 'https://myfootball.life/11505545-yuventus-sporting-pryamaya-translyaciya-liga-chempionov-04112025-smotret-onlayn.html' },
                 
-                { oyun: ' Beşiktaş - Fenerbahçe (3)', saat: '21:00', 
-                link1: 'https://rotabettv367.com/mac/besiktas-fenerbahce-bein-sports-1/',
-                link2: 'https://hdselcukspor.in/izle/besiktas-fenerbahce-futboi'},
+                { oyun: ' Liverpool - Real Madrid ', saat: '00:00', 
+                link1: 'https://noingoaithatgiare.com/index.html',
+                link2: 'https://myfootball.life/11505546-liverpul-real-madrid-pryamaya-translyaciya-liga-chempionov-04112025-smotret-onlayn.html'},
 
-                 { oyun: ' Barcelona - Elche  ', saat: '21:30', 
-                   link1: 'https://rotabettv367.com/mac/barcelona-elche-idman-tv', 
-                   link2: 'https://myfootball.life/11504956-barselona-elche-pryamaya-translyaciya-ispaniya-primera-divizion-02112025-smotret-onlayn.html' },
+                 { oyun: ' PSG - Bayern  ', saat: '00:00', 
+                   link1: 'ttps://noingoaithatgiare.com/index.html', 
+                   link2: 'https://myfootball.life/11505547-pszh-bavariya-pryamaya-translyaciya-liga-chempionov-04112025-smotret-onlayn.html' },
                 
-                { oyun: ' Milan - Roma ', saat: '23:45', 
-                 link1: 'https://rotabettv367.com/mac/milan-roma-tivibu-spor-1/', 
-                 link2: 'https://myfootball.life/11504967-milan-roma-pryamaya-translyaciya-italiya-seriya-a-02112025-smotret-onlayn.html' },
+                { oyun: ' Tottenham - Copenhagen  ', saat: '00:00', 
+                 link1: 'ttps://noingoaithatgiare.com/index.html', 
+                 link2: 'https://myfootball.life/11505543-tottenhem-kopengagen-pryamaya-translyaciya-liga-chempionov-04112025-smotret-onlayn.html' },
 
                /* { oyun: ' Real Madrid - Valencia ', saat: '00:00', 
                  link1: 'https://rotabettv367.com/mac/real-madrid-valencia-s-sport/', 

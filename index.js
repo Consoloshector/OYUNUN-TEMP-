@@ -1,29 +1,29 @@
  const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: '  Napoli - Frankfurt ', saat: '21:45', 
+                { oyun: ' Qarabağ - Chelsea ', saat: '21:45', 
                 link1: 'https://www.youtube.com/live/gnWDSseIng8?si=NoJamt75lsiUJ7Zl', 
                 link2: 'https://myfootball.life/11505532-napoli-ayntraht-pryamaya-translyaciya-liga-chempionov-04112025-smotret-onlayn.html' },
 
-                { oyun: ' Slavia - Arsenal ', saat: '21:45', 
+                { oyun: ' Ajax - Galatasaray ', saat: '21:45', 
                   link1: 'https://golvar355.sbs/mac/slavia-prag-arsenal-tabii-spor/', 
                   link2: 'https://myfootball.life/11505533-slaviya-praga-arsenal-pryamaya-translyaciya-liga-chempionov-04112025-smotret-onlayn.html' },
                 
-                 { oyun: ' Juventus - Sporting ', saat: '00:00', 
+                 { oyun: ' Club Brugge - Barcelona ', saat: '00:00', 
                  link1: 'https://golvar355.sbs/mac/juventus-sporting-lisbon-tabii-spor-2/', 
                  link2: 'https://myfootball.life/11505545-yuventus-sporting-pryamaya-translyaciya-liga-chempionov-04112025-smotret-onlayn.html' },
                 
-                { oyun: ' Liverpool - Real Madrid ', saat: '00:00', 
+                { oyun: ' Man City - Dortmund ', saat: '00:00', 
                 link1: 'https://golvar355.sbs/mac/liverpool-real-madrid-tabii-spor/',
                 link2: 'https://myfootball.life/11505546-liverpul-real-madrid-pryamaya-translyaciya-liga-chempionov-04112025-smotret-onlayn.html'},
 
-                 { oyun: ' PSG - Bayern  ', saat: '00:00', 
+                 /*{ oyun: ' PSG - Bayern  ', saat: '00:00', 
                    link1: 'https://golvar355.sbs/mac/psg-bayern-munih-tabii-spor-1/', 
                    link2: 'https://myfootball.life/11505547-pszh-bavariya-pryamaya-translyaciya-liga-chempionov-04112025-smotret-onlayn.html' },
                 
                 { oyun: ' Tottenham - Copenhagen  ', saat: '00:00', 
                  link1: 'https://golvar355.sbs/mac/tottenham-kopenhag-tabii-spor-4/', 
-                 link2: 'https://myfootball.life/11505543-tottenhem-kopengagen-pryamaya-translyaciya-liga-chempionov-04112025-smotret-onlayn.html' },
+                 link2: 'https://myfootball.life/11505543-tottenhem-kopengagen-pryamaya-translyaciya-liga-chempionov-04112025-smotret-onlayn.html' },*/
 
                /* { oyun: ' Real Madrid - Valencia ', saat: '00:00', 
                  link1: 'https://rotabettv367.com/mac/real-madrid-valencia-s-sport/', 

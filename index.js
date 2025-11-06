@@ -1,11 +1,11 @@
  const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Qarabağ - Chelsea ', saat: '21:45', 
-                link1: 'https://www.youtube.com/live/C8k3B5fut0s?si=7UotWKpbeGSO4G_h', 
-                link2: 'https://myfootball.life/11505558-karabah-chelsi-pryamaya-translyaciya-liga-chempionov-05112025-smotret-onlayn.html' },
+                { oyun: ' Viktoria Plezen - Fenerbahçe ', saat: '00:00', 
+                link1: 'https://www.youtube.com/live/ON3ZO2NZ7k0?si=EKMDsZuK8d4OMiMV', 
+                link2: 'https://myfootball.life/11505607-viktoriya-p-fenerbahche-pryamaya-translyaciya-liga-evropy-06112025-smotret-onlayn.html' },
 
-                { oyun: ' Ajax - Galatasaray ', saat: '00:00', 
+               /* { oyun: ' Ajax - Galatasaray ', saat: '00:00', 
                   link1: 'https://golvar395.sbs/mac/ajax-galatasaray-trt-1/', 
                   link2: 'https://myfootball.life/11505565-ayaks-galatasaray-pryamaya-translyaciya-liga-chempionov-05112025-smotret-onlayn.html' },
                 
@@ -17,7 +17,7 @@
                 link1: 'https://golvar395.sbs/mac/manchester-city-b-dortmund-tabii-spor/',
                 link2: 'https://myfootball.life/11505569-manchester-siti-borussiya-d-pryamaya-translyaciya-liga-chempionov-05112025-smotret-onlayn.html'},
 
-                 /*{ oyun: ' PSG - Bayern  ', saat: '00:00', 
+                 { oyun: ' PSG - Bayern  ', saat: '00:00', 
                    link1: 'https://golvar355.sbs/mac/psg-bayern-munih-tabii-spor-1/', 
                    link2: 'https://myfootball.life/11505547-pszh-bavariya-pryamaya-translyaciya-liga-chempionov-04112025-smotret-onlayn.html' },
                 

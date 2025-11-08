@@ -1,23 +1,23 @@
  const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Viktoria Plezen - Fenerbahçe ', saat: '00:00', 
-                link1: 'https://www.youtube.com/live/ON3ZO2NZ7k0?si=EKMDsZuK8d4OMiMV', 
-                link2: 'https://myfootball.life/11505607-viktoriya-p-fenerbahche-pryamaya-translyaciya-liga-evropy-06112025-smotret-onlayn.html' },
+                { oyun: ' Tottenham - Man United ', saat: '16:30', 
+                link1: 'https://idmantv.az/az', 
+                link2: 'https://myfootball.life/11506370-tottenhem-manchester-yun-pryamaya-translyaciya-angliya-premer-liga-08112025-smotret-onlayn.html' },
 
-               /* { oyun: ' Ajax - Galatasaray ', saat: '00:00', 
-                  link1: 'https://golvar395.sbs/mac/ajax-galatasaray-trt-1/', 
-                  link2: 'https://myfootball.life/11505565-ayaks-galatasaray-pryamaya-translyaciya-liga-chempionov-05112025-smotret-onlayn.html' },
+                { oyun: ' Union - Bayern ', saat: '18:30', 
+                  link1: 'https://rotabettv370.com/mac/union-berlin-bayern-munih-tivibu-spor-2/', 
+                  link2: 'https://myfootball.life/11506378-union-berlin-bavariya-pryamaya-translyaciya-germaniya-bundesliga-08112025-smotret-onlayn.html' },
                 
-                 { oyun: ' Club Brugge - Barcelona ', saat: '00:00', 
-                 link1: 'https://golvar395.sbs/mac/club-brugge-barcelona-tabii-spor-1/', 
-                 link2: 'https://myfootball.life/11505568-bryugge-barselona-pryamaya-translyaciya-liga-chempionov-05112025-smotret-onlayn.html' },
+                 { oyun: ' Juventus - Torino ', saat: '21:00', 
+                 link1: 'https://rotabettv370.com/mac/juventus-torino-tivibu-spor-1/', 
+                 link2: 'https://myfootball.life/11506408-yuventus-torino-pryamaya-translyaciya-italiya-seriya-a-08112025-smotret-onlayn.html' },
                 
-                { oyun: ' Man City - Dortmund ', saat: '00:00', 
-                link1: 'https://golvar395.sbs/mac/manchester-city-b-dortmund-tabii-spor/',
-                link2: 'https://myfootball.life/11505569-manchester-siti-borussiya-d-pryamaya-translyaciya-liga-chempionov-05112025-smotret-onlayn.html'},
+                { oyun: ' Sunderland - Arsenal ', saat: '21:30', 
+                link1: 'https://idmantv.az/az',
+                link2: 'https://myfootball.life/11506412-sanderlend-arsenal-pryamaya-translyaciya-angliya-premer-liga-08112025-smotret-onlayn.html'},
 
-                 { oyun: ' PSG - Bayern  ', saat: '00:00', 
+                 /*{ oyun: ' PSG - Bayern  ', saat: '00:00', 
                    link1: 'https://golvar355.sbs/mac/psg-bayern-munih-tabii-spor-1/', 
                    link2: 'https://myfootball.life/11505547-pszh-bavariya-pryamaya-translyaciya-liga-chempionov-04112025-smotret-onlayn.html' },
                 

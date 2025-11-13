@@ -1,25 +1,25 @@
- const main = document.getElementsByClassName('main')[0];
+   const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Antalyaspor - Beşiktaş ', saat: '21:00', 
-                   link1: 'https://rotabettv370.com/mac/antalyaspor-besiktas-bein-sports-1/', 
-                   link2: 'https://myfootball.life/11506406-antalyaspor-beshiktash-pryamaya-translyaciya-turciya-superliga-08112025-smotret-onlayn.html' },
+                { oyun: ' Azərbaycan - İslandiya ', saat: '21:00', 
+                   link1: 'https://www.youtube.com/live/-itMdvajukg?si=Sl0du2JY1uCoCueK', 
+                   link2: 'https://myfootball.life/11507538-azerbaydzhan-islandiya-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-13112025-smotret-onlayn.html' },
          
-                { oyun: ' Juventus - Torino ', saat: '21:00', 
-                 link1: 'https://rotabettv370.com/mac/juventus-torino-tivibu-spor-1/', 
-                 link2: 'https://myfootball.life/11506408-yuventus-torino-pryamaya-translyaciya-italiya-seriya-a-08112025-smotret-onlayn.html' },
+                { oyun: ' İngiltərə - Serbiya ', saat: '23:45', 
+                 link1: 'https://www.shoot-yalla.to/live/25806/1323347/england-vs-serbia', 
+                 link2: 'https://myfootball.life/11507549-angliya-ang-serbiya-srb-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-13112025-smotret-onlayn.html' },
                 
-                { oyun: ' Sunderland - Arsenal ', saat: '21:30', 
-                link1: 'https://idmantv.az/az',
-                link2: 'https://myfootball.life/11506412-sanderlend-arsenal-pryamaya-translyaciya-angliya-premer-liga-08112025-smotret-onlayn.html'},
+                { oyun: ' Moldova - İtaliya ', saat: '23:45', 
+                link1: 'https://www.shoot-yalla.to/live/25809/1366313/moldova-vs-italy',
+                link2: 'https://myfootball.life/11507546-moldaviya-mol-italiya-ita-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-13112025-smotret-onlayn.html'},
          
-                { oyun: ' Parma - Milan ', saat: '23:45', 
-                link1: 'hhttps://rotabettv370.com/mac/parma-milan-s-sport-2/', 
-                link2: 'https://myfootball.life/11506423-parma-milan-pryamaya-translyaciya-italiya-seriya-a-08112025-smotret-onlayn.html' },
+                { oyun: ' İrlandiya - Portuqaliya ', saat: '23:45', 
+                link1: 'https://www.shoot-yalla.to/live/25807/1366312/rep-of-ireland-vs-portugal', 
+                link2: 'https://myfootball.life/11507547-irlandiya-irl-portugaliya-por-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-13112025-smotret-onlayn.html' },
 
-                { oyun: ' Chelsea - Wolverhempton ', saat: '00:00', 
-                  link1: 'https://rotabettv370.com/mac/chelsea-wolverhampton-bein-sports-3/', 
-                  link2: 'https://myfootball.life/11506426-chelsi-vulverhempton-pryamaya-translyaciya-angliya-premer-liga-08112025-smotret-onlayn.html' },
+                { oyun: ' Fransa - Ukraniya ', saat: '23:45', 
+                  link1: 'https://www.youtube.com/watch?v=6lZmSgrvaSY', 
+                  link2: 'https://myfootball.life/11507548-franciya-fra-ukraina-ukr-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-13112025-smotret-onlayn.html' },
                 
                 /*{ oyun: ' Tottenham - Copenhagen  ', saat: '00:00', 
                  link1: 'https://golvar355.sbs/mac/tottenham-kopenhag-tabii-spor-4/', 

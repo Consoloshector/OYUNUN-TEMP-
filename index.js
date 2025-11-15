@@ -6,12 +6,12 @@
                    link2: 'https://myfootball.life/11507953-braziliya-senegal-pryamaya-translyaciya-tovarischeskiy-match-sbornye-15112025-smotret-onlayn.html' },
          
                 { oyun: ' Türkiyə - Bolqarıstan ', saat: '21:00', 
-                 link1: 'https://www.shoot-yalla.to/live/25806/1323347/england-vs-serbia', 
-                 link2: 'https://myfootball.life/11507549-angliya-ang-serbiya-srb-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-13112025-smotret-onlayn.html' },
+                 link1: 'https://rotabettv370.com/mac/turkiye-bulgaristan-cbc-sport/', 
+                 link2: 'https://myfootball.life/11507958-turciya-tur-bolgariya-bog-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-15112025-smotret-onlayn.html' },
                 
                 { oyun: ' Gürcüstan - İspaniya ', saat: '21:00', 
-                link1: 'https://www.shoot-yalla.to/live/25809/1366313/moldova-vs-italy',
-                link2: 'https://myfootball.life/11507546-moldaviya-mol-italiya-ita-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-13112025-smotret-onlayn.html'},
+                link1: 'https://noingoaithatgiare.com/index.html',
+                link2: 'https://myfootball.life/11507959-gruziya-gru-ispaniya-isp-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-15112025-smotret-onlayn.html'},
          
                /* { oyun: ' İrlandiya - Portuqaliya ', saat: '23:45', 
                 link1: 'https://www.shoot-yalla.to/live/25807/1366312/rep-of-ireland-vs-portugal', 

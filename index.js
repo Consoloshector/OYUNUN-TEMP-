@@ -2,8 +2,8 @@
 
         let oyunlar = [
                 { oyun: ' Braziliya - Seneqal', saat: '20:00', 
-                   link1: 'https://www.youtube.com/live/-itMdvajukg?si=Sl0du2JY1uCoCueK', 
-                   link2: 'https://myfootball.life/11507538-azerbaydzhan-islandiya-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-13112025-smotret-onlayn.html' },
+                   link1: 'https://rotabettv370.com/mac/brezilya-senegal-trt-spor/', 
+                   link2: 'https://myfootball.life/11507953-braziliya-senegal-pryamaya-translyaciya-tovarischeskiy-match-sbornye-15112025-smotret-onlayn.html' },
          
                 { oyun: ' Türkiyə - Bolqarıstan ', saat: '21:00', 
                  link1: 'https://www.shoot-yalla.to/live/25806/1323347/england-vs-serbia', 

@@ -2,20 +2,20 @@
 
         let oyunlar = [
                 { oyun: ' Albaniya - İngiltərə ', saat: '21:00', 
-                   link1: 'https://rotabettv370.com/mac/brezilya-senegal-trt-spor/', 
-                   link2: 'https://myfootball.life/11507953-braziliya-senegal-pryamaya-translyaciya-tovarischeskiy-match-sbornye-15112025-smotret-onlayn.html' },
+                   link1: 'https://www.shoot-yalla.to/live/25877/1323361/albania-vs-england', 
+                   link2: 'https://myfootball.life/11507984-albaniya-alb-angliya-ang-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-16112025-smotret-onlayn.html' },
          
                 { oyun: ' Azərbaycan - Fransa ', saat: '21:00', 
-                 link1: 'https://rotabettv370.com/mac/turkiye-bulgaristan-cbc-sport/', 
-                 link2: 'https://myfootball.life/11507958-turciya-tur-bolgariya-bog-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-15112025-smotret-onlayn.html' },
+                 link1: 'https://www.canlitv.me/live/cbcsport-hd', 
+                 link2: 'https://myfootball.life/11507981-azerbaydzhan-aze-franciya-fra-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-16112025-smotret-onlayn.html' },
                 
-                { oyun: ' Nigeriya - Konqodr ', saat: '23:00', 
+               /* { oyun: ' Nigeriya - Konqodr ', saat: '23:00', 
                 link1: 'https://noingoaithatgiare.com/index.html',
-                link2: 'https://myfootball.life/11507959-gruziya-gru-ispaniya-isp-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-15112025-smotret-onlayn.html'},
+                link2: 'https://myfootball.life/11507959-gruziya-gru-ispaniya-isp-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-15112025-smotret-onlayn.html'},*/
          
                 { oyun: ' İtaliya - Norveç ', saat: '23:45', 
-                link1: 'https://www.shoot-yalla.to/live/25807/1366312/rep-of-ireland-vs-portugal', 
-                link2: 'https://myfootball.life/11507547-irlandiya-irl-portugaliya-por-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-13112025-smotret-onlayn.html' },
+                link1: 'https://www.canlitv.me/live/cbcsport-hd', 
+                link2: 'https://myfootball.life/11507985-italiya-ita-norvegiya-nor-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-16112025-smotret-onlayn.htmlr' },
 
                /* { oyun: ' Fransa - Ukraniya ', saat: '23:45', 
                   link1: 'https://www.youtube.com/watch?v=6lZmSgrvaSY', 

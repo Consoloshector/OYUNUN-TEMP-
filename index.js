@@ -5,11 +5,11 @@
                    link1: 'https://www.canlitv.me/live/cbcsport-hd', 
                    link2: 'https://myfootball.life/11508536-ispaniya-isp-turciya-tur-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-18112025-smotret-onlayn.html' },
          
-               /* { oyun: ' Azərbaycan - Fransa ', saat: '21:00', 
-                 link1: 'https://www.canlitv.me/live/cbcsport-hd', 
-                 link2: 'https://myfootball.life/11507981-azerbaydzhan-aze-franciya-fra-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-16112025-smotret-onlayn.html' },
+                { oyun: ' Bolqarıstan - Gürcüstan ', saat: '23:45', 
+                 link1: 'https://www.shoot-yalla.to/live/25945/1323370/bulgaria-vs-georgia', 
+                 link2: 'https://myfootball.life/11508545-bolgariya-bog-gruziya-gru-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-18112025-smotret-onlayn.html' },
                 
-                { oyun: ' Nigeriya - Konqodr ', saat: '23:00', 
+                /* { oyun: ' Nigeriya - Konqodr ', saat: '23:00', 
                 link1: 'https://noingoaithatgiare.com/index.html',
                 link2: 'https://myfootball.life/11507959-gruziya-gru-ispaniya-isp-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-15112025-smotret-onlayn.html'},
          

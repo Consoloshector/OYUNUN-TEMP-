@@ -1,7 +1,7 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Türkiyə - İspaniya ', saat: '23:45', 
+                { oyun: ' İspaniya - Türkiyə ', saat: '23:45', 
                    link1: 'https://www.canlitv.me/live/cbcsport-hd', 
                    link2: 'https://myfootball.life/11508536-ispaniya-isp-turciya-tur-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-18112025-smotret-onlayn.html' },
          

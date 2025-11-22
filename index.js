@@ -1,29 +1,29 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' İspaniya - Türkiyə ', saat: '23:45', 
-                   link1: 'https://www.canlitv.me/live/cbcsport-hd', 
-                   link2: 'https://myfootball.life/11508536-ispaniya-isp-turciya-tur-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-18112025-smotret-onlayn.html' },
+                { oyun: ' Burnley - Chelsea ', saat: '16:30', 
+                   link1: 'https://idmantv.az/az', 
+                   link2: 'https://myfootball.life/11508915-bernli-chelsi-pryamaya-translyaciya-angliya-premer-liga-22112025-smotret-onlayn.html' },
          
-                { oyun: ' Bolqarıstan - Gürcüstan ', saat: '23:45', 
-                 link1: 'https://www.shoot-yalla.to/live/25945/1323370/bulgaria-vs-georgia', 
-                 link2: 'https://myfootball.life/11508545-bolgariya-bog-gruziya-gru-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-18112025-smotret-onlayn.html' },
+                { oyun: ' Liverpool - Nottingham ', saat: '19:00', 
+                 link1: 'https://rotabettv370.com/mac/liverpool-nottingham-forest-bein-sports-3/', 
+                 link2: 'https://myfootball.life/11508959-liverpul-nottingem-forest-pryamaya-translyaciya-angliya-premer-liga-22112025-smotret-onlayn.html' },
                 
-                /* { oyun: ' Nigeriya - Konqodr ', saat: '23:00', 
-                link1: 'https://noingoaithatgiare.com/index.html',
-                link2: 'https://myfootball.life/11507959-gruziya-gru-ispaniya-isp-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-15112025-smotret-onlayn.html'},
+                { oyun: ' Barcelona - Athletic Club ', saat: '19:15', 
+                link1: 'https://idmantv.az/az',
+                link2: 'https://myfootball.life/11508941-barselona-atletik-bilbao-pryamaya-translyaciya-ispaniya-primera-divizion-22112025-smotret-onlayn.html'},
          
-                { oyun: ' İtaliya - Norveç ', saat: '23:45', 
-                link1: 'https://www.canlitv.me/live/cbcsport-hd', 
-                link2: 'https://myfootball.life/11507985-italiya-ita-norvegiya-nor-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-16112025-smotret-onlayn.htmlr' },*/
+                { oyun: ' Galatasaray - Gençlerbirliği ', saat: '21:00', 
+                link1: 'https://rotabettv370.com/mac/galatasaray-genclerbirligi-bein-sports-1/', 
+                link2: 'https://myfootball.life/11508952-galatasaray-genchlerbirligi-pryamaya-translyaciya-turciya-superliga-22112025-smotret-onlayn.html' },
 
-               /* { oyun: ' Fransa - Ukraniya ', saat: '23:45', 
-                  link1: 'https://www.youtube.com/watch?v=6lZmSgrvaSY', 
-                  link2: 'https://myfootball.life/11507548-franciya-fra-ukraina-ukr-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-13112025-smotret-onlayn.html' },*/
+                { oyun: ' Newcastle - Man City ', saat: '21:30', 
+                  link1: 'https://idmantv.az/az', 
+                  link2: 'https://myfootball.life/11508957-nyukasl-yunayted-manchester-siti-pryamaya-translyaciya-angliya-premer-liga-22112025-smotret-onlayn.html' },
                 
-                /*{ oyun: ' Tottenham - Copenhagen  ', saat: '00:00', 
-                 link1: 'https://golvar355.sbs/mac/tottenham-kopenhag-tabii-spor-4/', 
-                 link2: 'https://myfootball.life/11505543-tottenhem-kopengagen-pryamaya-translyaciya-liga-chempionov-04112025-smotret-onlayn.html' },*/
+                { oyun: ' Napoli - Atalanta ', saat: '23:45', 
+                 link1: 'https://rotabettv370.com/mac/napoli-atalanta-s-sport-2/', 
+                 link2: 'https://myfootball.life/11508972-napoli-atalanta-pryamaya-translyaciya-italiya-seriya-a-22112025-smotret-onlayn.html' },
 
                /* { oyun: ' Real Madrid - Valencia ', saat: '00:00', 
                  link1: 'https://rotabettv367.com/mac/real-madrid-valencia-s-sport/', 

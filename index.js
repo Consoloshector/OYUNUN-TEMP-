@@ -2,20 +2,20 @@
 
         let oyunlar = [
                 { oyun: ' Galatasaray - USG ', saat: '21:45', 
-                   link1: 'https://idmantv.az/az', 
-                   link2: 'https://myfootball.life/11508915-bernli-chelsi-pryamaya-translyaciya-angliya-premer-liga-22112025-smotret-onlayn.html' },
+                   link1: 'https://www.youtube.com/live/tqTD_kmG4yw?si=bNjq4_m1L9TXSoLM', 
+                   link2: 'https://myfootball.life/11509837-galatasaray-yunion-sent-zhillua-pryamaya-translyaciya-liga-chempionov-25112025-smotret-onlayn.html' },
          
                 { oyun: ' Chelsea - Barcelona ', saat: '21:45', 
-                 link1: 'https://rotabettv370.com/mac/liverpool-nottingham-forest-bein-sports-3/', 
-                 link2: 'https://myfootball.life/11508959-liverpul-nottingem-forest-pryamaya-translyaciya-angliya-premer-liga-22112025-smotret-onlayn.html' },
+                 link1: 'https://www.youtube.com/live/7QPDIRVXW-A?si=lq9XWBP7bmXPa4Hj', 
+                 link2: 'https://myfootball.life/11509852-chelsi-barselona-pryamaya-translyaciya-liga-chempionov-25112025-smotret-onlayn.htmltml' },
                 
                 { oyun: ' Man City - Bayer ', saat: '00:00', 
                 link1: 'https://idmantv.az/az',
-                link2: 'https://myfootball.life/11508941-barselona-atletik-bilbao-pryamaya-translyaciya-ispaniya-primera-divizion-22112025-smotret-onlayn.html'},
+                link2: 'https://myfootball.life/11509850-manchester-siti-bayer-l-pryamaya-translyaciya-liga-chempionov-25112025-smotret-onlayn.html'},
          
                 { oyun: ' Napoli - Qarabağ ', saat: '00:00', 
                 link1: 'https://rotabettv370.com/mac/galatasaray-genclerbirligi-bein-sports-1/', 
-                link2: 'https://myfootball.life/11508952-galatasaray-genchlerbirligi-pryamaya-translyaciya-turciya-superliga-22112025-smotret-onlayn.html' },
+                link2: 'https://myfootball.life/11509846-napoli-karabah-pryamaya-translyaciya-liga-chempionov-25112025-smotret-onlayn.html' },
 
                /* { oyun: ' Newcastle - Man City ', saat: '21:30', 
                   link1: 'https://idmantv.az/az', 

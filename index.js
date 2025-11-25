@@ -1,29 +1,29 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Burnley - Chelsea ', saat: '16:30', 
+                { oyun: ' Galatasaray - USG ', saat: '21:45', 
                    link1: 'https://idmantv.az/az', 
                    link2: 'https://myfootball.life/11508915-bernli-chelsi-pryamaya-translyaciya-angliya-premer-liga-22112025-smotret-onlayn.html' },
          
-                { oyun: ' Liverpool - Nottingham ', saat: '19:00', 
+                { oyun: ' Chelsea - Barcelona ', saat: '21:45', 
                  link1: 'https://rotabettv370.com/mac/liverpool-nottingham-forest-bein-sports-3/', 
                  link2: 'https://myfootball.life/11508959-liverpul-nottingem-forest-pryamaya-translyaciya-angliya-premer-liga-22112025-smotret-onlayn.html' },
                 
-                { oyun: ' Barcelona - Athletic Club ', saat: '19:15', 
+                { oyun: ' Man City - Bayer ', saat: '00:00', 
                 link1: 'https://idmantv.az/az',
                 link2: 'https://myfootball.life/11508941-barselona-atletik-bilbao-pryamaya-translyaciya-ispaniya-primera-divizion-22112025-smotret-onlayn.html'},
          
-                { oyun: ' Galatasaray - Gençlerbirliği ', saat: '21:00', 
+                { oyun: ' Napoli - Qarabağ ', saat: '00:00', 
                 link1: 'https://rotabettv370.com/mac/galatasaray-genclerbirligi-bein-sports-1/', 
                 link2: 'https://myfootball.life/11508952-galatasaray-genchlerbirligi-pryamaya-translyaciya-turciya-superliga-22112025-smotret-onlayn.html' },
 
-                { oyun: ' Newcastle - Man City ', saat: '21:30', 
+               /* { oyun: ' Newcastle - Man City ', saat: '21:30', 
                   link1: 'https://idmantv.az/az', 
                   link2: 'https://myfootball.life/11508957-nyukasl-yunayted-manchester-siti-pryamaya-translyaciya-angliya-premer-liga-22112025-smotret-onlayn.html' },
                 
                 { oyun: ' Napoli - Atalanta ', saat: '23:45', 
                  link1: 'https://rotabettv370.com/mac/napoli-atalanta-s-sport-2/', 
-                 link2: 'https://myfootball.life/11508972-napoli-atalanta-pryamaya-translyaciya-italiya-seriya-a-22112025-smotret-onlayn.html' },
+                 link2: 'https://myfootball.life/11508972-napoli-atalanta-pryamaya-translyaciya-italiya-seriya-a-22112025-smotret-onlayn.html' },*/
 
                /* { oyun: ' Real Madrid - Valencia ', saat: '00:00', 
                  link1: 'https://rotabettv367.com/mac/real-madrid-valencia-s-sport/', 

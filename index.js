@@ -10,7 +10,7 @@
                  link2: 'https://myfootball.life/11509852-chelsi-barselona-pryamaya-translyaciya-liga-chempionov-25112025-smotret-onlayn.htmltml' },
                 
                 { oyun: ' Man City - Bayer ', saat: '00:00', 
-                link1: 'https://idmantv.az/az',
+                link1: 'https://golvar269.sbs/mac/manchester-city-bayer-leverkusen-tabii-spor-1/',
                 link2: 'https://myfootball.life/11509850-manchester-siti-bayer-l-pryamaya-translyaciya-liga-chempionov-25112025-smotret-onlayn.html'},
          
                 { oyun: ' Napoli - Qarabağ ', saat: '00:00', 

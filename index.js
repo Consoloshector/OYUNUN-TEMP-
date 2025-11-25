@@ -5,7 +5,7 @@
                    link1: 'https://www.youtube.com/live/tqTD_kmG4yw?si=bNjq4_m1L9TXSoLM', 
                    link2: 'https://myfootball.life/11509837-galatasaray-yunion-sent-zhillua-pryamaya-translyaciya-liga-chempionov-25112025-smotret-onlayn.html' },
          
-                { oyun: ' Chelsea - Barcelona ', saat: '21:45', 
+                { oyun: ' Chelsea - Barcelona ', saat: '00:00', 
                  link1: 'https://www.youtube.com/live/7QPDIRVXW-A?si=lq9XWBP7bmXPa4Hj', 
                  link2: 'https://myfootball.life/11509852-chelsi-barselona-pryamaya-translyaciya-liga-chempionov-25112025-smotret-onlayn.htmltml' },
                 

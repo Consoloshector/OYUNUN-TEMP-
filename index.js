@@ -1,27 +1,27 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Galatasaray - USG ', saat: '21:45', 
-                   link1: 'https://www.youtube.com/live/tqTD_kmG4yw?si=bNjq4_m1L9TXSoLM', 
-                   link2: 'https://myfootball.life/11509837-galatasaray-yunion-sent-zhillua-pryamaya-translyaciya-liga-chempionov-25112025-smotret-onlayn.html' },
+                { oyun: ' Arsenal - Bayern ', saat: '00:00', 
+                   link1: 'https://www.youtube.com/live/i1EhMnGaKHs?si=gzn2Fh8U2QMur4Bu', 
+                   link2: 'https://myfootball.life/11509898-arsenal-bavariya-pryamaya-translyaciya-liga-chempionov-26112025-smotret-onlayn.html' },
          
-                { oyun: ' Chelsea - Barcelona ', saat: '00:00', 
-                 link1: 'https://www.youtube.com/live/7QPDIRVXW-A?si=lq9XWBP7bmXPa4Hj', 
-                 link2: 'https://myfootball.life/11509852-chelsi-barselona-pryamaya-translyaciya-liga-chempionov-25112025-smotret-onlayn.htmltml' },
+                { oyun: ' Atletico Madrid - Inter ', saat: '00:00', 
+                 link1: 'https://www.youtube.com/live/KrdY3kWlBbo?si=BucU48OlVguPxtYL', 
+                 link2: 'https://myfootball.life/11509895-atletiko-madrid-inter-pryamaya-translyaciya-liga-chempionov-26112025-smotret-onlayn.html' },
                 
-                { oyun: ' Man City - Bayer ', saat: '00:00', 
-                link1: 'https://golvar269.sbs/mac/manchester-city-bayer-leverkusen-tabii-spor-1/',
-                link2: 'https://myfootball.life/11509850-manchester-siti-bayer-l-pryamaya-translyaciya-liga-chempionov-25112025-smotret-onlayn.html'},
+                { oyun: ' Liverpool - PSV ', saat: '00:00', 
+                link1: 'https://rotabettv371.com/mac/liverpool-psv-tabii-spor-4/',
+                link2: 'https://myfootball.life/11509894-liverpul-psv-pryamaya-translyaciya-liga-chempionov-26112025-smotret-onlayn.html'},
          
-                { oyun: ' Napoli - Qarabağ ', saat: '00:00', 
-                link1: 'https://rotabettv370.com/mac/galatasaray-genclerbirligi-bein-sports-1/', 
-                link2: 'https://myfootball.life/11509846-napoli-karabah-pryamaya-translyaciya-liga-chempionov-25112025-smotret-onlayn.html' },
+                { oyun: ' Olympiacos - Real Madrid ', saat: '00:00', 
+                link1: 'https://rotabettv371.com/mac/olympiakos-real-madrid-tabii-spor-2/', 
+                link2: 'https://myfootball.life/11509897-olimpiakos-real-madrid-pryamaya-translyaciya-liga-chempionov-26112025-smotret-onlayn.html' },
 
-               /* { oyun: ' Newcastle - Man City ', saat: '21:30', 
-                  link1: 'https://idmantv.az/az', 
-                  link2: 'https://myfootball.life/11508957-nyukasl-yunayted-manchester-siti-pryamaya-translyaciya-angliya-premer-liga-22112025-smotret-onlayn.html' },
+                { oyun: ' PSG - Tottenham ', saat: '00:00', 
+                  link1: 'https://rotabettv371.com/mac/psg-tottenham-tabii-spor-3/', 
+                  link2: 'https://myfootball.life/11509893-pszh-tottenhem-pryamaya-translyaciya-liga-chempionov-26112025-smotret-onlayn.html' },
                 
-                { oyun: ' Napoli - Atalanta ', saat: '23:45', 
+               /* { oyun: ' Napoli - Atalanta ', saat: '23:45', 
                  link1: 'https://rotabettv370.com/mac/napoli-atalanta-s-sport-2/', 
                  link2: 'https://myfootball.life/11508972-napoli-atalanta-pryamaya-translyaciya-italiya-seriya-a-22112025-smotret-onlayn.html' },*/
 

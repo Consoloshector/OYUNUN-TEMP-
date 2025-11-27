@@ -2,12 +2,12 @@
 
         let oyunlar = [
                 { oyun: ' Porto - Nice ', saat: '21:45', 
-                   link1: 'https://www.youtube.com/live/i1EhMnGaKHs?si=gzn2Fh8U2QMur4Bu', 
-                   link2: 'https://myfootball.life/11509898-arsenal-bavariya-pryamaya-translyaciya-liga-chempionov-26112025-smotret-onlayn.html' },
+                   link1: 'https://golvar239.sbs/mac/porto-nice-tabii-spor-2/', 
+                   link2: 'https://myfootball.life/11509915-portu-nicca-pryamaya-translyaciya-liga-evropy-27112025-smotret-onlayn.html' },
          
                 { oyun: ' Fenerbahçe - Ferencvaros ', saat: '21:45', 
-                 link1: 'https://www.youtube.com/live/KrdY3kWlBbo?si=BucU48OlVguPxtYL', 
-                 link2: 'https://myfootball.life/11509895-atletiko-madrid-inter-pryamaya-translyaciya-liga-chempionov-26112025-smotret-onlayn.html' },
+                 link1: 'https://www.youtube.com/live/2Drp3oVUnJ4?si=dMGMJbjGzHt5NVm3', 
+                 link2: 'https://myfootball.life/11509911-fenerbahche-ferencvarosh-pryamaya-translyaciya-liga-evropy-27112025-smotret-onlayn.html' },
                 
                 /*{ oyun: ' Liverpool - PSV ', saat: '00:00', 
                 link1: 'https://rotabettv371.com/mac/liverpool-psv-tabii-spor-4/',

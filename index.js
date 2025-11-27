@@ -1,15 +1,15 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Arsenal - Bayern ', saat: '00:00', 
+                { oyun: ' Porto - Nice ', saat: '21:45', 
                    link1: 'https://www.youtube.com/live/i1EhMnGaKHs?si=gzn2Fh8U2QMur4Bu', 
                    link2: 'https://myfootball.life/11509898-arsenal-bavariya-pryamaya-translyaciya-liga-chempionov-26112025-smotret-onlayn.html' },
          
-                { oyun: ' Atletico Madrid - Inter ', saat: '00:00', 
+                { oyun: ' Fenerbahçe - Ferencvaros ', saat: '21:45', 
                  link1: 'https://www.youtube.com/live/KrdY3kWlBbo?si=BucU48OlVguPxtYL', 
                  link2: 'https://myfootball.life/11509895-atletiko-madrid-inter-pryamaya-translyaciya-liga-chempionov-26112025-smotret-onlayn.html' },
                 
-                { oyun: ' Liverpool - PSV ', saat: '00:00', 
+                /*{ oyun: ' Liverpool - PSV ', saat: '00:00', 
                 link1: 'https://rotabettv371.com/mac/liverpool-psv-tabii-spor-4/',
                 link2: 'https://myfootball.life/11509894-liverpul-psv-pryamaya-translyaciya-liga-chempionov-26112025-smotret-onlayn.html'},
          
@@ -19,7 +19,7 @@
 
                 { oyun: ' PSG - Tottenham ', saat: '00:00', 
                   link1: 'https://rotabettv371.com/mac/psg-tottenham-tabii-spor-3/', 
-                  link2: 'https://myfootball.life/11509893-pszh-tottenhem-pryamaya-translyaciya-liga-chempionov-26112025-smotret-onlayn.html' },
+                  link2: 'https://myfootball.life/11509893-pszh-tottenhem-pryamaya-translyaciya-liga-chempionov-26112025-smotret-onlayn.html' },*/
                 
                /* { oyun: ' Napoli - Atalanta ', saat: '23:45', 
                  link1: 'https://rotabettv370.com/mac/napoli-atalanta-s-sport-2/', 

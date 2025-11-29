@@ -2,15 +2,15 @@
 
         let oyunlar = [
                 { oyun: ' Man City - Leeds United ', saat: '19:00', 
-                   link1: 'https://golvar239.sbs/mac/porto-nice-tabii-spor-2/', 
+                   link1: 'https://golvar279.sbs/mac/manchester-city-leeds-united-bein-sports-3/', 
                    link2: 'https://myfootball.life/11510716-manchester-siti-lids-yun-pryamaya-translyaciya-angliya-premer-liga-29112025-smotret-onlayn.html' },
          
                 { oyun: ' Barcelona - Deportivo ', saat: '19:15', 
-                 link1: 'https://www.youtube.com/live/2Drp3oVUnJ4?si=dMGMJbjGzHt5NVm3', 
+                 link1: 'https://golvar279.sbs/mac/barcelona-alaves-s-sport/', 
                  link2: 'https://myfootball.life/11510718-barselona-alaves-pryamaya-translyaciya-ispaniya-primera-divizion-29112025-smotret-onlayn.html' },
                 
                 { oyun: ' Monaco - PSG ', saat: '20:00', 
-                link1: 'https://rotabettv371.com/mac/liverpool-psv-tabii-spor-4/',
+                link1: 'https://golvar279.sbs/mac/monaco-psg-bein-sports-5/',
                 link2: 'https://myfootball.life/11510725-as-monako-pszh-pryamaya-translyaciya-franciya-liga-1-29112025-smotret-onlayn.html'},
          
                 { oyun: ' Bayer - Dortmund ', saat: '21:30', 

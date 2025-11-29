@@ -1,23 +1,23 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Porto - Nice ', saat: '21:45', 
+                { oyun: ' Man City - Leeds United ', saat: '19:00', 
                    link1: 'https://golvar239.sbs/mac/porto-nice-tabii-spor-2/', 
                    link2: 'https://myfootball.life/11509915-portu-nicca-pryamaya-translyaciya-liga-evropy-27112025-smotret-onlayn.html' },
          
-                { oyun: ' Fenerbahçe - Ferencvaros ', saat: '21:45', 
+                { oyun: ' Barcelona - Deportivo ', saat: '19:15', 
                  link1: 'https://www.youtube.com/live/2Drp3oVUnJ4?si=dMGMJbjGzHt5NVm3', 
                  link2: 'https://myfootball.life/11509911-fenerbahche-ferencvarosh-pryamaya-translyaciya-liga-evropy-27112025-smotret-onlayn.html' },
                 
-                /*{ oyun: ' Liverpool - PSV ', saat: '00:00', 
+                { oyun: ' Monaco - PSG ', saat: '20:00', 
                 link1: 'https://rotabettv371.com/mac/liverpool-psv-tabii-spor-4/',
                 link2: 'https://myfootball.life/11509894-liverpul-psv-pryamaya-translyaciya-liga-chempionov-26112025-smotret-onlayn.html'},
          
-                { oyun: ' Olympiacos - Real Madrid ', saat: '00:00', 
+                { oyun: ' Bayer - Dortmund ', saat: '21:30', 
                 link1: 'https://rotabettv371.com/mac/olympiakos-real-madrid-tabii-spor-2/', 
                 link2: 'https://myfootball.life/11509897-olimpiakos-real-madrid-pryamaya-translyaciya-liga-chempionov-26112025-smotret-onlayn.html' },
 
-                { oyun: ' PSG - Tottenham ', saat: '00:00', 
+               /* { oyun: ' PSG - Tottenham ', saat: '00:00', 
                   link1: 'https://rotabettv371.com/mac/psg-tottenham-tabii-spor-3/', 
                   link2: 'https://myfootball.life/11509893-pszh-tottenhem-pryamaya-translyaciya-liga-chempionov-26112025-smotret-onlayn.html' },*/
                 

@@ -14,7 +14,7 @@
                 link2: 'https://myfootball.life/11510725-as-monako-pszh-pryamaya-translyaciya-franciya-liga-1-29112025-smotret-onlayn.html'},
          
                 { oyun: ' Bayer - Dortmund ', saat: '21:30', 
-                link1: 'https://rotabettv371.com/mac/olympiakos-real-madrid-tabii-spor-2/', 
+                link1: '#', 
                 link2: 'https://myfootball.life/11510734-bayer-l-borussiya-d-pryamaya-translyaciya-germaniya-bundesliga-29112025-smotret-onlayn.html' },
 
                /* { oyun: ' PSG - Tottenham ', saat: '00:00', 

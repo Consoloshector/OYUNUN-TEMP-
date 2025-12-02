@@ -2,20 +2,20 @@
 
         let oyunlar = [
                 { oyun: ' Fulham - Man City ', saat: '23:30', 
-                   link1: 'https://golvar279.sbs/tv/bein-sports-1/', 
-                   link2: 'https://macizlevip315.shop/canli-mac-izle/bein-sports-1/' },
+                   link1: 'https://rotabettv372.com/mac/fulham-manchester-city-bein-sports-3/', 
+                   link2: 'https://myfootball.life/11511541-fulhem-manchester-siti-pryamaya-translyaciya-angliya-premer-liga-02122025-smotret-onlayn.html' },
          
                 { oyun: ' Dortmund - Bayer ', saat: '00:00', 
-                 link1: 'https://etv96.com/live/26405/1394551/fenerbahce-vs-galatasaray', 
-                 link2: 'https://the-streameast.lc/live/26405/1394551/fenerbahce-vs-galatasaray' },
+                 link1: 'https://www.shoot-yalla.to/live/26420/1485258/borussia-dortmund-vs-bayer-04-leverkusen', 
+                 link2: 'https://myfootball.life/11511546-borussiya-d-bayer-l-pryamaya-translyaciya-germaniya-kubok-dfb-02122025-smotret-onlayn.html' },
                 
                 { oyun: ' Barcelona - Atletico Madrid ', saat: '00:00', 
-                link1: 'https://myfootball.life/11510822-fenerbahche-galatasaray-pryamaya-translyaciya-turciya-superliga-01122025-smotret-onlayn.html',
-                link2: 'https://atomsportv480.top/matches?id=fenerbahce-galatasaray-futboi'},
+                link1: 'https://idmantv.az/az',
+                link2: 'https://myfootball.life/11511547-barselona-atletiko-madrid-pryamaya-translyaciya-ispaniya-primera-divizion-02122025-smotret-onlayn.html'},
          
                 { oyun: ' Newcastle - Tottenham ', saat: '00:15', 
-                link1: 'https://golvar279.sbs/mac/fatih-karagumruk-besiktas-bein-sports-1/', 
-                link2: 'https://myfootball.life/11510801-fatih-karagyumryuk-beshiktash-pryamaya-translyaciya-turciya-superliga-30112025-smotret-onlayn.html' },
+                link1: 'https://rotabettv372.com/mac/newcastle-tottenham-bein-sports-2/', 
+                link2: 'https://myfootball.life/11511550-nyukasl-yunayted-tottenhem-pryamaya-translyaciya-angliya-premer-liga-02122025-smotret-onlayn.html' },
 
                /* { oyun: ' Roma - Napoli ', saat: '23:45', 
                   link1: 'https://golvar279.sbs/mac/roma-napoli-s-sport-2/', 

@@ -14,7 +14,7 @@
                 link2: 'https://myfootball.life/11511566-union-berlin-bavariya-pryamaya-translyaciya-germaniya-kubok-dfb-03122025-smotret-onlayn.html'},
          
                 { oyun: ' Liverpool - Sunderland ', saat: '00:15', 
-                link1: 'https://golvar397.sbs/mac/liverpool-sunderland-bein-sports-4/', 
+                link1: 'https://aztv.az/az/live', 
                 link2: 'https://myfootball.life/11511576-liverpul-sanderlend-pryamaya-translyaciya-angliya-premer-liga-03122025-smotret-onlayn.html' },
 
                  { oyun: ' Leeds - Chelsea ', saat: '00:15', 

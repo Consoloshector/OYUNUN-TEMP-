@@ -2,24 +2,24 @@
 
         let oyunlar = [
                 { oyun: ' Atletich - Real Madrid ', saat: '22:00', 
-                   link1: 'https://rotabettv372.com/mac/fulham-manchester-city-bein-sports-3/', 
-                   link2: 'https://myfootball.life/11511541-fulhem-manchester-siti-pryamaya-translyaciya-angliya-premer-liga-02122025-smotret-onlayn.html' },
+                   link1: 'https://idmantv.az/az', 
+                   link2: 'https://myfootball.life/11511559-atletik-bilbao-real-madrid-pryamaya-translyaciya-ispaniya-primera-divizion-03122025-smotret-onlayn.html' },
          
                 { oyun: ' Arsenal - Brentford ', saat: '22:30', 
-                 link1: 'https://www.shoot-yalla.to/live/26420/1485258/borussia-dortmund-vs-bayer-04-leverkusen', 
-                 link2: 'https://myfootball.life/11511546-borussiya-d-bayer-l-pryamaya-translyaciya-germaniya-kubok-dfb-02122025-smotret-onlayn.html' },
+                 link1: 'https://golvar397.sbs/mac/arsenal-brentford-bein-sports-3/', 
+                 link2: 'https://myfootball.life/11511565-arsenal-brentford-pryamaya-translyaciya-angliya-premer-liga-03122025-smotret-onlayn.html' },
                 
                 { oyun: ' Union Berlin - Bayern ', saat: '23:45', 
-                link1: 'https://idmantv.az/az',
-                link2: 'https://myfootball.life/11511547-barselona-atletiko-madrid-pryamaya-translyaciya-ispaniya-primera-divizion-02122025-smotret-onlayn.html'},
+                link1: 'https://www.viprow.nu/dfb-pokal/1-fc-union-berlin-vs-bayern-munich-online-stream-1',
+                link2: 'https://myfootball.life/11511566-union-berlin-bavariya-pryamaya-translyaciya-germaniya-kubok-dfb-03122025-smotret-onlayn.html'},
          
                 { oyun: ' Liverpool - Sunderland ', saat: '00:15', 
-                link1: 'https://rotabettv372.com/mac/newcastle-tottenham-bein-sports-2/', 
-                link2: 'https://myfootball.life/11511550-nyukasl-yunayted-tottenhem-pryamaya-translyaciya-angliya-premer-liga-02122025-smotret-onlayn.html' },
+                link1: 'https://golvar397.sbs/mac/liverpool-sunderland-bein-sports-4/', 
+                link2: 'https://myfootball.life/11511576-liverpul-sanderlend-pryamaya-translyaciya-angliya-premer-liga-03122025-smotret-onlayn.html' },
 
                  { oyun: ' Leeds - Chelsea ', saat: '00:15', 
-                  link1: 'https://golvar279.sbs/mac/roma-napoli-s-sport-2/', 
-                  link2: 'https://myfootball.life/11510813-roma-napoli-pryamaya-translyaciya-italiya-seriya-a-30112025-smotret-onlayn.html' },
+                  link1: 'https://golvar397.sbs/mac/leeds-united-chelsea-bein-sports-2/', 
+                  link2: 'https://myfootball.life/11511577-lids-yun-chelsi-pryamaya-translyaciya-angliya-premer-liga-03122025-smotret-onlayn.html' },
                 
                 /*{ oyun: ' Girona - Real Madrid ', saat: '00:00', 
                  link1: 'https://idmantv.az/az', 

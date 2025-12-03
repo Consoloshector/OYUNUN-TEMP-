@@ -1,27 +1,27 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Fulham - Man City ', saat: '23:30', 
+                { oyun: ' Atletich - Real Madrid ', saat: '22:00', 
                    link1: 'https://rotabettv372.com/mac/fulham-manchester-city-bein-sports-3/', 
                    link2: 'https://myfootball.life/11511541-fulhem-manchester-siti-pryamaya-translyaciya-angliya-premer-liga-02122025-smotret-onlayn.html' },
          
-                { oyun: ' Dortmund - Bayer ', saat: '00:00', 
+                { oyun: ' Arsenal - Brentford ', saat: '22:30', 
                  link1: 'https://www.shoot-yalla.to/live/26420/1485258/borussia-dortmund-vs-bayer-04-leverkusen', 
                  link2: 'https://myfootball.life/11511546-borussiya-d-bayer-l-pryamaya-translyaciya-germaniya-kubok-dfb-02122025-smotret-onlayn.html' },
                 
-                { oyun: ' Barcelona - Atletico Madrid ', saat: '00:00', 
+                { oyun: ' Union Berlin - Bayern ', saat: '23:45', 
                 link1: 'https://idmantv.az/az',
                 link2: 'https://myfootball.life/11511547-barselona-atletiko-madrid-pryamaya-translyaciya-ispaniya-primera-divizion-02122025-smotret-onlayn.html'},
          
-                { oyun: ' Newcastle - Tottenham ', saat: '00:15', 
+                { oyun: ' Liverpool - Sunderland ', saat: '00:15', 
                 link1: 'https://rotabettv372.com/mac/newcastle-tottenham-bein-sports-2/', 
                 link2: 'https://myfootball.life/11511550-nyukasl-yunayted-tottenhem-pryamaya-translyaciya-angliya-premer-liga-02122025-smotret-onlayn.html' },
 
-               /* { oyun: ' Roma - Napoli ', saat: '23:45', 
+                 { oyun: ' Leeds - Chelsea ', saat: '00:15', 
                   link1: 'https://golvar279.sbs/mac/roma-napoli-s-sport-2/', 
                   link2: 'https://myfootball.life/11510813-roma-napoli-pryamaya-translyaciya-italiya-seriya-a-30112025-smotret-onlayn.html' },
                 
-                { oyun: ' Girona - Real Madrid ', saat: '00:00', 
+                /*{ oyun: ' Girona - Real Madrid ', saat: '00:00', 
                  link1: 'https://idmantv.az/az', 
                  link2: 'https://myfootball.life/11510814-zhirona-real-madrid-pryamaya-translyaciya-ispaniya-primera-divizion-30112025-smotret-onlayn.html' },*/
 

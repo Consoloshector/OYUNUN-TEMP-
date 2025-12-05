@@ -1,11 +1,11 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Galatasaray - Samsunspor ', saat: '22:00', 
+                { oyun: ' Galatasaray - Samsunspor ', saat: '21:00', 
                    link1: 'https://golvar397.sbs/mac/galatasaray-samsunspor-bein-sports-1/', 
                    link2: 'https://myfootball.life/11512208-galatasaray-samsunspor-pryamaya-translyaciya-turciya-superliga-05122025-smotret-onlayn.html' },
          
-                { oyun: ' Dünya Çempionatı Püşkatma ', saat: '22:30', 
+                { oyun: ' Dünya Çempionatı Püşkatma ', saat: '21:00', 
                  link1: 'https://www.canlitv.me/live/ictimaitv-canli-hd', 
                  link2: 'https://myfootball.life/11512476-zherebevka-chempionata-mira-pryamaya-translyaciya-futbol-chempionat-mira.html' },
                 

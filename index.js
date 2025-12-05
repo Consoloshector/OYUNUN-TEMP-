@@ -1,15 +1,15 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Atletich - Real Madrid ', saat: '22:00', 
-                   link1: 'https://idmantv.az/az', 
-                   link2: 'https://myfootball.life/11511559-atletik-bilbao-real-madrid-pryamaya-translyaciya-ispaniya-primera-divizion-03122025-smotret-onlayn.html' },
+                { oyun: ' Galatasaray - Samsunspor ', saat: '22:00', 
+                   link1: 'https://golvar397.sbs/mac/galatasaray-samsunspor-bein-sports-1/', 
+                   link2: 'https://myfootball.life/11512208-galatasaray-samsunspor-pryamaya-translyaciya-turciya-superliga-05122025-smotret-onlayn.html' },
          
-                { oyun: ' Arsenal - Brentford ', saat: '22:30', 
-                 link1: 'https://golvar397.sbs/mac/arsenal-brentford-bein-sports-3/', 
-                 link2: 'https://myfootball.life/11511565-arsenal-brentford-pryamaya-translyaciya-angliya-premer-liga-03122025-smotret-onlayn.html' },
+                { oyun: ' Dünya Çempionatı Püşkatma ', saat: '22:30', 
+                 link1: 'https://www.canlitv.me/live/ictimaitv-canli-hd', 
+                 link2: 'https://myfootball.life/11512476-zherebevka-chempionata-mira-pryamaya-translyaciya-futbol-chempionat-mira.html' },
                 
-                { oyun: ' Union Berlin - Bayern ', saat: '23:45', 
+                /*{ oyun: ' Union Berlin - Bayern ', saat: '23:45', 
                 link1: 'https://www.viprow.nu/dfb-pokal/1-fc-union-berlin-vs-bayern-munich-online-stream-1',
                 link2: 'https://myfootball.life/11511566-union-berlin-bavariya-pryamaya-translyaciya-germaniya-kubok-dfb-03122025-smotret-onlayn.html'},
          
@@ -19,7 +19,7 @@
 
                  { oyun: ' Leeds - Chelsea ', saat: '00:15', 
                   link1: 'https://golvar397.sbs/mac/leeds-united-chelsea-bein-sports-2/', 
-                  link2: 'https://myfootball.life/11511577-lids-yun-chelsi-pryamaya-translyaciya-angliya-premer-liga-03122025-smotret-onlayn.html' },
+                  link2: 'https://myfootball.life/11511577-lids-yun-chelsi-pryamaya-translyaciya-angliya-premer-liga-03122025-smotret-onlayn.html' },*/
                 
                 /*{ oyun: ' Girona - Real Madrid ', saat: '00:00', 
                  link1: 'https://idmantv.az/az', 

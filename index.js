@@ -2,7 +2,7 @@
 
         let oyunlar = [
                 { oyun: ' Tottenham - Brentford ', saat: '19:00', 
-                   link1: 'https://rotabettv372.com/mac/tottenham-brentford-bein-sports-max-2/', 
+                   link1: 'https://monotv527.com/channel?id=yayinbm2', 
                    link2: 'https://myfootball.life/11512253-tottenhem-brentford-pryamaya-translyaciya-angliya-premer-liga-06122025-smotret-onlayn.html' },
          
                 { oyun: ' Bournemouth - Chelsea ', saat: '19:00', 

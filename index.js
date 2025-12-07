@@ -1,15 +1,15 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Tottenham - Brentford ', saat: '19:00', 
-                   link1: 'https://monotv527.com/channel?id=yayinbm2', 
-                   link2: 'https://myfootball.life/11512253-tottenhem-brentford-pryamaya-translyaciya-angliya-premer-liga-06122025-smotret-onlayn.html' },
+                { oyun: ' Napoli - Juventus ', saat: '23:45', 
+                   link1: 'https://rotabettv372.com/mac/napoli-juventus-s-sport-2/', 
+                   link2: 'https://myfootball.life/11512343-napoli-yuventus-pryamaya-translyaciya-italiya-seriya-a-07122025-smotret-onlayn.html' },
          
-                { oyun: ' Bournemouth - Chelsea ', saat: '19:00', 
+                { oyun: ' Real Madrid - Celta ', saat: '00:00', 
                  link1: 'https://idmantv.az/az', 
-                 link2: 'https://myfootball.life/11512260-bornmut-chelsi-pryamaya-translyaciya-angliya-premer-liga-06122025-smotret-onlayn.html' },
+                 link2: 'https://myfootball.life/11512348-real-madrid-selta-pryamaya-translyaciya-ispaniya-primera-divizion-07122025-smotret-onlayn.html' },
                 
-                { oyun: ' Man City - Sunderland ', saat: '19:00', 
+                /*{ oyun: ' Man City - Sunderland ', saat: '19:00', 
                 link1: 'https://rotabettv372.com/mac/manchester-city-sunderland-bein-sports-3/',
                 link2: 'https://myfootball.life/11512256-manchester-siti-sanderlend-pryamaya-translyaciya-angliya-premer-liga-06122025-smotret-onlayn.html'},
          
@@ -27,7 +27,7 @@
 
                 { oyun: ' PSG - Rennes ', saat: '00:05', 
                  link1: 'https://rotabettv372.com/mac/psg-rennes-bein-sports-4/', 
-                 link2: 'https://myfootball.life/11512289-pszh-renn-pryamaya-translyaciya-franciya-liga-1-06122025-smotret-onlayn.html' },
+                 link2: 'https://myfootball.life/11512289-pszh-renn-pryamaya-translyaciya-franciya-liga-1-06122025-smotret-onlayn.html' },*/
 
                  /*{ oyun: ' Liverpool - Aston Villa ', saat: '00:05', 
                  link1: 'https://rotabettv367.com/mac/liverpool-aston-villa-idman-tv/', 

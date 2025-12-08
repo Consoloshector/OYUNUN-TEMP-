@@ -1,13 +1,13 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Napoli - Juventus ', saat: '23:45', 
-                   link1: 'https://rotabettv372.com/mac/napoli-juventus-s-sport-2/', 
-                   link2: 'https://myfootball.life/11512343-napoli-yuventus-pryamaya-translyaciya-italiya-seriya-a-07122025-smotret-onlayn.html' },
+                { oyun: ' Beşiktaş - Gaziantep ', saat: '21:00', 
+                   link1: 'https://golvar367.sbs/mac/besiktas-gaziantep-fk-bein-sports-1/', 
+                   link2: 'https://myfootball.life/11512355-beshiktash-gaziantep-pryamaya-translyaciya-turciya-superliga-08122025-smotret-onlayn.html' },
          
-                { oyun: ' Real Madrid - Celta ', saat: '00:00', 
+                /*{ oyun: ' Real Madrid - Celta ', saat: '00:00', 
                  link1: 'https://idmantv.az/az', 
-                 link2: 'https://myfootball.life/11512348-real-madrid-selta-pryamaya-translyaciya-ispaniya-primera-divizion-07122025-smotret-onlayn.html' },
+                 link2: 'https://myfootball.life/11512348-real-madrid-selta-pryamaya-translyaciya-ispaniya-primera-divizion-07122025-smotret-onlayn.html' },*/
                 
                 /*{ oyun: ' Man City - Sunderland ', saat: '19:00', 
                 link1: 'https://rotabettv372.com/mac/manchester-city-sunderland-bein-sports-3/',

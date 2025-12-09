@@ -1,23 +1,23 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Beşiktaş - Gaziantep ', saat: '21:00', 
-                   link1: 'https://golvar367.sbs/mac/besiktas-gaziantep-fk-bein-sports-1/', 
-                   link2: 'https://myfootball.life/11512355-beshiktash-gaziantep-pryamaya-translyaciya-turciya-superliga-08122025-smotret-onlayn.html' },
+                { oyun: ' Tottenham - Slavia ', saat: '00:00', 
+                   link1: 'https://golvar388.sbs/mac/tottenham-slavia-prag-tabii-spor-4/', 
+                   link2: 'https://myfootball.life/11513172-tottenhem-slaviya-praga-pryamaya-translyaciya-liga-chempionov-09122025-smotret-onlayn.html' },
          
-                /*{ oyun: ' Real Madrid - Celta ', saat: '00:00', 
-                 link1: 'https://idmantv.az/az', 
-                 link2: 'https://myfootball.life/11512348-real-madrid-selta-pryamaya-translyaciya-ispaniya-primera-divizion-07122025-smotret-onlayn.html' },*/
+                { oyun: ' Barcelona - Eintracht ', saat: '00:00', 
+                 link1: 'https://golvar388.sbs/mac/barcelona-eintracht-frankfurt-tabii-spor-1/', 
+                 link2: 'https://myfootball.life/11513175-barselona-ayntraht-pryamaya-translyaciya-liga-chempionov-09122025-smotret-onlayn.html' },
                 
-                /*{ oyun: ' Man City - Sunderland ', saat: '19:00', 
-                link1: 'https://rotabettv372.com/mac/manchester-city-sunderland-bein-sports-3/',
-                link2: 'https://myfootball.life/11512256-manchester-siti-sanderlend-pryamaya-translyaciya-angliya-premer-liga-06122025-smotret-onlayn.html'},
+                { oyun: ' Inter - Liverpool ', saat: '00:00', 
+                link1: 'https://live.itv.az/',
+                link2: 'https://myfootball.life/11513176-inter-liverpul-pryamaya-translyaciya-liga-chempionov-09122025-smotret-onlayn.html'},
          
-                { oyun: ' Başakşehir - Fenerbahçe ', saat: '21:00', 
-                link1: 'https://rotabettv372.com/mac/rams-basaksehir-fenerbahce-bein-sports-1/', 
-                link2: 'https://myfootball.life/11512271-bashakshehir-fenerbahche-pryamaya-translyaciya-turciya-superliga-06122025-smotret-onlayn.html' },
+                { oyun: ' Monaco - Galatasaray ', saat: '00:00', 
+                link1: 'https://m.canlitv.direct/cbc-sport-hd', 
+                link2: 'https://myfootball.life/11513178-as-monako-galatasaray-pryamaya-translyaciya-liga-chempionov-09122025-smotret-onlayn.html' },
 
-                 { oyun: ' Real Betis - Barcelona ', saat: '21:30', 
+                /* { oyun: ' Real Betis - Barcelona ', saat: '21:30', 
                   link1: 'https://idmantv.az/az', 
                   link2: 'https://myfootball.life/11512275-real-betis-barselona-pryamaya-translyaciya-ispaniya-primera-divizion-06122025-smotret-onlayn.html' },
                 

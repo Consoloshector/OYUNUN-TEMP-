@@ -1,21 +1,21 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Tottenham - Slavia ', saat: '00:00', 
-                   link1: 'https://golvar388.sbs/mac/tottenham-slavia-prag-tabii-spor-4/', 
-                   link2: 'https://myfootball.life/11513172-tottenhem-slaviya-praga-pryamaya-translyaciya-liga-chempionov-09122025-smotret-onlayn.html' },
+                { oyun: ' Qarabağ - Ajax ', saat: '21:45', 
+                   link1: 'https://www.youtube.com/live/jSZguln_aEk?si=taF5zzq2qYPYLI8P', 
+                   link2: 'https://myfootball.life/11513190-karabah-ayaks-pryamaya-translyaciya-liga-chempionov-10122025-smotret-onlayn.html' },
          
-                { oyun: ' Barcelona - Eintracht ', saat: '00:00', 
-                 link1: 'https://golvar388.sbs/mac/barcelona-eintracht-frankfurt-tabii-spor-1/', 
-                 link2: 'https://myfootball.life/11513175-barselona-ayntraht-pryamaya-translyaciya-liga-chempionov-09122025-smotret-onlayn.html' },
+                { oyun: ' Real Madrid - Man City ', saat: '00:00', 
+                 link1: 'https://live.itv.az/', 
+                 link2: 'https://myfootball.life/11513200-real-madrid-manchester-siti-pryamaya-translyaciya-liga-chempionov-10122025-smotret-onlayn.html' },
                 
-                { oyun: ' Inter - Liverpool ', saat: '00:00', 
-                link1: 'https://live.itv.az/',
-                link2: 'https://myfootball.life/11513176-inter-liverpul-pryamaya-translyaciya-liga-chempionov-09122025-smotret-onlayn.html'},
+                { oyun: ' Athletic - PSG ', saat: '00:00', 
+                link1: 'ttps://m.canlitv.direct/cbc-sport-hd',
+                link2: 'https://myfootball.life/11513198-atletik-bilbao-pszh-pryamaya-translyaciya-liga-chempionov-10122025-smotret-onlayn.html'},
          
-                { oyun: ' Monaco - Galatasaray ', saat: '00:00', 
-                link1: 'https://m.canlitv.direct/cbc-sport-hd', 
-                link2: 'https://myfootball.life/11513178-as-monako-galatasaray-pryamaya-translyaciya-liga-chempionov-09122025-smotret-onlayn.html' },
+                { oyun: ' Brügge - Arsenal ', saat: '00:00', 
+                link1: 'https://www.kolbetour.com/2025/12/club-brugge-arsenal-canli-izle-10-aralik-2025.html', 
+                link2: 'https://myfootball.life/11513196-bryugge-arsenal-pryamaya-translyaciya-liga-chempionov-10122025-smotret-onlayn.html' },
 
                 /* { oyun: ' Real Betis - Barcelona ', saat: '21:30', 
                   link1: 'https://idmantv.az/az', 

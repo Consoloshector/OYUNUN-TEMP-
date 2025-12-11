@@ -1,11 +1,11 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Qarabağ - Ajax ', saat: '21:45', 
-                   link1: 'https://www.youtube.com/live/jSZguln_aEk?si=taF5zzq2qYPYLI8P', 
-                   link2: 'https://myfootball.life/11513190-karabah-ayaks-pryamaya-translyaciya-liga-chempionov-10122025-smotret-onlayn.html' },
+                { oyun: ' Brann - Fenerbahçe ', saat: '00:00', 
+                   link1: 'https://www.youtube.com/live/Lwi5Sxl2Tzo?si=ZoVN2TB3yGm5ccCt', 
+                   link2: 'https://golvar357.sbs/mac/brann-fenerbahce-trt-1/' },
          
-                { oyun: ' Real Madrid - Man City ', saat: '00:00', 
+                /*{ oyun: ' Real Madrid - Man City ', saat: '00:00', 
                  link1: 'https://live.itv.az/', 
                  link2: 'https://myfootball.life/11513200-real-madrid-manchester-siti-pryamaya-translyaciya-liga-chempionov-10122025-smotret-onlayn.html' },
                 
@@ -15,7 +15,7 @@
          
                 { oyun: ' Brügge - Arsenal ', saat: '00:00', 
                 link1: 'https://www.kolbetour.com/2025/12/club-brugge-arsenal-canli-izle-10-aralik-2025.html', 
-                link2: 'https://myfootball.life/11513196-bryugge-arsenal-pryamaya-translyaciya-liga-chempionov-10122025-smotret-onlayn.html' },
+                link2: 'https://myfootball.life/11513196-bryugge-arsenal-pryamaya-translyaciya-liga-chempionov-10122025-smotret-onlayn.html' },*/
 
                 /* { oyun: ' Real Betis - Barcelona ', saat: '21:30', 
                   link1: 'https://idmantv.az/az', 

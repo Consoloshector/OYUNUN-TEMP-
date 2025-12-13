@@ -1,35 +1,35 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Brann - Fenerbahçe ', saat: '00:00', 
+                { oyun: ' Chelsea - Everton ', saat: '19:00', 
                    link1: 'https://www.youtube.com/live/Lwi5Sxl2Tzo?si=ZoVN2TB3yGm5ccCt', 
                    link2: 'https://golvar357.sbs/mac/brann-fenerbahce-trt-1/' },
          
-                /*{ oyun: ' Real Madrid - Man City ', saat: '00:00', 
+                { oyun: ' Liverpool - Brighton ', saat: '19:00', 
                  link1: 'https://live.itv.az/', 
                  link2: 'https://myfootball.life/11513200-real-madrid-manchester-siti-pryamaya-translyaciya-liga-chempionov-10122025-smotret-onlayn.html' },
                 
-                { oyun: ' Athletic - PSG ', saat: '00:00', 
+                { oyun: ' Antalyaspor - Galatasaray ', saat: '21:00', 
                 link1: 'ttps://m.canlitv.direct/cbc-sport-hd',
                 link2: 'https://myfootball.life/11513198-atletik-bilbao-pszh-pryamaya-translyaciya-liga-chempionov-10122025-smotret-onlayn.html'},
          
-                { oyun: ' Brügge - Arsenal ', saat: '00:00', 
+                { oyun: ' Barcelona - Osasuna ', saat: '21:30', 
                 link1: 'https://www.kolbetour.com/2025/12/club-brugge-arsenal-canli-izle-10-aralik-2025.html', 
-                link2: 'https://myfootball.life/11513196-bryugge-arsenal-pryamaya-translyaciya-liga-chempionov-10122025-smotret-onlayn.html' },*/
+                link2: 'https://myfootball.life/11513196-bryugge-arsenal-pryamaya-translyaciya-liga-chempionov-10122025-smotret-onlayn.html' },
 
-                /* { oyun: ' Real Betis - Barcelona ', saat: '21:30', 
+                 { oyun: ' Metz - PSG ', saat: '22:00', 
                   link1: 'https://idmantv.az/az', 
                   link2: 'https://myfootball.life/11512275-real-betis-barselona-pryamaya-translyaciya-ispaniya-primera-divizion-06122025-smotret-onlayn.html' },
                 
-                { oyun: ' Leeds United - Liverpool ', saat: '21:30', 
+                { oyun: ' Arsenal - Wolves ', saat: '00:00', 
                  link1: 'https://rotabettv372.com/mac/leeds-united-liverpool-bein-sports-3/', 
                  link2: 'https://myfootball.life/11512276-lids-yun-liverpul-pryamaya-translyaciya-angliya-premer-liga-06122025-smotret-onlayn.html' },
 
-                { oyun: ' PSG - Rennes ', saat: '00:05', 
+                /*{ oyun: ' PSG - Rennes ', saat: '00:05', 
                  link1: 'https://rotabettv372.com/mac/psg-rennes-bein-sports-4/', 
-                 link2: 'https://myfootball.life/11512289-pszh-renn-pryamaya-translyaciya-franciya-liga-1-06122025-smotret-onlayn.html' },*/
+                 link2: 'https://myfootball.life/11512289-pszh-renn-pryamaya-translyaciya-franciya-liga-1-06122025-smotret-onlayn.html' },
 
-                 /*{ oyun: ' Liverpool - Aston Villa ', saat: '00:05', 
+                 { oyun: ' Liverpool - Aston Villa ', saat: '00:05', 
                  link1: 'https://rotabettv367.com/mac/liverpool-aston-villa-idman-tv/', 
                  link2: 'https://myfootball.life/11504908-liverpul-aston-villa-pryamaya-translyaciya-angliya-premer-liga-01112025-smotret-onlayn.html' }*/
         ];

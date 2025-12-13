@@ -22,7 +22,7 @@
                   link2: 'https://sgmypallets.com/2025/12/13/metz-psg-canli-izle-13-aralik-2025/' },
                 
                 { oyun: ' Arsenal - Wolves ', saat: '00:00', 
-                 link1: 'https://golvar337.sbs/mac/arsenal-wolverhampton-bein-sports-3/', 
+                 link1: 'https://idmantv.az/az', 
                  link2: 'https://sgmypallets.com/2025/12/13/arsenal-wolverhampton-canli-izle-13-aralik-2025/' },
 
                 /*{ oyun: ' PSG - Rennes ', saat: '00:05', 

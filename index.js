@@ -1,29 +1,29 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Chelsea - Everton ', saat: '19:00', 
-                   link1: 'https://golvar337.sbs/mac/chelsea-everton-bein-sports-4/', 
-                   link2: 'https://xyzshoot-yalla-zone.goal01.space/?m=26733' },
+                { oyun: ' Forest - Tottenham ', saat: '18:00', 
+                   link1: 'https://golvar337.sbs/mac/nottingham-forest-tottenham-bein-sports-4/', 
+                   link2: 'https://www.kolbetour.com/2025/12/nottingham-forest-tottenham-canli-izle-14-aralik-2025.html' },
          
-                { oyun: ' Liverpool - Brighton ', saat: '19:00', 
-                 link1: 'https://idmantv.az/az', 
-                 link2: 'https://golvar337.sbs/mac/liverpool-brighton-bein-sports-3/' },
+                { oyun: ' Crystal - Man City ', saat: '18:00', 
+                 link1: 'https://golvar337.sbs/mac/crystal-palace-manchester-city-bein-sports-3/', 
+                 link2: 'https://www.kolbetour.com/2025/12/crystal-palace-manchester-city-canli-izle-14-aralik-2025.html' },
                 
-                { oyun: ' Antalyaspor - Galatasaray ', saat: '21:00', 
-                link1: 'ttps://m.canlitv.direct/cbc-sport-hd',
-                link2: 'https://sgmypallets.com/2025/12/13/antalyaspor-galatasaray-canli-izle-13-aralik-2025/'},
+                { oyun: ' Udinese - Napoli ', saat: '18:00', 
+                link1: 'https://golvar337.sbs/mac/udinese-napoli-s-sport-2/',
+                link2: 'https://xyzshoot-yalla-zone.goal01.space/?m=26806'},
          
-                { oyun: ' Barcelona - Osasuna ', saat: '21:30', 
-                link1: 'https://idmantv.az/az', 
-                link2: 'https://golvar337.sbs/mac/barcelona-osasuna-s-sport/' },
+                { oyun: ' Bayern - Mainz ', saat: '20:30', 
+                link1: 'https://golvar337.sbs/mac/bayern-munih-mainz-tivibu-spor-4/', 
+                link2: 'https://www.kolbetour.com/2025/12/bayern-munih-mainz-05-canli-izle-14-aralik-2025.html' },
 
-                 { oyun: ' Metz - PSG ', saat: '22:00', 
-                  link1: 'https://golvar337.sbs/mac/metz-psg-bein-sports-4/', 
-                  link2: 'https://sgmypallets.com/2025/12/13/metz-psg-canli-izle-13-aralik-2025/' },
+                 { oyun: ' Trabzonspor - Beşiktaş ', saat: '21:00', 
+                  link1: 'https://golvar337.sbs/mac/trabzonspor-besiktas-bein-sports-1/', 
+                  link2: 'https://www.kolbetour.com/2025/12/trabzonspor-besiktas-canli-izle-14-aralik-2025.html' },
                 
-                { oyun: ' Arsenal - Wolves ', saat: '00:00', 
+                { oyun: ' Deportivo - Real Madrid ', saat: '00:00', 
                  link1: 'https://idmantv.az/az', 
-                 link2: 'https://sgmypallets.com/2025/12/13/arsenal-wolverhampton-canli-izle-13-aralik-2025/' },
+                 link2: 'https://www.kolbetour.com/2025/12/deportivo-alaves-real-madrid-canli-izle-14-aralik-2025.html' },
 
                 /*{ oyun: ' PSG - Rennes ', saat: '00:05', 
                  link1: 'https://rotabettv372.com/mac/psg-rennes-bein-sports-4/', 

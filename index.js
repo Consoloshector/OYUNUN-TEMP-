@@ -2,12 +2,12 @@
 
         let oyunlar = [
                 { oyun: ' Fenerbahçe - Konyaspor ', saat: '21:00', 
-                   link1: 'https://golvar337.sbs/mac/nottingham-forest-tottenham-bein-sports-4/', 
-                   link2: 'https://www.kolbetour.com/2025/12/nottingham-forest-tottenham-canli-izle-14-aralik-2025.html' },
+                   link1: 'https://www.google.com/amp/s/99d55c13ae7d1ebf.cfd/amp', 
+                   link2: 'https://xyzshoot-yalla-one.goal01.space/?m=26844' },
          
                 { oyun: ' Man United - Bournemouth ', saat: '00:00', 
-                 link1: 'https://golvar337.sbs/mac/crystal-palace-manchester-city-bein-sports-3/', 
-                 link2: 'https://www.kolbetour.com/2025/12/crystal-palace-manchester-city-canli-izle-14-aralik-2025.html' },
+                 link1: 'https://idmantv.az/az', 
+                 link2: 'https://www.google.com/amp/s/99d55c13ae7d1ebf.cfd/amp' },
                 
                 /*{ oyun: ' Udinese - Napoli ', saat: '18:00', 
                 link1: 'https://golvar337.sbs/mac/udinese-napoli-s-sport-2/',

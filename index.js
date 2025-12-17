@@ -14,8 +14,8 @@
                  link2: 'https://ovogoaal.com/match-updates/manchester-city-vs-brentford/' },
                 
                 { oyun: ' Talavera - Real Madrid ', saat: '00:00', 
-                link1: '#',
-                link2: '#'},
+                link1: 'https://ovogoaal.com/match-updates/talavera-vs-real-madrid/',
+                link2: 'https://www.futuremagz.com/2025/12/talavera-real-madrid-maci-canli-izle-17-aralik-2025.html'},
          
                 /*{ oyun: ' Bayern - Mainz ', saat: '20:30', 
                 link1: 'https://golvar337.sbs/mac/bayern-munih-mainz-tivibu-spor-4/', 

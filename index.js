@@ -1,19 +1,23 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Fenerbahçe - Konyaspor ', saat: '21:00', 
-                   link1: 'https://www.google.com/amp/s/99d55c13ae7d1ebf.cfd/amp', 
+                { oyun: ' PSG - Flamengo [TR] ', saat: '21:00', 
+                   link1: 'https://milanotv72.shop/Watch/M934238', 
                    link2: 'https://xyzshoot-yalla-one.goal01.space/?m=26844' },
+
+                { oyun: ' PSG - Flamengo [EN] ', saat: '21:00', 
+                   link1: 'https://sng.sportplus.live/football/1958696/7398855/', 
+                   link2: 'https://shoot4k.com/yallashoottv-live/paris-saint-germain-vs-flamengo-fifa-intercontinental-cup/26872' },
          
-                { oyun: ' Man United - Bournemouth ', saat: '00:00', 
-                 link1: 'https://idmantv.az/az', 
-                 link2: 'https://www.google.com/amp/s/99d55c13ae7d1ebf.cfd/amp' },
+                { oyun: ' Man City - Brentford ', saat: '23:30', 
+                 link1: 'https://noingoaithatgiare.com/index.html', 
+                 link2: 'https://ovogoaal.com/match-updates/manchester-city-vs-brentford/' },
                 
-                /*{ oyun: ' Udinese - Napoli ', saat: '18:00', 
-                link1: 'https://golvar337.sbs/mac/udinese-napoli-s-sport-2/',
-                link2: 'https://xyzshoot-yalla-zone.goal01.space/?m=26806'},
+                { oyun: ' Talavera - Real Madrid ', saat: '00:00', 
+                link1: '#',
+                link2: '#'},
          
-                { oyun: ' Bayern - Mainz ', saat: '20:30', 
+                /*{ oyun: ' Bayern - Mainz ', saat: '20:30', 
                 link1: 'https://golvar337.sbs/mac/bayern-munih-mainz-tivibu-spor-4/', 
                 link2: 'https://www.kolbetour.com/2025/12/bayern-munih-mainz-05-canli-izle-14-aralik-2025.html' },
 

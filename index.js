@@ -1,21 +1,21 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' PSG - Flamengo [TR] ', saat: '21:00', 
+                { oyun: ' Galatasaray - Başakşehir ', saat: '21:30', 
                    link1: 'https://milanotv72.shop/Watch/M934238', 
                    link2: 'https://xyzshoot-yalla-one.goal01.space/?m=26844' },
 
-                { oyun: ' PSG - Flamengo [EN] ', saat: '21:00', 
+                { oyun: ' Napoli - Milan ', saat: '23:00', 
                    link1: 'https://sng.sportplus.live/football/1958696/7398855/', 
                    link2: 'https://shoot4k.com/yallashoottv-live/paris-saint-germain-vs-flamengo-fifa-intercontinental-cup/26872' },
          
-                { oyun: ' Man City - Brentford ', saat: '23:30', 
+               /* { oyun: ' Man City - Brentford ', saat: '23:30', 
                  link1: 'https://noingoaithatgiare.com/index.html', 
                  link2: 'https://ovogoaal.com/match-updates/manchester-city-vs-brentford/' },
                 
                 { oyun: ' Talavera - Real Madrid ', saat: '00:00', 
                 link1: 'https://ovogoaal.com/match-updates/talavera-vs-real-madrid/',
-                link2: 'https://www.futuremagz.com/2025/12/talavera-real-madrid-maci-canli-izle-17-aralik-2025.html'},
+                link2: 'https://www.futuremagz.com/2025/12/talavera-real-madrid-maci-canli-izle-17-aralik-2025.html'},*/
          
                 /*{ oyun: ' Bayern - Mainz ', saat: '20:30', 
                 link1: 'https://golvar337.sbs/mac/bayern-munih-mainz-tivibu-spor-4/', 

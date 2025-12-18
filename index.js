@@ -2,12 +2,12 @@
 
         let oyunlar = [
                 { oyun: ' Galatasaray - Başakşehir ', saat: '21:30', 
-                   link1: 'https://milanotv72.shop/Watch/M934238', 
-                   link2: 'https://xyzshoot-yalla-one.goal01.space/?m=26844' },
+                   link1: 'https://golvar643.sbs/mac/galatasaray-rams-basaksehir-atv/', 
+                   link2: 'https://soccer-insider.com/soccer-insider-live/galatasaray-vs-istanbul-basaksehir-turkey-cup/26901' },
 
                 { oyun: ' Napoli - Milan ', saat: '23:00', 
-                   link1: 'https://sng.sportplus.live/football/1958696/7398855/', 
-                   link2: 'https://shoot4k.com/yallashoottv-live/paris-saint-germain-vs-flamengo-fifa-intercontinental-cup/26872' },
+                   link1: 'https://golvar643.sbs/mac/napoli-milan-trt-spor/', 
+                   link2: 'https://soccer-insider.com/soccer-insider-live/napoli-vs-milan-italy---supercoppa/26902' },
          
                /* { oyun: ' Man City - Brentford ', saat: '23:30', 
                  link1: 'https://noingoaithatgiare.com/index.html', 

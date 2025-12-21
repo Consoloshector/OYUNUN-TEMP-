@@ -1,19 +1,19 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Eyüpspor - Fenerbahçe ', saat: '18:00', 
-                   link1: 'https://golvar623.sbs/mac/eyupspor-fenerbahce-bein-sports-1/', 
-                   link2: 'https://rotabettv379.com/mac/eyupspor-fenerbahce-bein-sports-1/' },
+                { oyun: ' Villareal - Barcelona ', saat: '19:15', 
+                   link1: 'https://idmantv.az/az', 
+                   link2: 'https://rotabettv379.com/mac/villarreal-barcelona-s-sport/' },
 
-                { oyun: ' Man City - West Ham ', saat: '19:00', 
-                   link1: 'https://golvar623.sbs/mac/manchester-city-west-ham-bein-sports-3/', 
-                   link2: 'https://ovogoaal.com/match-updates/manchester-city-vs-west-ham/' },
+                { oyun: ' Aston Villa - Man United ', saat: '20:30', 
+                   link1: 'https://rotabettv379.com/mac/aston-villa-manchester-utd-bein-sports-3/', 
+                   link2: 'https://ovogoaal.com/match-updates/aston-villa-vs-manchester-united/' },
          
-                { oyun: ' Beşiktaş - Rizespor ', saat: '21:00', 
-                 link1: 'https://golvar623.sbs/mac/besiktas-c-rizespor-bein-sports-1/', 
-                 link2: 'https://noingoaithatgiare.com/index.html' },
+                { oyun: ' Galatasaray - Kasımpaşa ', saat: '21:00', 
+                 link1: 'https://rotabettv379.com/mac/galatasaray-kasimpasa-bein-sports-1/', 
+                 link2: 'https://golvar603.sbs/mac/galatasaray-kasimpasa-bein-sports-1/' },
 
-                { oyun: ' Tottenham - Liverpool ', saat: '21:30', 
+               /* { oyun: ' Tottenham - Liverpool ', saat: '21:30', 
                 link1: 'https://idmantv.az/az',
                 link2: 'https://ovogoaal.com/match-updates/tottenham-vs-liverpool/'},
                 
@@ -31,7 +31,7 @@
                 
                 { oyun: ' Everton - Arsenal ', saat: '00:00', 
                  link1: 'https://aztv.az/az/live', 
-                 link2: 'https://ovogoaal.com/match-updates/everton-vs-arsenal/' },
+                 link2: 'https://ovogoaal.com/match-updates/everton-vs-arsenal/' },*/
 
                 /*{ oyun: ' PSG - Rennes ', saat: '00:05', 
                  link1: 'https://rotabettv372.com/mac/psg-rennes-bein-sports-4/', 

@@ -1,17 +1,17 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Villareal - Barcelona ', saat: '19:15', 
-                   link1: 'https://idmantv.az/az', 
-                   link2: 'https://rotabettv379.com/mac/villarreal-barcelona-s-sport/' },
+                { oyun: ' Napoli - Bologna ', saat: '23:00', 
+                   link1: 'https://rotabettv379.com/mac/napoli-bologna-trt-spor/', 
+                   link2: 'https://www.canlitv.me/live/trtspor-canli-yayin/2' },
 
-                { oyun: ' Aston Villa - Man United ', saat: '20:30', 
+                /*{ oyun: ' Aston Villa - Man United ', saat: '20:30', 
                    link1: 'https://rotabettv379.com/mac/aston-villa-manchester-utd-bein-sports-3/', 
                    link2: 'https://ovogoaal.com/match-updates/aston-villa-vs-manchester-united/' },
          
                 { oyun: ' Galatasaray - Kasımpaşa ', saat: '21:00', 
                  link1: 'https://rotabettv379.com/mac/galatasaray-kasimpasa-bein-sports-1/', 
-                 link2: 'https://golvar603.sbs/mac/galatasaray-kasimpasa-bein-sports-1/' },
+                 link2: 'https://golvar603.sbs/mac/galatasaray-kasimpasa-bein-sports-1/' },*/
 
                /* { oyun: ' Tottenham - Liverpool ', saat: '21:30', 
                 link1: 'https://idmantv.az/az',

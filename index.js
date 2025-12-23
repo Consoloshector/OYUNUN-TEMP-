@@ -1,23 +1,23 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Napoli - Bologna ', saat: '23:00', 
-                   link1: 'https://rotabettv379.com/mac/napoli-bologna-trt-spor/', 
-                   link2: 'https://www.canlitv.me/live/trtspor-canli-yayin/2' },
+                { oyun: ' Fenerbahçe - Beşiktaş [1] ', saat: '21:30', 
+                   link1: 'https://www.canlitv.me/live/atvcanli-yayin-izle', 
+                   link2: 'https://rotabettv379.com/mac/fenerbahce-besiktas-atv/' },
 
-                /*{ oyun: ' Aston Villa - Man United ', saat: '20:30', 
-                   link1: 'https://rotabettv379.com/mac/aston-villa-manchester-utd-bein-sports-3/', 
-                   link2: 'https://ovogoaal.com/match-updates/aston-villa-vs-manchester-united/' },
+                { oyun: ' Fenerbahçe - Beşiktaş [2] ', saat: '21:30', 
+                   link1: 'https://sng.sportplus.live/football/turkish-cup/7409206/', 
+                   link2: 'https://milanotv92.shop/Watch/M836666' },
          
-                { oyun: ' Galatasaray - Kasımpaşa ', saat: '21:00', 
-                 link1: 'https://rotabettv379.com/mac/galatasaray-kasimpasa-bein-sports-1/', 
-                 link2: 'https://golvar603.sbs/mac/galatasaray-kasimpasa-bein-sports-1/' },*/
+                { oyun: ' Fenerbahçe - Beşiktaş [3] ', saat: '21:30', 
+                 link1: 'https://macizlevip636.sbs/mac-izle/fenerbahce-besiktas-atv/', 
+                 link2: 'https://www.selcuksportshde9f08bc40b.xyz/' },
 
-               /* { oyun: ' Tottenham - Liverpool ', saat: '21:30', 
-                link1: 'https://idmantv.az/az',
-                link2: 'https://ovogoaal.com/match-updates/tottenham-vs-liverpool/'},
+                { oyun: ' Arsenal - Crystal Palace ', saat: '00:00', 
+                link1: 'https://ovogoaal.com/match-updates/arsenal-vs-cry-palace/',
+                link2: 'https://shoot4k.com/yallashoottv-live/arsenal-vs-crystal-palace-england-:-efl-cup/27036'},
                 
-                { oyun: ' Leipzig - Bayer ', saat: '21:30', 
+               /* { oyun: ' Leipzig - Bayer ', saat: '21:30', 
                 link1: 'https://golvar623.sbs/mac/leipzig-bayer-leverkusen-tivibu-spor-2/',
                 link2: 'https://ovogoaal.com/match-updates/rb-leipzig-vs-bayer-leverkusen/'},
          

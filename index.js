@@ -2,7 +2,7 @@
 
         let oyunlar = [
                 { oyun: ' Fenerbahçe - Beşiktaş [1] ', saat: '21:30', 
-                   link1: 'https://www.canlitv.me/live/atvcanli-yayin-izle', 
+                   link1: 'https://www.youtube.com/live/nBy3mWT2w7U?si=cl9w0IJ603RXy_ue', 
                    link2: 'https://rotabettv379.com/mac/fenerbahce-besiktas-atv/' },
 
                 { oyun: ' Fenerbahçe - Beşiktaş [2] ', saat: '21:30', 

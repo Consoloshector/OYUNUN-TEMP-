@@ -1,6 +1,10 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
+                { oyun: ' Al Nassr - Al Akhdoud ', saat: '18:50', 
+                link1: 'https://rotabettv379.com/mac/al-nassr-al-okhdood-tabii-spor/',
+                link2: 'https://golvar653.sbs/mac/al-nassr-al-okhdood-tabii-spor/'},*/
+                
                 { oyun: ' Liverpool - Wolwes ', saat: '19:00', 
                    link1: 'https://ovogoaal.com/match-updates/liverpool-vs-wolves/', 
                    link2: 'https://rotabettv379.com/mac/liverpool-wolverhampton-bein-sports-4/' },
@@ -12,11 +16,7 @@
                 { oyun: ' Chelsea - Aston Villa ', saat: '21:30', 
                  link1: 'https://idmantv.az/az', 
                  link2: 'https://rotabettv379.com/mac/chelsea-aston-villa-bein-sports-3/' },
-
-               /* { oyun: ' Arsenal - Crystal Palace ', saat: '00:00', 
-                link1: 'https://ovogoaal.com/match-updates/arsenal-vs-cry-palace/',
-                link2: 'https://shoot4k.com/yallashoottv-live/arsenal-vs-crystal-palace-england-:-efl-cup/27036'},*/
-                
+           
                /* { oyun: ' Leipzig - Bayer ', saat: '21:30', 
                 link1: 'https://golvar623.sbs/mac/leipzig-bayer-leverkusen-tivibu-spor-2/',
                 link2: 'https://ovogoaal.com/match-updates/rb-leipzig-vs-bayer-leverkusen/'},

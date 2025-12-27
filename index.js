@@ -3,7 +3,7 @@
         let oyunlar = [
                 { oyun: ' Al Nassr - Al Akhdoud ', saat: '18:50', 
                 link1: 'https://rotabettv379.com/mac/al-nassr-al-okhdood-tabii-spor/',
-                link2: 'https://golvar653.sbs/mac/al-nassr-al-okhdood-tabii-spor/'},*/
+                link2: 'https://golvar653.sbs/mac/al-nassr-al-okhdood-tabii-spor/'},
                 
                 { oyun: ' Liverpool - Wolwes ', saat: '19:00', 
                    link1: 'https://ovogoaal.com/match-updates/liverpool-vs-wolves/', 

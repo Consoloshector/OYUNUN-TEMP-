@@ -1,19 +1,19 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Man United - Newcastle ', saat: '00:00', 
+                { oyun: ' Liverpool - Wolwes ', saat: '19:00', 
+                   link1: 'https://ovogoaal.com/match-updates/liverpool-vs-wolves/', 
+                   link2: 'https://rotabettv379.com/mac/liverpool-wolverhampton-bein-sports-4/' },
+
+                { oyun: ' Arsenal - Brighton ', saat: '19:00', 
                    link1: 'https://idmantv.az/az', 
-                   link2: 'https://rotabettv379.com/mac/manchester-utd-newcastle-bein-sports-3/' },
-
-                /*{ oyun: ' Fenerbahçe - Beşiktaş [2] ', saat: '21:30', 
-                   link1: 'https://sng.sportplus.live/football/turkish-cup/7409206/', 
-                   link2: 'https://milanotv92.shop/Watch/M836666' },
+                   link2: 'https://rotabettv379.com/mac/arsenal-brighton-bein-sports-3/' },
          
-                { oyun: ' Fenerbahçe - Beşiktaş [3] ', saat: '21:30', 
-                 link1: 'https://macizlevip636.sbs/mac-izle/fenerbahce-besiktas-atv/', 
-                 link2: 'https://www.selcuksportshde9f08bc40b.xyz/' },
+                { oyun: ' Chelsea - Aston Villa ', saat: '21:30', 
+                 link1: 'https://idmantv.az/az', 
+                 link2: 'https://rotabettv379.com/mac/chelsea-aston-villa-bein-sports-3/' },
 
-                { oyun: ' Arsenal - Crystal Palace ', saat: '00:00', 
+               /* { oyun: ' Arsenal - Crystal Palace ', saat: '00:00', 
                 link1: 'https://ovogoaal.com/match-updates/arsenal-vs-cry-palace/',
                 link2: 'https://shoot4k.com/yallashoottv-live/arsenal-vs-crystal-palace-england-:-efl-cup/27036'},*/
                 

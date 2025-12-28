@@ -1,21 +1,21 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Al Nassr - Al Akhdoud ', saat: '18:50', 
-                link1: 'https://rotabettv379.com/mac/al-nassr-al-okhdood-tabii-spor/',
-                link2: 'https://golvar653.sbs/mac/al-nassr-al-okhdood-tabii-spor/'},
+                { oyun: ' Cremonese - Napoli ', saat: '18:00', 
+                link1: 'https://rotabettv379.com/mac/cremonese-napoli-tivibu-spor-1/',
+                link2: 'https://rotabettv379.com/mac/cremonese-napoli-s-sport-2/'},
                 
-                { oyun: ' Liverpool - Wolwes ', saat: '19:00', 
-                   link1: 'https://ovogoaal.com/match-updates/liverpool-vs-wolves/', 
-                   link2: 'https://rotabettv379.com/mac/liverpool-wolverhampton-bein-sports-4/' },
-
-                { oyun: ' Arsenal - Brighton ', saat: '19:00', 
+                { oyun: ' Crystal Palace - Tottenham ', saat: '20:30', 
                    link1: 'https://idmantv.az/az', 
-                   link2: 'https://rotabettv379.com/mac/arsenal-brighton-bein-sports-3/' },
+                   link2: 'https://rotabettv379.com/mac/crystal-palace-tottenham-bein-sports-3/' },
+
+                { oyun: ' Atalanta - Inter ', saat: '23:45', 
+                   link1: 'https://rotabettv379.com/mac/atalanta-inter-tivibu-spor-1/', 
+                   link2: 'https://rotabettv379.com/mac/atalanta-inter-s-sport-2/' },
          
-                { oyun: ' Chelsea - Aston Villa ', saat: '21:30', 
+              /*  { oyun: ' Chelsea - Aston Villa ', saat: '21:30', 
                  link1: 'https://idmantv.az/az', 
-                 link2: 'https://rotabettv379.com/mac/chelsea-aston-villa-bein-sports-3/' },
+                 link2: 'https://rotabettv379.com/mac/chelsea-aston-villa-bein-sports-3/' },*/
            
                /* { oyun: ' Leipzig - Bayer ', saat: '21:30', 
                 link1: 'https://golvar623.sbs/mac/leipzig-bayer-leverkusen-tivibu-spor-2/',

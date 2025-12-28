@@ -6,7 +6,7 @@
                 link2: 'https://rotabettv379.com/mac/cremonese-napoli-s-sport-2/'},
                 
                 { oyun: ' Crystal Palace - Tottenham ', saat: '20:30', 
-                   link1: 'https://idmantv.az/az', 
+                   link1: 'https://ovogoaal.com/match-updates/crystal-palace-vs-tottenham/', 
                    link2: 'https://rotabettv379.com/mac/crystal-palace-tottenham-bein-sports-3/' },
 
                 { oyun: ' Atalanta - Inter ', saat: '23:45', 

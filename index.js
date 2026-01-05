@@ -1,17 +1,17 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Cremonese - Napoli ', saat: '18:00', 
-                link1: 'https://rotabettv379.com/mac/cremonese-napoli-tivibu-spor-1/',
-                link2: 'https://rotabettv379.com/mac/cremonese-napoli-s-sport-2/'},
+                { oyun: ' Galatasaray - Trabzonspor ', saat: '21:30', 
+                link1: 'https://www.atv.com.tr/canli-yayin',
+                link2: 'https://rotabettv379.com/mac/galatasaray-trabzonspor-atv/'},
                 
-                { oyun: ' Crystal Palace - Tottenham ', saat: '20:30', 
+               /* { oyun: ' Crystal Palace - Tottenham ', saat: '20:30', 
                    link1: 'https://ovogoaal.com/match-updates/crystal-palace-vs-tottenham/', 
                    link2: 'https://rotabettv379.com/mac/crystal-palace-tottenham-bein-sports-3/' },
 
                 { oyun: ' Atalanta - Inter ', saat: '23:45', 
                    link1: 'https://rotabettv379.com/mac/atalanta-inter-tivibu-spor-1/', 
-                   link2: 'https://rotabettv379.com/mac/atalanta-inter-s-sport-2/' },
+                   link2: 'https://rotabettv379.com/mac/atalanta-inter-s-sport-2/' },*/
          
               /*  { oyun: ' Chelsea - Aston Villa ', saat: '21:30', 
                  link1: 'https://idmantv.az/az', 

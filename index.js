@@ -3,7 +3,7 @@
         let oyunlar = [
                 { oyun: ' Galatasaray - Trabzonspor ', saat: '21:30', 
                 link1: 'https://www.atv.com.tr/canli-yayin',
-                link2: 'https://rotabettv379.com/mac/galatasaray-trabzonspor-atv/'},
+                link2: 'https://rotabettv379.com/mac/fenerbahce-samsunspor-atv/'},
                 
                /* { oyun: ' Crystal Palace - Tottenham ', saat: '20:30', 
                    link1: 'https://ovogoaal.com/match-updates/crystal-palace-vs-tottenham/', 

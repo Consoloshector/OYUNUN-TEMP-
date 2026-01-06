@@ -1,7 +1,7 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Galatasaray - Trabzonspor ', saat: '21:30', 
+                { oyun: ' Fenerbahçe - Samsunspor ', saat: '21:30', 
                 link1: 'https://www.atv.com.tr/canli-yayin',
                 link2: 'https://rotabettv379.com/mac/fenerbahce-samsunspor-atv/'},
                 

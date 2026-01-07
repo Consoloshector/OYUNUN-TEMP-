@@ -3,7 +3,7 @@
         let oyunlar = [
                 { oyun: ' Barcelona - Athletic ', saat: '23:00', 
                 link1: 'https://ovogoaal.com/match-updates/barcelona-vs-athletic-club/',
-                link2: 'https://rotabettv379.com/mac/fenerbahce-samsunspor-atv/'},
+                link2: 'https://shoot4k.com/yallashoottv-live/barcelona-vs-athletic-bilbao-spain---super-cup/27386'},
                 
                 { oyun: ' Tottenham - Bournemouth ', saat: '23:30', 
                    link1: 'https://ovogoaal.com/match-updates/bournemouth-vs-tottenham/', 

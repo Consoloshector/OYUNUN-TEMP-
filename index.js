@@ -7,11 +7,11 @@
                 
                 { oyun: ' Tottenham - Bournemouth ', saat: '23:30', 
                    link1: 'https://ovogoaal.com/match-updates/bournemouth-vs-tottenham/', 
-                   link2: 'https://rotabettv379.com/mac/crystal-palace-tottenham-bein-sports-3/' },
+                   link2: 'https://rotabettv379.com/mac/bournemouth-tottenham-bein-sports-max-1/' },
 
                 { oyun: ' Man City - Brighton ', saat: '23:30', 
                    link1: 'https://ovogoaal.com/match-updates/manchester-city-vs-brighton/', 
-                   link2: 'https://rotabettv379.com/mac/atalanta-inter-s-sport-2/' },
+                   link2: 'https://rotabettv379.com/mac/manchester-city-brighton-bein-sports-3/' },
          
                 { oyun: ' Fulham - Chelsea ', saat: '23:30', 
                  link1: 'https://idmantv.az/az', 
@@ -19,7 +19,7 @@
            
                 { oyun: ' Parma - Inter ', saat: '23:45', 
                 link1: 'https://ovogoaal.com/match-updates/parma-vs-inter/',
-                link2: 'https://ovogoaal.com/match-updates/rb-leipzig-vs-bayer-leverkusen/'},
+                link2: 'https://rotabettv379.com/mac/parma-inter-tivibu-spor-1/'},
          
                 { oyun: ' Burnley - Man United ', saat: '00:15', 
                 link1: 'https://aztv.az/az/live', 

@@ -1,31 +1,31 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Fenerbahçe - Samsunspor ', saat: '21:30', 
-                link1: 'https://www.atv.com.tr/canli-yayin',
+                { oyun: ' Barcelona - Athletic ', saat: '23:00', 
+                link1: 'https://ovogoaal.com/match-updates/barcelona-vs-athletic-club/',
                 link2: 'https://rotabettv379.com/mac/fenerbahce-samsunspor-atv/'},
                 
-               /* { oyun: ' Crystal Palace - Tottenham ', saat: '20:30', 
-                   link1: 'https://ovogoaal.com/match-updates/crystal-palace-vs-tottenham/', 
+                { oyun: ' Tottenham - Bournemouth ', saat: '23:30', 
+                   link1: 'https://ovogoaal.com/match-updates/bournemouth-vs-tottenham/', 
                    link2: 'https://rotabettv379.com/mac/crystal-palace-tottenham-bein-sports-3/' },
 
-                { oyun: ' Atalanta - Inter ', saat: '23:45', 
-                   link1: 'https://rotabettv379.com/mac/atalanta-inter-tivibu-spor-1/', 
-                   link2: 'https://rotabettv379.com/mac/atalanta-inter-s-sport-2/' },*/
+                { oyun: ' Man City - Brighton ', saat: '23:30', 
+                   link1: 'https://ovogoaal.com/match-updates/manchester-city-vs-brighton/', 
+                   link2: 'https://rotabettv379.com/mac/atalanta-inter-s-sport-2/' },
          
-              /*  { oyun: ' Chelsea - Aston Villa ', saat: '21:30', 
+                { oyun: ' Fulham - Chelsea ', saat: '23:30', 
                  link1: 'https://idmantv.az/az', 
-                 link2: 'https://rotabettv379.com/mac/chelsea-aston-villa-bein-sports-3/' },*/
+                 link2: 'https://ovogoaal.com/match-updates/fulham-vs-chelsea/' },
            
-               /* { oyun: ' Leipzig - Bayer ', saat: '21:30', 
-                link1: 'https://golvar623.sbs/mac/leipzig-bayer-leverkusen-tivibu-spor-2/',
+                { oyun: ' Parma - Inter ', saat: '23:45', 
+                link1: 'https://ovogoaal.com/match-updates/parma-vs-inter/',
                 link2: 'https://ovogoaal.com/match-updates/rb-leipzig-vs-bayer-leverkusen/'},
          
-                { oyun: ' Juventus - Roma ', saat: '23:45', 
-                link1: 'https://golvar623.sbs/mac/juventus-roma-tivibu-spor-1/', 
-                link2: 'https://ovogoaal.com/match-updates/juventus-vs-roma/' },
+                { oyun: ' Burnley - Man United ', saat: '00:15', 
+                link1: 'https://aztv.az/az/live', 
+                link2: 'https://ovogoaal.com/match-updates/burnley-vs-manchester-united/' },
 
-                 { oyun: ' Real Madrid - Sevilla ', saat: '00:00', 
+                 /*{ oyun: ' Real Madrid - Sevilla ', saat: '00:00', 
                   link1: 'https://idmantv.az/az', 
                   link2: 'https://ovogoaal.com/match-updates/real-madrid-vs-sevilla/' },
                 

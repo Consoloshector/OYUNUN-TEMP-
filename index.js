@@ -1,19 +1,19 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' Barcelona - Athletic ', saat: '23:00', 
+                { oyun: ' PSG - Marseille ', saat: '22:00', 
                 link1: 'https://ovogoaal.com/match-updates/barcelona-vs-athletic-club/',
                 link2: 'https://shoot4k.com/yallashoottv-live/barcelona-vs-athletic-bilbao-spain---super-cup/27386'},
                 
-                { oyun: ' Tottenham - Bournemouth ', saat: '23:30', 
+                { oyun: ' Atletico - Real Madrid ', saat: '23:00', 
                    link1: 'https://ovogoaal.com/match-updates/bournemouth-vs-tottenham/', 
                    link2: 'https://rotabettv379.com/mac/bournemouth-tottenham-bein-sports-max-1/' },
 
-                { oyun: ' Man City - Brighton ', saat: '23:30', 
+                { oyun: ' Arsenal - Liverpool ', saat: '00:00', 
                    link1: 'https://ovogoaal.com/match-updates/manchester-city-vs-brighton/', 
                    link2: 'https://rotabettv379.com/mac/manchester-city-brighton-bein-sports-3/' },
          
-                { oyun: ' Fulham - Chelsea ', saat: '23:30', 
+               /* { oyun: ' Fulham - Chelsea ', saat: '23:30', 
                  link1: 'https://idmantv.az/az', 
                  link2: 'https://ovogoaal.com/match-updates/fulham-vs-chelsea/' },
            
@@ -23,7 +23,7 @@
          
                 { oyun: ' Burnley - Man United ', saat: '00:15', 
                 link1: 'https://aztv.az/az/live', 
-                link2: 'https://ovogoaal.com/match-updates/burnley-vs-manchester-united/' },
+                link2: 'https://ovogoaal.com/match-updates/burnley-vs-manchester-united/' },*/
 
                  /*{ oyun: ' Real Madrid - Sevilla ', saat: '00:00', 
                   link1: 'https://idmantv.az/az', 

@@ -2,16 +2,16 @@
 
         let oyunlar = [
                 { oyun: ' PSG - Marseille ', saat: '22:00', 
-                link1: 'https://ovogoaal.com/match-updates/barcelona-vs-athletic-club/',
-                link2: 'https://shoot4k.com/yallashoottv-live/barcelona-vs-athletic-bilbao-spain---super-cup/27386'},
+                link1: 'https://rotabettv379.com/mac/psg-marsilya-bein-sports-4/',
+                link2: 'https://ovogoaal.com/match-updates/psg-vs-marseille/'},
                 
                 { oyun: ' Atletico - Real Madrid ', saat: '23:00', 
-                   link1: 'https://ovogoaal.com/match-updates/bournemouth-vs-tottenham/', 
-                   link2: 'https://rotabettv379.com/mac/bournemouth-tottenham-bein-sports-max-1/' },
+                   link1: 'https://ovogoaal.com/match-updates/atletico-madrid-vs-real-madrid/', 
+                   link2: 'https://shoot4k.com/yallashoottv-live/atletico-madrid-vs-real-madrid-spain---super-cup/27405' },
 
                 { oyun: ' Arsenal - Liverpool ', saat: '00:00', 
-                   link1: 'https://ovogoaal.com/match-updates/manchester-city-vs-brighton/', 
-                   link2: 'https://rotabettv379.com/mac/manchester-city-brighton-bein-sports-3/' },
+                   link1: 'https://idmantv.az/az', 
+                   link2: 'https://ovogoaal.com/match-updates/arsenal-vs-liverpool/' },
          
                /* { oyun: ' Fulham - Chelsea ', saat: '23:30', 
                  link1: 'https://idmantv.az/az', 

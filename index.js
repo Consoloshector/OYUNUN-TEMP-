@@ -1,17 +1,17 @@
    const main = document.getElementsByClassName('main')[0];
 
         let oyunlar = [
-                { oyun: ' PSG - Marseille ', saat: '22:00', 
-                link1: 'https://rotabettv379.com/mac/psg-marsilya-bein-sports-4/',
-                link2: 'https://ovogoaal.com/match-updates/psg-vs-marseille/'},
+                { oyun: ' Fenerbahçe - Galatasaray ', saat: '19:45', 
+                link1: 'https://atv.az/live',
+                link2: 'https://myfootball.pw/11519348-galatasaray-fenerbahche-pryamaya-translyaciya-turciya-superkubok-10012026-smotret-onlayn.html'},
                 
-                { oyun: ' Atletico - Real Madrid ', saat: '23:00', 
-                   link1: 'https://ovogoaal.com/match-updates/atletico-madrid-vs-real-madrid/', 
-                   link2: 'https://shoot4k.com/yallashoottv-live/atletico-madrid-vs-real-madrid-spain---super-cup/27405' },
+                { oyun: ' Əlcəzair - Nigeriya ', saat: '20:00', 
+                   link1: 'https://xyzshoot4k-com.goal01.space/?m=27430&lang=en', 
+                   link2: 'https://myfootball.pw/11519340-alzhir-nigeriya-pryamaya-translyaciya-kubok-afrikanskih-naciy-10012026-smotret-onlayn.html' },
 
-                { oyun: ' Arsenal - Liverpool ', saat: '00:00', 
-                   link1: 'https://idmantv.az/az', 
-                   link2: 'https://ovogoaal.com/match-updates/arsenal-vs-liverpool/' },
+                { oyun: ' Misir - Kot-d’İvuar', saat: '23:00', 
+                   link1: 'https://shoot4k.com/yallashoottv-live/egypt-vs-ivory-coast-africa-cup-of-nations/27431', 
+                   link2: 'https://myfootball.pw/11519355-egipet-kot-divuar-pryamaya-translyaciya-kubok-afrikanskih-naciy-10012026-smotret-onlayn.html' },
          
                /* { oyun: ' Fulham - Chelsea ', saat: '23:30', 
                  link1: 'https://idmantv.az/az', 

@@ -25,7 +25,7 @@ let oyunlar = [
       'https://monotv529.com/channel?id=yayinss',
       'https://taraftarium-maclar.org/izle/fc-barcelona-real-madrid-c-f--futbol-2026-01-11',
       'https://bahisnowtv615.com/Watch/M893588',
-      'https://zeustv173.com/tv/s-sport/',
+      'https://match.az/match-futbol-2-canli-izle.html',
       'https://ovogoaal.com/match-updates/barcelona-vs-real-madrid/',
       'https://match.az/match-tv-canli-izle.html',
       'https://shoot4k.com/yallashoottv-live/barcelona-vs-real-madrid-spain---super-cup/27482',

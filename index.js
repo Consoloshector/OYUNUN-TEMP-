@@ -2,11 +2,27 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: 'Fenerbahçe - Galatasaray',
-    saat: '19:45',
+    oyun: 'Bayern - Wolfsburg',
+    saat: '20:30',
     links: [
-      'https://atv.az/live',
-      'https://myfootball.pw/11519348-galatasaray-fenerbahche-pryamaya-translyaciya-turciya-superkubok-10012026-smotret-onlayn.html',
+      'https://ovogoaal.com/match-updates/bayern-munchen-vs-wolfsburg/',
+      'https://myfootball.pw/11519381-bavariya-volfsburg-pryamaya-translyaciya-germaniya-bundesliga-11012026-smotret-onlayn.html'
+    ]
+  },
+  {
+    oyun: 'Man United - Brighton',
+    saat: '20:30',
+    links: [
+      'https://rotabettv379.com/mac/manchester-utd-brighton-tabii-spor/',
+      'https://myfootball.pw/11519380-manchester-yun-brayton-pryamaya-translyaciya-angliya-kubok-fa-11012026-smotret-onlayn.html'
+    ]
+  },
+  {
+    oyun: 'Barcelona - Real Madrid',
+    saat: '23:00',
+    links: [
+      'https://shoot4k.com/yallashoottv-live/egypt-vs-ivory-coast-africa-cup-of-nations/27431',
+      'https://myfootball.pw/11519355-egipet-kot-divuar-pryamaya-translyaciya-kubok-afrikanskih-naciy-10012026-smotret-onlayn.html',
       'https://example.com/3',
       'https://example.com/4',
       'https://example.com/5',
@@ -18,19 +34,11 @@ let oyunlar = [
     ]
   },
   {
-    oyun: 'Əlcəzair - Nigeriya',
-    saat: '20:00',
+    oyun: 'Inter - Napoli',
+    saat: '23:45',
     links: [
-      'https://xyzshoot4k-com.goal01.space/?m=27430&lang=en',
-      'https://myfootball.pw/11519340-alzhir-nigeriya-pryamaya-translyaciya-kubok-afrikanskih-naciy-10012026-smotret-onlayn.html'
-    ]
-  },
-  {
-    oyun: 'Misir - Kot-d’İvuar',
-    saat: '23:00',
-    links: [
-      'https://shoot4k.com/yallashoottv-live/egypt-vs-ivory-coast-africa-cup-of-nations/27431',
-      'https://myfootball.pw/11519355-egipet-kot-divuar-pryamaya-translyaciya-kubok-afrikanskih-naciy-10012026-smotret-onlayn.html'
+      'https://rotabettv379.com/mac/inter-napoli-tivibu-spor-1/',
+      'https://myfootball.pw/11519389-inter-napoli-pryamaya-translyaciya-italiya-seriya-a-11012026-smotret-onlayn.html'
     ]
   }
 ];

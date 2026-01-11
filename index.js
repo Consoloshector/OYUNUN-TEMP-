@@ -12,6 +12,8 @@ let oyunlar = [
       'https://example.com/5',
       'https://example.com/6',
       'https://example.com/7',
+      'https://example.com/8',
+      'https://example.com/7',
       'https://example.com/8'
     ]
   },

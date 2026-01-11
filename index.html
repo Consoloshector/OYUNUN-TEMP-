@@ -2,233 +2,261 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-KKTEZTCBMV"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-KKTEZTCBMV');
-</script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+    integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-KKTEZTCBMV"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('js', new Date());
+    gtag('config', 'G-KKTEZTCBMV');
+  </script>
 
- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7346987267715719"
-     crossorigin="anonymous"></script>
-  
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-    <title>Oyunun Tempi</title>
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7346987267715719"
+    crossorigin="anonymous"></script>
+
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+    integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <title>Oyunun Tempi</title>
 </head>
 
 <style>
-    * {
-        margin: 0;
-        padding: 0;
-        box-sizing: border-box;
-        text-decoration: none;
-    }
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+  }
 
-    body {
-        background-image: url('SaytBackgroundPhoto.png');
-        background-position: center;
-        background-size: cover;
-        min-height: 100vh;
-        padding: 7%;
-    }
+  body {
+    background-image: url('SaytBackgroundPhoto.png');
+    background-position: center;
+    background-size: cover;
+    min-height: 100vh;
+    padding: 7%;
+  }
 
-    header {
-        width: 100%;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        margin-bottom: 2rem;
-    }
+  header {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 2rem;
+  }
 
-    .spa {
-        background: rgba(255, 255, 255, 0.7);
-        backdrop-filter: blur(10px);
-        margin-top: 20px;
-        font-family: sans-serif;
-    }
+  .spa {
+    background: rgba(255, 255, 255, 0.7);
+    backdrop-filter: blur(10px);
+    margin-top: 20px;
+    font-family: sans-serif;
+  }
 
-    header a img {
-        width: 150px;
-        height: 150px;
+  header a img {
+    width: 150px;
+    height: 150px;
+  }
 
-    }
+  .main {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+  }
 
-    .main {
-        width: 100%;
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        align-items: center;
-        gap: 30px;
-    }
+  .main .content {
+    background: rgba(0, 0, 0, 0.7);
+    width: 35%;
+    height: 3rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 30px;
+    padding: 10px 15px;
+    border: 2px solid black;
+    cursor: pointer;
+  }
 
-    .main .content {
-        background: rgba(0, 0, 0, 0.7);
-        width: 35%;
-        height: 3rem;
-        display: flex;
-        justify-content: space-around;
-        align-items: center;
-        gap: 30px;
-        padding: 10px 15px;
-        border: 2px solid black;
-        cursor: pointer;
-    }
+  .main .content .oyun {
+    font-family: sans-serif;
+    font-size: 1.3rem;
+    font-weight: 400;
+    color: white;
+  }
 
-    .main .content .oyun {
-        font-family: sans-serif;
-        font-size: 1.3rem;
-        font-weight: 400;
-        color: white;
-    }
+  .secret {
+    max-height: 0;
+    opacity: 0;
+    overflow: hidden;
+    transition: all 0.4s ease;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 15px;
+    justify-items: center;
+    align-items: center;
+    width: 35%;
+    background: rgba(0, 0, 0, 0.7);
+    border: 2px solid black;
+    margin-top: -30px;
+  }
 
-    .secret {
-        max-height: 0;
-        opacity: 0;
-        overflow: hidden;
-        transition: all 0.4s ease;
-                display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        gap: 15px;
-        justify-items: center;
-        align-items: center;
-        width: 100%;
-        background: rgba(0, 0, 0, 0.7);
-        gap: 30px;
-        padding: 15px 15px;
-        border: 2px solid black;
-        margin-top: -30px;
-    }
-
-    .secret.show {
-        width:35%;
-        min-height: 233px;
+  /* Standart ölçü (2 link üçün) */
+  .secret.show {
     opacity: 1;
-    padding: 15px 15px;
-    }
+    min-height: 90px;
+    padding: 20px 15px;
+    max-height: 1000px;
+  }
 
+  /* Xüsusi ölçü (8 linkli ilk blok üçün) */
+  .main .secret:nth-child(2).show {
+    min-height: 233px;
+    padding: 15px;
+  }
 
-    .secret .links {
-        background: white;
-        padding: 10px 30px;
-        display:flex;
-        justify-content: center;
-        align-items: center;
-    }
+  .secret .links {
+    background: white;
+    padding: 10px 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-width: 120px;
+  }
 
-    .secret .links:hover {
-        transition: 0.5s;
-        background: rgb(0, 162, 255);
-    }
+  .secret .links:hover {
+    transition: 0.5s;
+    background: rgb(0, 162, 255);
+  }
 
-    .secret .links:active {
-        background: rgb(0, 162, 255);
-    }
+  .secret .links .link {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
 
-    .secret .links .link {
-        color: black;
-        font-family: Verdana, Geneva, Tahoma, sans-serif;
-    }
+  @media (max-width: 1215px) {
+    .main .content, .secret, .secret.show { width: 50%; }
+    .main .secret:nth-child(2).show { min-height: 290px; }
+  }
 
-    @media (max-width: 1215px) {
-        .main .content {
-            width: 50%;
-        }
+  @media (max-width: 950px) {
+    .main .content, .secret, .secret.show { width: 60%; }
+  }
 
-        .secret {
-            width: 50%;
-        }
-    }
+  @media (max-width: 715px) {
+    .main .content, .secret, .secret.show { width: 80%; }
+  }
 
-    @media (max-width: 950px) {
-        .main .content {
-            width: 60%;
-        }
-
-        .secret {
-            width: 60%;
-        }
-    }
-
-    @media (max-width: 715px) {
-        .main .content {
-            width: 80%;
-        }
-
-        .secret {
-            width: 80%;
-        }
-    }
-
-    @media (max-width: 530px) {
-        .main .content {
-            width: 85%;
-        }
-
-        .secret {
-            width: 85%;
-        }
-    }
-
-    @media (max-width: 500px) {
-        .main .content {
-            width: 90%;
-        }
-
-        .secret {
-            width: 90%;
-        }
-    }
-
-        @media (max-width: 480px) {
+  @media (max-width: 480px) {
     .main .content {
-            width: 100%;
-            display: flex;
-            flex-direction: column;
-            gap: 5px;
-            height: 77px;
-         }
-
-            .secret {
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        gap: 15px;
-        justify-items: center;
-        align-items: center;
-        width: 100%;
-        }
+      width: 100%;
+      flex-direction: column;
+      gap: 5px;
+      height: 77px;
     }
+    .secret, .secret.show { width: 100%; }
+  }
 </style>
-
 <body>
 
 
-    <header>
-        <div class="img"><a href="https://whatsapp.com/channel/0029VaEBKeQ1yT26BEY2EP3i"><img
-                    src="logo.png"
-                    alt=""></a></div>
-        <span class="spa">Bizi WhatsAppda tap! Oyunun Tempi loqosuna kliklə və qoşul!</span>
-        
-        <audio id="ucl" autoplay hidden>
-            <source src="spotidownloader.com - UEFA Champions League Anthem - UEFA.mp3" type="audio/mpeg">
-        </audio>
+  <header>
+    <div class="img"><a href="https://whatsapp.com/channel/0029VaEBKeQ1yT26BEY2EP3i"><img src="logo.png" alt=""></a>
+    </div>
+    <span class="spa">Bizi WhatsAppda tap! Oyunun Tempi loqosuna kliklə və qoşul!</span>
 
-        <i style="font-size: 2rem; color: white; margin-top: 20px;" onclick="document.getElementById('ucl').play()" class="fa-solid fa-volume-high"></i>
-    </header>
+    <audio id="ucl" autoplay hidden>
+      <source src="spotidownloader.com - UEFA Champions League Anthem - UEFA.mp3" type="audio/mpeg">
+    </audio>
 
-    <div class="main"></div>
+    <i style="font-size: 2rem; color: white; margin-top: 20px;" onclick="document.getElementById('ucl').play()"
+      class="fa-solid fa-volume-high"></i>
+  </header>
+
+  <div class="main"></div>
 
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
-        integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
-        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="index.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+    integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+    crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+  <script>
+    const main = document.getElementsByClassName('main')[0];
+
+    let oyunlar = [
+      {
+        oyun: 'Fenerbahçe - Galatasaray',
+        saat: '19:45',
+        links: [
+          'https://atv.az/live',
+          'https://myfootball.pw/11519348-galatasaray-fenerbahche-pryamaya-translyaciya-turciya-superkubok-10012026-smotret-onlayn.html',
+          'https://example.com/3',
+          'https://example.com/4',
+          'https://example.com/5',
+          'https://example.com/6',
+          'https://example.com/7',
+          'https://example.com/8'
+        ]
+      },
+      {
+        oyun: 'Əlcəzair - Nigeriya',
+        saat: '20:00',
+        links: [
+          'https://xyzshoot4k-com.goal01.space/?m=27430&lang=en',
+          'https://myfootball.pw/11519340-alzhir-nigeriya-pryamaya-translyaciya-kubok-afrikanskih-naciy-10012026-smotret-onlayn.html'
+        ]
+      },
+      {
+        oyun: 'Misir - Kot-d’İvuar',
+        saat: '23:00',
+        links: [
+          'https://shoot4k.com/yallashoottv-live/egypt-vs-ivory-coast-africa-cup-of-nations/27431',
+          'https://myfootball.pw/11519355-egipet-kot-divuar-pryamaya-translyaciya-kubok-afrikanskih-naciy-10012026-smotret-onlayn.html'
+        ]
+      }
+    ];
+
+    oyunlar.forEach(e => {
+      const content = document.createElement('div');
+      content.className = 'content';
+
+      const span1 = document.createElement('span');
+      span1.className = 'oyun';
+      span1.textContent = e.oyun;
+
+      const span2 = document.createElement('span');
+      span2.className = 'oyun';
+      span2.textContent = e.saat;
+
+      const secret = document.createElement('div');
+      secret.className = 'secret';
+
+      e.links.forEach((url, index) => {
+        const linkDiv = document.createElement('div');
+        linkDiv.className = 'links';
+
+        const a = document.createElement('a');
+        a.className = 'link';
+        a.textContent = `Link ${index + 1}`;
+        a.href = url;
+        a.target = '_blank';
+
+        linkDiv.append(a);
+        secret.append(linkDiv);
+      });
+
+      content.append(span1, span2);
+      main.append(content, secret);
+
+      content.addEventListener('click', () => {
+        secret.classList.toggle('show');
+      });
+    });
+  </script>
 </body>
 
 </html>
-

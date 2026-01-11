@@ -21,8 +21,8 @@ let oyunlar = [
     oyun: 'Barcelona - Real Madrid',
     saat: '23:00',
     links: [
-      'https://myfootball.pw/11520088-barselona-real-madrid-pryamaya-translyaciya-ispaniya-superkubok-11012026-smotret-onlayn.html',
-      'https://izlemac226.sbs/mac-izle/barcelona-real-madrid/',
+      'https://selcuksports161.top/',
+      'https://freestreams-live1.pk/bt-sport-4-uk/',
       'https://taraftarium-maclar.org/izle/fc-barcelona-real-madrid-c-f--futbol-2026-01-11',
       'https://bahisnowtv615.com/Watch/M893588',
       'https://match.az/match-futbol-2-canli-izle.html',
@@ -30,7 +30,7 @@ let oyunlar = [
       'https://match.az/match-tv-canli-izle.html',
       'https://shoot4k.com/yallashoottv-live/barcelona-vs-real-madrid-spain---super-cup/27482',
       'https://sng.sportplus.live/football/supercup-spain/7461527/',
-      'https://freestreams-live1.pk/bt-sport-4-uk/',
+      'https://izlemac226.sbs/mac-izle/barcelona-real-madrid/',
       'https://freestreams-live1.pk/sportdigital-de/',
       'https://gobtv3.com/channel?id=yayinss'
     ]

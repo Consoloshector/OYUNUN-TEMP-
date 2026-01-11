@@ -24,7 +24,7 @@ let oyunlar = [
       'https://selcuksports161.top/',
       'https://freestreams-live1.pk/bt-sport-4-uk/',
       'https://taraftarium-maclar.org/izle/fc-barcelona-real-madrid-c-f--futbol-2026-01-11',
-      'https://bahisnowtv615.com/Watch/M893588',
+      'https://justintv77.top/',
       'https://match.az/match-futbol-2-canli-izle.html',
       'https://ovogoaal.com/match-updates/barcelona-vs-real-madrid/',
       'https://match.az/match-tv-canli-izle.html',

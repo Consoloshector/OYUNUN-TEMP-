@@ -32,7 +32,7 @@ let oyunlar = [
       'https://sng.sportplus.live/football/supercup-spain/7461527/',
       'https://freestreams-live1.pk/bt-sport-4-uk/',
       'https://freestreams-live1.pk/sportdigital-de/',
-      'https://zeustv173.com/tv/s-sport/'
+      'https://gobtv3.com/channel?id=yayinss'
     ]
   },
   {

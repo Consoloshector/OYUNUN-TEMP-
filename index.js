@@ -1,7 +1,7 @@
 const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
-  {
+  /*{
     oyun: 'Bayern - Wolfsburg',
     saat: '20:30',
     links: [
@@ -16,7 +16,7 @@ let oyunlar = [
       'https://rotabettv379.com/mac/manchester-utd-brighton-tabii-spor/',
       'https://myfootball.pw/11519380-manchester-yun-brayton-pryamaya-translyaciya-angliya-kubok-fa-11012026-smotret-onlayn.html'
     ]
-  },
+  },*/
   {
     oyun: 'Barcelona - Real Madrid',
     saat: '23:00',

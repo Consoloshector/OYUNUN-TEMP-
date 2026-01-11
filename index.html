@@ -1,365 +1,219 @@
-<!DOCTYPE html><html lang="en">
+<!DOCTYPE html>
+<html lang="en">
+
 <head>
-  <meta charset="UTF-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-KKTEZTCBMV"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-KKTEZTCBMV');
-</script>
+  
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css" integrity="sha512-2SwdPD6INVrV/lHTZbO2nodKhrnDdJK9/kg2XD1r9uGqPo1cUbujc+IYdlYdEErWNu69gVcYgdxlmVmzTWnetw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <title>Oyunun Tempi</title>
+</head>
 
- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7346987267715719"
-     crossorigin="anonymous"></script>
-  
-  <title>Oyunun Tempi™</title>
-  <link rel="stylesheet" href="OT.css">  
-  
-  
-  <style>
+<style>
     * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-      text-decoration: none;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        text-decoration: none;
     }
 
-    .main {
-      padding: 20px;
-      background-image: url('IMG-20250723-WA0010.jpg');
-      min-height: 100vh;
-      background-size: cover;
-      background-position: center;
+    body {
+        background-image: url('SaytBackgroundPhoto.png');
+        background-position: center;
+        background-size: cover;
+        min-height: 100vh;
+        padding: 7%;
     }
 
     header {
-      display: flex;
-      justify-content: center;
-      background: rgba(172, 254, 64, 0);
-      height: 250px;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-bottom: 2rem;
     }
 
-    header .divbest {
-      width: 600px;
-      display: flex;
-      justify-content: center;
-      align-items: center;
+    .spa {
+        background: rgba(255, 255, 255, 0.7);
+        backdrop-filter: blur(10px);
+        margin-top: 20px;
+        font-family: sans-serif;
     }
 
-    header .divbest .div-img img,
-    header .divbest .div-a img {
-      width: 150px;
-      height: 150px;
+    header a img {
+        width: 150px;
+        height: 150px;
+
     }
 
-    .box {
-      margin-top: 50px;
-      display: flex;
-      flex-direction: column;
-      justify-content: center;
-      align-items: center;
+    .main {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 30px;
     }
 
-    .mac {
-      border-radius: 10px;
-      margin-top: 30px;
-      width: 90%;
-      max-width: 600px;
-      height: 80px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      border: 3px solid black;
-      background-color: rgba(0, 0, 0, 0.7);
+    .main .content {
+        background: rgba(0, 0, 0, 0.7);
+        width: 35%;
+        height: 3rem;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        gap: 30px;
+        padding: 10px 15px;
+        border: 2px solid black;
+        cursor: pointer;
     }
 
-    .mac a{
-       font-family: sans-serif;
-    }
-
-    .box div a {
-      color: white;
-      font-size: 1.5rem;
-      text-align: center;
+    .main .content .oyun {
+        font-family: sans-serif;
+        font-size: 1.3rem;
+        font-weight: 400;
+        color: white;
     }
 
     .secret {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      width: 90%;
-      max-width: 600px;
-      background-color: rgba(0, 0, 0, 0.7);
-      display: none;
-      padding: 10px;
-      border-radius: 10px;
+        max-height: 0;
+        opacity: 0;
+        overflow: hidden;
+        transition: all 0.4s ease;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        background: rgba(0, 0, 0, 0.7);
+        width: 35%;
+        gap: 30px;
+        padding: 0 15px;
+
+        border: 2px solid black;
+        margin-top: -30px;
     }
 
-    .secret div {
-      background-color: white;
-      padding: 10px;
-      margin: 5px;
-      display: flex;
-      justify-content: center;
-      border: 1px solid black;
-      width: 100%;
-      text-align: center;
+    .secret.show {
+        max-height: 200px;
+        opacity: 1;
+        padding: 30px 15px;
+
     }
 
-    .secret div a {
-      color: black;
-      font-size: 1.5rem;
+
+    .secret .links {
+        background: white;
+        padding: 10px 30px;
+        display:flex;
+        justify-content: center;
+        align-items: center;
     }
 
-    @media (max-width: 768px) {
-      header {
-        height: 180px;
-      }
-      header .divbest {
-        width: 100%;
-        padding: 0 10px;
-      }
-      header .divbest .div-img img,
-      header .divbest .div-a img {
-        width: 100px;
-        height: 100px;
-      }
-      .mac {
-        height: 60px;
-      }
-      .box div a {
-        font-size: 1.2rem;
-      }
+    .secret .links:hover {
+        transition: 0.5s;
+        background: rgb(0, 162, 255);
     }
 
-    .textbox{
-      margin-top: 50px;
-      width:200px;
-      height:50px;
-      background-color:rgba(79, 238, 9,0.8);
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      border: 2px solid black ;
-      border-radius:10px;
+    .secret .links:active {
+        background: rgb(0, 162, 255);
     }
-    
-     .spa{
-       background:rgba(255, 255, 255, 0.7);
-       backdrop-filter: blur(10px);
-       
-     }
-    
-    
-    /* Böyük ekranlar (1200px+) */
-@media (min-width: 1200px) {
-  .box {
-    max-width: 800px;
-  }
-}
 
-/* Noutbuklar və orta ölçülü ekranlar (992px - 1200px) */
-@media (max-width: 1200px) {
-  header {
-    height: 220px;
-  }
-  .mac {
-    height: 70px;
-  }
-}
+    .secret .links .link {
+        color: black;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+    }
 
-/* Planşetlər (768px - 992px) */
-@media (max-width: 992px) {
-  header {
-    height: 180px;
-  }
-  .divbest {
-    width: 90%;
-  }
-  .mac {
-    height: 60px;
-    font-size: 1.3rem;
-  }
-}
+    @media (max-width: 1215px) {
+        .main .content {
+            width: 50%;
+        }
 
-/* Böyük telefonlar (576px - 768px) */
-@media (max-width: 768px) {
-  header {
-    height: 150px;
-  }
-  .divbest {
-    padding: 0 15px;
-  }
-  .mac {
-    height: 50px;
-    font-size: 1.2rem;
-  }
-  
-  .ikili {
-  display: flex;
-  justify-content: center;
-  }
-  
-  .textbox {
-    width: 180px;
-    height: 45px;
-  }
-  
-  .spa{
-    display: flex;
-    text-align: center;
-  }
-}
+        .secret {
+            width: 50%;
+        }
+    }
 
-/* Kiçik telefonlar (576px və aşağı) */
-@media (max-width: 576px) {
-  header {
-    height: 130px;
-  }
-  .divbest .div-img img,
-  .divbest .div-a img {
-    width: 80px;
-    height: 80px;
-  }
-  .mac {
-    width: 100%;
-    height: 45px;
-    font-size: 1rem;
-  }
-  .textbox {
-    width: 160px;
-    height: 40px;
-  }
-  .box div a {
-    font-size: 1rem;
-  }
+    @media (max-width: 950px) {
+        .main .content {
+            width: 60%;
+        }
 
-  .divwp{
-    width:300px;
-    
-  }
-}
-  </style></head>
+        .secret {
+            width: 60%;
+        }
+    }
+
+    @media (max-width: 715px) {
+        .main .content {
+            width: 80%;
+        }
+
+        .secret {
+            width: 80%;
+        }
+    }
+
+    @media (max-width: 530px) {
+        .main .content {
+            width: 85%;
+        }
+
+        .secret {
+            width: 85%;
+        }
+    }
+
+    @media (max-width: 500px) {
+        .main .content {
+            width: 90%;
+        }
+
+        .secret {
+            width: 90%;
+        }
+    }
+
+        @media (max-width: 480px) {
+    .main .content {
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+            height: 77px;
+         }
+
+            .secret {
+            width: 100%;
+            height: 70px;
+        }
+    }
+</style>
+
 <body>
-  <div class="main">
+
+
     <header>
-      <div class="divbest">
-        <div class="div-img">
-          <a href="https://whatsapp.com/channel/0029VaEBKeQ1yT26BEY2EP3i"><img src="1739807568358.png" alt="" /></a>
-        </div>
-    </div>
+        <div class="img"><a href="https://whatsapp.com/channel/0029VaEBKeQ1yT26BEY2EP3i"><img
+                    src="logo.png"
+                    alt=""></a></div>
+        <span class="spa">Bizi WhatsAppda tap! Oyunun Tempi loqosuna kliklə və qoşul!</span>
+        
+        <audio id="ucl" autoplay hidden>
+            <source src="spotidownloader.com - UEFA Champions League Anthem - UEFA.mp3" type="audio/mpeg">
+        </audio>
+
+        <i style="font-size: 2rem; color: white; margin-top: 20px;" onclick="document.getElementById('ucl').play()" class="fa-solid fa-volume-high"></i>
     </header>
 
-    <span class="spa">Bizi WhatsAppda tap! Oyunun Tempi loqosuna kliklə və qoşul!</span>
- 
-    
-    <div class="box">
+    <div class="main"></div>
 
-      
-         <div class="mac"><a class="at3" href="#"> Gürcüstan - Türkiyə (20:00) <a></div>
-  <div class="secret secret3">
-    <div><a href="https://www.canlitv.vin/cbcsport-canli-yayin">Link 1</a></div>
-   <div><a href="https://rotabettv356.com/mac/gurcistan-turkiye-tv8/">Link 2</a></div>
-  </div>
 
-           <div class="mac"><a class="at1" href="#"> Bolqarıstan - İspaniya (22:45) <a></div>
-  <div class="secret secret1">
-    <div><a href="https://myfootball.top/11491814-bolgariya-ispaniya-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-04092025-smotret-onlayn.html">Link 1</a></div>
-   <div><a href="https://myfootball.top/11491814-bolgariya-ispaniya-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-04092025-smotret-onlayn.html">Link 2</a></div>
-     </div>  
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"
+        integrity="sha512-v2CJ7UaYy4JwqLDIrZUI/4hqeoQieOmAZNXBeQyjo21dadnwR+8ZaIJVT8EE2iyI61OV8e6M8PP2/4hpQINQ/g=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="index.js"></script>
+</body>
 
-           <div class="mac"><a class="at4" href="#"> Slovakiya - Almaniya (22:45) <a></div>
-  <div class="secret secret4">
-    <div><a href="https://myfootball.top/11491816-slovakiya-germaniya-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-04092025-smotret-onlayn.html">Link 1</a></div>
-   <div><a href="https://myfootball.top/11491816-slovakiya-germaniya-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-04092025-smotret-onlayn.html">Link 2</a></div>
-         </div>
-
-<div class="mac"><a class="at5" href="#"> Argentina - Venezuela (03:30) <a></div>
-  <div class="secret secret5">
-    <div><a href="https://myfootball.top/11491823-argentina-venesuela-pryamaya-translyaciya-otborochnyy-turnir-chm-yuzhnaya-amerika-05092025-smotret-onlayn.html">Link 1</a></div>
-   <div><a href="https://myfootball.top/11491823-argentina-venesuela-pryamaya-translyaciya-otborochnyy-turnir-chm-yuzhnaya-amerika-05092025-smotret-onlayn.html">Link 2</a></div>
-  </div>
-  
-
-       <div class="mac"><a class="at2" href="#">Braziliya - Chilie (04:30) <a></div>
-  <div class="secret secret2">
-    <div><a href="https://myfootball.top/11491827-braziliya-chili-pryamaya-translyaciya-otborochnyy-turnir-chm-yuzhnaya-amerika-05092025-smotret-onlayn.html">Link 1</a></div>
-   <div><a href="https://myfootball.top/11491827-braziliya-chili-pryamaya-translyaciya-otborochnyy-turnir-chm-yuzhnaya-amerika-05092025-smotret-onlayn.html">Link 2</a></div>
-</div>  
-
-         
-
-  <!--div class="mac"><a class="at6" href="#"> Augsburg - Bayer Munich (20:30) <a></div>
-  <div class="secret secret6">
-    <div><a href="https://rotabettv356.com/mac/benfica-fenerbahce-trt-1/">Link 1</a></div>
-   <div><a href="https://myfootball.top/11490166-benfika-fenerbahche-pryamaya-translyaciya-liga-chempionov-kvalifikaciya-27082025-smotret-onlayn.html">Link 2</a></div>
-  </div>
-
-           <div class="mac"><a class="at7" href="#"> Galatasaray - Rizespor (22:30) <a></div>
-  <div class="secret secret7">
-    <div><a href="https://ppv.to/live/grimsby-town-vs-manchester-united">Link 1</a></div>
-   <div><a href="https://myfootball.top/11490164-grimsbi-taun-manchester-yun-pryamaya-translyaciya-angliya-kubok-ligi-27082025-smotret-onlayn.html">Link 2</a></div>
-         </div>
-
-<div class="mac"><a class="at8" href="#"> Napoli - Cagliari (22:45) <a></div>
-  <div class="secret secret8">
-    <div><a href="https://rotabettv355.com/mac/goztepe-fenerbahce-bein-sports-1/">Link 1</a></div>
-   <div><a href="https://beymenslottv1.com/channel?id=yayinzirve">Link 2</a></div>
-</div-->
-
-        
-
-       <div class="ikili">
-        <div class="textbox">
-      <a href="Sosial.html">Quiz</a>
-    </div>
-       </div>
-          </div>   
-
-        
-          
-           
-    
-             
-           <script>
-    $(document).ready(function() {
-      $('.at1').click(function() {
-        $('.secret1').slideToggle();
-      });
-      $('.at2').click(function() {
-        $('.secret2').slideToggle();
-      });
-      $('.at3').click(function() {
-        $('.secret3').slideToggle();
-      });
-      $('.at4').click(function() {
-        $('.secret4').slideToggle();
-      });
-      $('.at5').click(function() {
-        $('.secret5').slideToggle();
-      });
-      $('.at6').click(function() {
-        $('.secret6').slideToggle();
-      });
-      $('.at7').click(function() {
-        $('.secret7').slideToggle();
-      });
-      $('.at8').click(function() {
-        $('.secret8').slideToggle();
-      });
-     $('.at9').click(function() {
-        $('.secret9').slideToggle();
-      });
-            $('.at10').click(function() {
-        $('.secret10').slideToggle();
-      });
-    });
-            
-  </script>
-          </body>
-    </html>
+</html>

@@ -26,12 +26,12 @@ let oyunlar = [
       'https://tvjustin.net/',
       'https://justintv77.top/',
       'https://match.az/match-futbol-2-canli-izle.html',
-      'https://ovogoaal.com/match-updates/barcelona-vs-real-madrid/',
+      'https://gobtv3.com/channel?id=yayinex3',
       'https://match.az/match-tv-canli-izle.html',
       'https://shoot4k.com/yallashoottv-live/barcelona-vs-real-madrid-spain---super-cup/27482',
       'https://sng.sportplus.live/football/supercup-spain/7461527/',
       'https://izlemac226.sbs/mac-izle/barcelona-real-madrid/',
-      'https://freestreams-live1.pk/sportdigital-de/',
+      'https://taraftarium.is/event.html?id=androstreamlivessplus1',
       'https://gobtv3.com/channel?id=yayinss'
     ]
   },

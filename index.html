@@ -92,11 +92,9 @@
         opacity: 0;
         overflow: hidden;
         transition: all 0.4s ease;
-       display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    gap: 15px;                            
-    justify-items: center;
-    align-items: center;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
         background: rgba(0, 0, 0, 0.7);
         width: 35%;
         gap: 30px;
@@ -107,7 +105,7 @@
     }
 
     .secret.show {
-        min-height: 200px;
+        max-height: 200px;
         opacity: 1;
         padding: 30px 15px;
 
@@ -228,3 +226,4 @@
 </body>
 
 </html>
+

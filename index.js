@@ -32,7 +32,7 @@ let oyunlar = [
       'https://sng.sportplus.live/football/supercup-spain/7461527/',
       'https://izlemac226.sbs/mac-izle/barcelona-real-madrid/',
       'https://taraftarium.is/event.html?id=androstreamlivessplus1',
-      'https://gobtv3.com/channel?id=yayinss'
+      'https://izlemac226.sbs/wp-content/themes/ikisifirbirdokuz/match-center.php?id=18107959'
     ]
   },
   {

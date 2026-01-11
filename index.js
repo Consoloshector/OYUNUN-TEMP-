@@ -21,18 +21,18 @@ let oyunlar = [
     oyun: 'Barcelona - Real Madrid',
     saat: '23:00',
     links: [
-      'https://shoot4k.com/yallashoottv-live/egypt-vs-ivory-coast-africa-cup-of-nations/27431',
-      'https://myfootball.pw/11519355-egipet-kot-divuar-pryamaya-translyaciya-kubok-afrikanskih-naciy-10012026-smotret-onlayn.html',
-      'https://example.com/3',
-      'https://example.com/4',
-      'https://example.com/5',
-      'https://example.com/6',
-      'https://example.com/7',
-      'https://example.com/8',
-      'https://example.com/7',
-      'https://example.com/8',
-      'https://example.com/8',
-      'https://example.com/7'
+      'https://monotv529.com/channel?id=yayinss',
+      'https://bahisnowtv615.com/Watch/M893588',
+      'https://taraftarium-maclar.org/izle/s-sport',
+      'https://bahisnowtv615.com/Watch/M893588',
+      'https://zeustv173.com/tv/s-sport/',
+      'https://ovogoaal.com/match-updates/barcelona-vs-real-madrid/',
+      'https://myfootball.pw/11520088-barselona-real-madrid-pryamaya-translyaciya-ispaniya-superkubok-11012026-smotret-onlayn.html',
+      'https://shoot4k.com/yallashoottv-live/barcelona-vs-real-madrid-spain---super-cup/27482',
+      'https://sng.sportplus.live/football/supercup-spain/7461527/',
+      'https://freestreams-live1.pk/bt-sport-4-uk/',
+      'https://freestreams-live1.pk/sportdigital-de/',
+      'https://zeustv173.com/tv/s-sport/'
     ]
   },
   {

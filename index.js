@@ -22,7 +22,7 @@ let oyunlar = [
     saat: '23:00',
     links: [
       'https://myfootball.pw/11520088-barselona-real-madrid-pryamaya-translyaciya-ispaniya-superkubok-11012026-smotret-onlayn.html',
-      'https://monotv529.com/channel?id=yayinss',
+      'https://izlemac226.sbs/mac-izle/barcelona-real-madrid/',
       'https://taraftarium-maclar.org/izle/fc-barcelona-real-madrid-c-f--futbol-2026-01-11',
       'https://bahisnowtv615.com/Watch/M893588',
       'https://match.az/match-futbol-2-canli-izle.html',

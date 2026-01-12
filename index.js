@@ -6,7 +6,7 @@ let oyunlar = [
     saat: '21:30',
     links: [
       'https://xyzshoot4k-com.goal01.space/?m=27522&lang=en',
-      'https://myfootball.pw/11519381-bavariya-volfsburg-pryamaya-translyaciya-germaniya-bundesliga-11012026-smotret-onlayn.html'
+      'https://taraftarium-maclar.org/izle/al-hilal-riyadh-al-nassr-futboi'
     ]
   },
   {

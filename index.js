@@ -1,23 +1,23 @@
 const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
-  /*{
-    oyun: 'Bayern - Wolfsburg',
-    saat: '20:30',
+  {
+    oyun: 'Al Hilal - Al Nassr',
+    saat: '21:30',
     links: [
-      'https://ovogoaal.com/match-updates/bayern-munchen-vs-wolfsburg/',
+      'https://xyzshoot4k-com.goal01.space/?m=27522&lang=en',
       'https://myfootball.pw/11519381-bavariya-volfsburg-pryamaya-translyaciya-germaniya-bundesliga-11012026-smotret-onlayn.html'
     ]
   },
   {
-    oyun: 'Man United - Brighton',
-    saat: '20:30',
+    oyun: ' Liverpool - Barnsley ',
+    saat: '23:45',
     links: [
-      'https://rotabettv379.com/mac/manchester-utd-brighton-tabii-spor/',
-      'https://myfootball.pw/11519380-manchester-yun-brayton-pryamaya-translyaciya-angliya-kubok-fa-11012026-smotret-onlayn.html'
+      'https://golvar653.sbs/mac/liverpool-barnsley-tabii-spor/',
+      'https://myfootball.pw/11519810-liverpul-barnsli-pryamaya-translyaciya-angliya-kubok-fa-12012026-smotret-onlayn.html'
     ]
-  },*/
-  {
+  },
+  /*{
     oyun: 'Barcelona - Real Madrid',
     saat: '23:00',
     links: [
@@ -43,7 +43,7 @@ let oyunlar = [
       'https://myfootball.pw/11519389-inter-napoli-pryamaya-translyaciya-italiya-seriya-a-11012026-smotret-onlayn.html'
     ]
   }
-];
+];*/
 
 oyunlar.forEach(e => {
   const content = document.createElement('div');

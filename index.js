@@ -42,8 +42,8 @@ let oyunlar = [
       'https://rotabettv379.com/mac/inter-napoli-tivibu-spor-1/',
       'https://myfootball.pw/11519389-inter-napoli-pryamaya-translyaciya-italiya-seriya-a-11012026-smotret-onlayn.html'
     ]
-  }
-];*/
+  }*/
+];
 
 oyunlar.forEach(e => {
   const content = document.createElement('div');

@@ -2,19 +2,19 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: 'Al Hilal - Al Nassr',
+    oyun: 'Fetihespor - Galatasaray',
     saat: '21:30',
     links: [
-      'https://xyzshoot4k-com.goal01.space/?m=27522&lang=en',
-      'https://taraftarium-maclar.org/izle/al-hilal-riyadh-al-nassr-futboi'
+      'https://rotabettv379.com/mac/fethiyespor-galatasaray-a-spor/',
+      'https://myfootball.pw/11519817-fethiespor-galatasaray-pryamaya-translyaciya-turciya-kubok-13012026-smotret-onlayn.html'
     ]
   },
   {
-    oyun: ' Liverpool - Barnsley ',
-    saat: '23:45',
+    oyun: ' Newcastle - Man City ',
+    saat: '00:00',
     links: [
-      'https://golvar653.sbs/mac/liverpool-barnsley-tabii-spor/',
-      'https://myfootball.pw/11519810-liverpul-barnsli-pryamaya-translyaciya-angliya-kubok-fa-12012026-smotret-onlayn.html'
+      'https://ovogoaal.com/match-updates/newcastle-vs-manchester-city/',
+      'https://myfootball.pw/11519822-nyukasl-yunayted-manchester-siti-pryamaya-translyaciya-angliya-kubok-ligi-13012026-smotret-onlayn.html'
     ]
   },
   /*{

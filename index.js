@@ -2,47 +2,69 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: 'Fetihespor - Galatasaray',
-    saat: '21:30',
+    oyun: ' Seneqal - Misir ',
+    saat: '21:00',
     links: [
       'https://rotabettv379.com/mac/fethiyespor-galatasaray-a-spor/',
       'https://myfootball.pw/11519817-fethiespor-galatasaray-pryamaya-translyaciya-turciya-kubok-13012026-smotret-onlayn.html'
     ]
   },
   {
-    oyun: ' Newcastle - Man City ',
-    saat: '00:00',
-    links: [
-      'https://ovogoaal.com/match-updates/newcastle-vs-manchester-city/',
-      'https://myfootball.pw/11519822-nyukasl-yunayted-manchester-siti-pryamaya-translyaciya-angliya-kubok-ligi-13012026-smotret-onlayn.html'
-    ]
-  },
-  /*{
-    oyun: 'Barcelona - Real Madrid',
-    saat: '23:00',
+    oyun: ' B. Yeni Çarşı - Fenerbahçe ',
+    saat: '21:30',
     links: [
       'https://selcuksports161.top/',
-      'https://freestreams-live1.pk/bt-sport-4-uk/',
-      'https://tvjustin.net/',
-      'https://justintv77.top/',
-      'https://match.az/match-futbol-2-canli-izle.html',
-      'https://gobtv3.com/channel?id=yayinex3',
-      'https://match.az/match-tv-canli-izle.html',
-      'https://shoot4k.com/yallashoottv-live/barcelona-vs-real-madrid-spain---super-cup/27482',
-      'https://sng.sportplus.live/football/supercup-spain/7461527/',
-      'https://izlemac226.sbs/mac-izle/barcelona-real-madrid/',
-      'https://taraftarium.is/event.html?id=androstreamlivessplus1',
-      'https://izlemac226.sbs/wp-content/themes/ikisifirbirdokuz/match-center.php?id=18107959'
+      'https://freestreams-live1.pk/bt-sport-4-uk/'
     ]
   },
   {
-    oyun: 'Inter - Napoli',
+    oyun: 'Napoli - Parma',
+    saat: '21:30',
+    links: [
+      'https://rotabettv379.com/mac/inter-napoli-tivibu-spor-1/',
+      'https://myfootball.pw/11519389-inter-napoli-pryamaya-translyaciya-italiya-seriya-a-11012026-smotret-onlayn.html'
+    ]
+  },
+  {
+    oyun: ' Köln - Bayern ',
+    saat: '23:30',
+    links: [
+      'https://rotabettv379.com/mac/inter-napoli-tivibu-spor-1/',
+      'https://myfootball.pw/11519389-inter-napoli-pryamaya-translyaciya-italiya-seriya-a-11012026-smotret-onlayn.html'
+    ]
+  },
+  {
+    oyun: ' Inter - Lecce ',
     saat: '23:45',
     links: [
       'https://rotabettv379.com/mac/inter-napoli-tivibu-spor-1/',
       'https://myfootball.pw/11519389-inter-napoli-pryamaya-translyaciya-italiya-seriya-a-11012026-smotret-onlayn.html'
     ]
-  }*/
+  },
+  {
+    oyun: ' Nigeriya - Mərakeş ',
+    saat: '00:00',
+    links: [
+      'https://rotabettv379.com/mac/inter-napoli-tivibu-spor-1/',
+      'https://myfootball.pw/11519389-inter-napoli-pryamaya-translyaciya-italiya-seriya-a-11012026-smotret-onlayn.html'
+    ]
+  },
+  {
+    oyun: ' Albacete - Real Madrid ',
+    saat: '00:00',
+    links: [
+      'https://rotabettv379.com/mac/inter-napoli-tivibu-spor-1/',
+      'https://myfootball.pw/11519389-inter-napoli-pryamaya-translyaciya-italiya-seriya-a-11012026-smotret-onlayn.html'
+    ]
+  },
+    {
+    oyun: ' Chelsea - Arsenal ',
+    saat: '00:00',
+    links: [
+      'https://ovogoaal.com/match-updates/newcastle-vs-manchester-city/',
+      'https://myfootball.pw/11519822-nyukasl-yunayted-manchester-siti-pryamaya-translyaciya-angliya-kubok-ligi-13012026-smotret-onlayn.html'
+    ]
+  }
 ];
 
 oyunlar.forEach(e => {

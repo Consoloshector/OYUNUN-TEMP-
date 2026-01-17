@@ -2,71 +2,76 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Seneqal - Misir ',
+    oyun: ' Man United - Man City ',
+    saat: '16:30',
+    links: [
+      'http://idmantv.az/az',
+      'https://myfootball.pw/11521263-manchester-yun-manchester-siti-pryamaya-translyaciya-angliya-premer-liga-17012026-smotret-onlayn.html'
+    ]
+  },
+  {
+    oyun: ' Real Madrid - Levante ',
+    saat: '17:00',
+    links: [
+      'https://rotabettv379.com/mac/real-madrid-levante-s-sport/',
+      'https://myfootball.pw/11521267-real-madrid-levante-pryamaya-translyaciya-ispaniya-primera-divizion-17012026-smotret-onlayn.html'
+    ]
+  },
+  {
+    oyun: ' Chelsea - Brentford ',
+    saat: '19:00',
+    links: [
+      'http://idmantv.az/az',
+      'https://myfootball.pw/11521280-chelsi-brentford-pryamaya-translyaciya-angliya-premer-liga-17012026-smotret-onlayn.html'
+    ]
+  },
+  {
+    oyun: ' Tottenham - West Ham ',
+    saat: '19:00',
+    links: [
+      'https://rotabettv379.com/mac/tottenham-west-ham-bein-sports-max-1/',
+      'https://ovogoaal.com/match-updates/tottenham-hotspur-vs-west-ham-united/',
+      'https://myfootball.pw/11521276-tottenhem-vest-hem-yunayted-pryamaya-translyaciya-angliya-premer-liga-17012026-smotret-onlayn.html'
+    ]
+  },
+  {
+    oyun: ' Liverpool - Burnley ',
+    saat: '19:00',
+    links: [
+      'https://rotabettv379.com/mac/liverpool-burnley-bein-sports-3/',
+      'https://myfootball.pw/11521278-liverpul-bernli-pryamaya-translyaciya-angliya-premer-liga-17012026-smotret-onlayn.html'
+    ]
+  },
+  {
+    oyun: ' Misir - Nigeriya ',
+    saat: '20:00',
+    links: [
+      'https://myfootball.pw/11521297-egipet-nigeriya-pryamaya-translyaciya-kubok-afrikanskih-naciy-17012026-smotret-onlayn.html',
+      'https://myfootball.pw/11521297-egipet-nigeriya-pryamaya-translyaciya-kubok-afrikanskih-naciy-17012026-smotret-onlayn.html'
+    ]
+  },
+  {
+    oyun: ' Galatasaray - Gaziantep ',
     saat: '21:00',
     links: [
-      'https://xyzyallashoo-com.goal02.space/?m=27549&lang=en',
-      'https://myfootball.pw/11520481-senegal-egipet-pryamaya-translyaciya-kubok-afrikanskih-naciy-14012026-smotret-onlayn.html'
-    ]
-  },
-  {
-    oyun: ' B. Yeni Çarşı - Fenerbahçe ',
-    saat: '21:30',
-    links: [
-      'https://golvar653.sbs/mac/beyoglu-yeni-carsi-fenerbahce-a-spor/',
-      'https://myfootball.pw/11520484-beyoglu-fenerbahche-pryamaya-translyaciya-turciya-kubok-14012026-smotret-onlayn.html'
-    ]
-  },
-  {
-    oyun: 'Napoli - Parma',
-    saat: '21:30',
-    links: [
-      'https://rotabettv379.com/mac/napoli-parma-tivibu-spor-1/',
-      'https://myfootball.pw/11520482-napoli-parma-pryamaya-translyaciya-italiya-seriya-a-14012026-smotret-onlayn.html'
-    ]
-  },
-  {
-    oyun: ' Köln - Bayern ',
-    saat: '23:30',
-    links: [
-      'https://rotabettv379.com/mac/koln-bayern-munih-tivibu-spor-2/',
-      'https://myfootball.pw/11520491-keln-bavariya-pryamaya-translyaciya-germaniya-bundesliga-14012026-smotret-onlayn.html'
-    ]
-  },
-  {
-    oyun: ' Inter - Lecce ',
-    saat: '23:45',
-    links: [
-      'https://rotabettv379.com/mac/inter-lecce-tivibu-spor-1/',
-      'https://myfootball.pw/11520493-inter-lechche-pryamaya-translyaciya-italiya-seriya-a-14012026-smotret-onlayn.html'
-    ]
-  },
-  {
-    oyun: ' Nigeriya - Mərakeş ',
-    saat: '00:00',
-    links: [
-      'https://yallashoo.com/soccer-insider-live/nigeria-vs-morocco-africa-cup-of-nations/27550',
-      'https://myfootball.pw/11520501-nigeriya-marokko-pryamaya-translyaciya-kubok-afrikanskih-naciy-14012026-smotret-onlayn.html'
-    ]
-  },
-  {
-    oyun: ' Albacete - Real Madrid ',
-    saat: '00:00',
-    links: [
-      'https://ovogoaal.com/match-updates/albacete-vs-real-madrid/',
-      'https://myfootball.pw/11520498-albasete-real-madrid-pryamaya-translyaciya-ispaniya-kubok-korolya-14012026-smotret-onlayn.html',
-      'https://ovogoaal.com/match-updates/albacete-vs-real-madrid/',
-      'https://yallashoo.com/soccer-insider-live/albacete-vs-real-madrid-spain---copa-del-rey/27562'
+      'https://rotabettv379.com/mac/galatasaray-gaziantep-fk-bein-sports-1/',
+      'https://myfootball.pw/11521299-galatasaray-gaziantep-pryamaya-translyaciya-turciya-superliga-17012026-smotret-onlayn.html',
     ]
   },
     {
-    oyun: ' Chelsea - Arsenal ',
-    saat: '00:00',
+    oyun: ' Nottingham - Arsenal ',
+    saat: '21:30',
     links: [
-      'https://ovogoaal.com/match-updates/chelsea-vs-arsenal/',
-      'https://myfootball.pw/11520496-chelsi-arsenal-pryamaya-translyaciya-angliya-kubok-ligi-14012026-smotret-onlayn.html',
-      'https://yallashoo.com/soccer-insider-live/chelsea-vs-arsenal-england-:-efl-cup/27551',
-      'https://gobtv3.com/channel?id=yayinex1'
+      'https://ovogoaal.com/match-updates/nottingham-forest-vs-arsenal/',
+      'https://myfootball.pw/11521303-nottingem-forest-arsenal-pryamaya-translyaciya-angliya-premer-liga-17012026-smotret-onlayn.html',
+    ]
+  },
+  {
+    oyun: ' Leipzig - Bayern ',
+    saat: '21:30',
+    links: [
+      'https://rotabettv379.com/mac/leipzig-bayern-munih-tivibu-spor-2/',
+      'https://myfootball.pw/11521305-rb-leypcig-bavariya-pryamaya-translyaciya-germaniya-bundesliga-17012026-smotret-onlayn.html',
     ]
   }
 ];

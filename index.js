@@ -14,7 +14,9 @@ let oyunlar = [
     saat: '17:00',
     links: [
       'https://rotabettv379.com/mac/real-madrid-levante-s-sport/',
-      'https://myfootball.pw/11521267-real-madrid-levante-pryamaya-translyaciya-ispaniya-primera-divizion-17012026-smotret-onlayn.html'
+      'https://ovogoaal.com/match-updates/real-madrid-vs-levante/',
+      'https://myfootball.pw/11521267-real-madrid-levante-pryamaya-translyaciya-ispaniya-primera-divizion-17012026-smotret-onlayn.html',
+      'https://xyzshoots-info.goal02.space/?m=27637&lang=en',
     ]
   },
   {

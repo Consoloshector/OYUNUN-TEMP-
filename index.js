@@ -2,32 +2,30 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Man United - Man City ',
-    saat: '16:30',
+    oyun: ' Alanyaspor - Fenerbahçe ',
+    saat: '21:00',
+    links: [
+      'https://gobtv3.com/',
+      'https://myfootball.pw/11521349-alanyaspor-fenerbahche-pryamaya-translyaciya-turciya-superliga-18012026-smotret-onlayn.html'
+    ]
+  },
+  {
+    oyun: ' Seneqal - Mərakeş ',
+    saat: '23:00',
+    links: [
+      'https://shoots.info/soccer-insider-live/senegal-vs-morocco-africa-cup-of-nations/27659',
+      'https://myfootball.pw/11521355-senegal-marokko-pryamaya-translyaciya-kubok-afrikanskih-naciy-18012026-smotret-onlayn.html',
+    ]
+  },
+  {
+    oyun: ' Real Sociedad - Barcelona ',
+    saat: '00:00',
     links: [
       'http://idmantv.az/az',
-      'https://myfootball.pw/11521263-manchester-yun-manchester-siti-pryamaya-translyaciya-angliya-premer-liga-17012026-smotret-onlayn.html'
+      'https://myfootball.pw/11521358-real-sosedad-barselona-pryamaya-translyaciya-ispaniya-primera-divizion-18012026-smotret-onlayn.html'
     ]
   },
-  {
-    oyun: ' Real Madrid - Levante ',
-    saat: '17:00',
-    links: [
-      'https://rotabettv379.com/mac/real-madrid-levante-s-sport/',
-      'https://ovogoaal.com/match-updates/real-madrid-vs-levante/',
-      'https://myfootball.pw/11521267-real-madrid-levante-pryamaya-translyaciya-ispaniya-primera-divizion-17012026-smotret-onlayn.html',
-      'https://xyzshoots-info.goal02.space/?m=27637&lang=en',
-    ]
-  },
-  {
-    oyun: ' Chelsea - Brentford ',
-    saat: '19:00',
-    links: [
-      'http://idmantv.az/az',
-      'https://myfootball.pw/11521280-chelsi-brentford-pryamaya-translyaciya-angliya-premer-liga-17012026-smotret-onlayn.html'
-    ]
-  },
-  {
+  /*{
     oyun: ' Tottenham - West Ham ',
     saat: '19:00',
     links: [
@@ -75,7 +73,7 @@ let oyunlar = [
       'https://rotabettv379.com/mac/leipzig-bayern-munih-tivibu-spor-2/',
       'https://myfootball.pw/11521305-rb-leypcig-bavariya-pryamaya-translyaciya-germaniya-bundesliga-17012026-smotret-onlayn.html',
     ]
-  }
+  }*/
 ];
 
 oyunlar.forEach(e => {

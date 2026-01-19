@@ -2,14 +2,14 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Alanyaspor - Fenerbahçe ',
+    oyun: ' Beşiktaş - Kayserispor ',
     saat: '21:00',
     links: [
-      'https://gobtv3.com/',
-      'https://myfootball.pw/11521349-alanyaspor-fenerbahche-pryamaya-translyaciya-turciya-superliga-18012026-smotret-onlayn.html'
+      'https://rotabettv379.com/mac/besiktas-kayserispor-bein-sports-1/',
+      'https://myfootball.pw/11521362-beshiktash-kayserispor-pryamaya-translyaciya-turciya-superliga-19012026-smotret-onlayn.html'
     ]
   },
-  {
+  /*{
     oyun: ' Seneqal - Mərakeş ',
     saat: '23:00',
     links: [
@@ -24,7 +24,7 @@ let oyunlar = [
       'http://idmantv.az/az',
       'https://myfootball.pw/11521358-real-sosedad-barselona-pryamaya-translyaciya-ispaniya-primera-divizion-18012026-smotret-onlayn.html'
     ]
-  },
+  },*/
   /*{
     oyun: ' Tottenham - West Ham ',
     saat: '19:00',

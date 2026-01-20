@@ -2,39 +2,43 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Beşiktaş - Kayserispor ',
-    saat: '21:00',
-    links: [
-      'https://rotabettv379.com/mac/besiktas-kayserispor-bein-sports-1/',
-      'https://myfootball.pw/11521362-beshiktash-kayserispor-pryamaya-translyaciya-turciya-superliga-19012026-smotret-onlayn.html'
-    ]
-  },
-  /*{
-    oyun: ' Seneqal - Mərakeş ',
-    saat: '23:00',
-    links: [
-      'https://shoots.info/soccer-insider-live/senegal-vs-morocco-africa-cup-of-nations/27659',
-      'https://myfootball.pw/11521355-senegal-marokko-pryamaya-translyaciya-kubok-afrikanskih-naciy-18012026-smotret-onlayn.html',
-    ]
-  },
-  {
-    oyun: ' Real Sociedad - Barcelona ',
+    oyun: ' Inter - Arsenal ',
     saat: '00:00',
     links: [
-      'http://idmantv.az/az',
-      'https://myfootball.pw/11521358-real-sosedad-barselona-pryamaya-translyaciya-ispaniya-primera-divizion-18012026-smotret-onlayn.html'
-    ]
-  },*/
-  /*{
-    oyun: ' Tottenham - West Ham ',
-    saat: '19:00',
-    links: [
-      'https://rotabettv379.com/mac/tottenham-west-ham-bein-sports-max-1/',
-      'https://ovogoaal.com/match-updates/tottenham-hotspur-vs-west-ham-united/',
-      'https://myfootball.pw/11521276-tottenhem-vest-hem-yunayted-pryamaya-translyaciya-angliya-premer-liga-17012026-smotret-onlayn.html'
+      'https://www.canlitv.vin/cbcsport-canli-yayin',
+      'https://ovogoaal.com/match-updates/internazionale-vs-arsenal/',
+      'https://myfootball.pw/11522313-inter-arsenal-pryamaya-translyaciya-liga-chempionov-20012026-smotret-onlayn.html'
     ]
   },
   {
+    oyun: ' Real Madrid - Monaco ',
+    saat: '00:00',
+    links: [
+      'https://www.canlitv.me/live/ictimaitv-canli-hd',
+      'https://ovogoaal.com/match-updates/real-madrid-vs-monaco/',
+      'https://rotabettv380.com/mac/real-madrid-monaco-tabii-spor-1/',
+      'https://myfootball.pw/11522314-real-madrid-as-monako-pryamaya-translyaciya-liga-chempionov-20012026-smotret-onlayn.html'
+    ]
+  },
+  {
+    oyun: ' Tottenham - Dortmund ',
+    saat: '00:00',
+    links: [
+      'https://rotabettv380.com/mac/tottenham-b-dortmund-tabii-spor-3/',
+      'https://ovogoaal.com/match-updates/tottenham-hotspur-vs-borussia-dortmund/',
+      'https://myfootball.pw/11522312-tottenhem-borussiya-d-pryamaya-translyaciya-liga-chempionov-20012026-smotret-onlayn.html'
+    ]
+  },
+  {
+    oyun: ' Sporting - PSG ',
+    saat: '00:00',
+    links: [
+      'https://rotabettv380.com/mac/sporting-lisbon-psg-tabii-spor-2/',
+      'https://ovogoaal.com/match-updates/sporting-cp-vs-psg/',
+      'https://myfootball.pw/11522311-sporting-pszh-pryamaya-translyaciya-liga-chempionov-20012026-smotret-onlayn.html'
+    ]
+  },
+  /*{
     oyun: ' Liverpool - Burnley ',
     saat: '19:00',
     links: [

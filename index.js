@@ -2,8 +2,8 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Inter - Arsenal ',
-    saat: '00:00',
+    oyun: ' Qarabağ - Frankfurt ',
+    saat: '21:45',
     links: [
       'https://www.canlitv.vin/cbcsport-canli-yayin',
       'https://ovogoaal.com/match-updates/internazionale-vs-arsenal/',
@@ -11,8 +11,8 @@ let oyunlar = [
     ]
   },
   {
-    oyun: ' Real Madrid - Monaco ',
-    saat: '00:00',
+    oyun: ' Galatasaray - Atletico ',
+    saat: '21:45',
     links: [
       'https://www.canlitv.me/live/ictimaitv-canli-hd',
       'https://ovogoaal.com/match-updates/real-madrid-vs-monaco/',
@@ -21,7 +21,7 @@ let oyunlar = [
     ]
   },
   {
-    oyun: ' Tottenham - Dortmund ',
+    oyun: ' Marseille - Liverpool ',
     saat: '00:00',
     links: [
       'https://rotabettv380.com/mac/tottenham-b-dortmund-tabii-spor-3/',
@@ -30,7 +30,7 @@ let oyunlar = [
     ]
   },
   {
-    oyun: ' Sporting - PSG ',
+    oyun: ' Slavia - Barcelona ',
     saat: '00:00',
     links: [
       'https://rotabettv380.com/mac/sporting-lisbon-psg-tabii-spor-2/',

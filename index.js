@@ -2,14 +2,14 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Qarabağ - Frankfurt ',
+    oyun: ' Fenerbahçe - Aston Villa',
     saat: '21:45',
     links: [
       'https://www.canlitv.vin/cbcsport-canli-yayin',
-      'https://myfootball.pw/11522318-karabah-ayntraht-pryamaya-translyaciya-liga-chempionov-21012026-smotret-onlayn.html',
+      'https://myfootball.pw/11522338-fenerbahche-aston-villa-pryamaya-translyaciya-liga-evropy-22012026-smotret-onlayn.html',
     ]
   },
-  {
+ /* {
     oyun: ' Galatasaray - Atletico ',
     saat: '21:45',
     links: [
@@ -32,7 +32,7 @@ let oyunlar = [
       'https://rotabettv380.com/mac/slavia-prag-barcelona-tabii-spor-2/',
       'https://myfootball.pw/11522325-slaviya-praga-barselona-pryamaya-translyaciya-liga-chempionov-21012026-smotret-onlayn.html'
     ]
-  },
+  },*/
   /*{
     oyun: ' Liverpool - Burnley ',
     saat: '19:00',

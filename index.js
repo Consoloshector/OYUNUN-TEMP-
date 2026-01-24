@@ -2,22 +2,23 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Fenerbahçe - Aston Villa',
-    saat: '21:45',
+    oyun: ' Man City - Wolwes ',
+    saat: '19:00',
     links: [
-      'https://www.canlitv.vin/cbcsport-canli-yayin',
-      'https://myfootball.pw/11522338-fenerbahche-aston-villa-pryamaya-translyaciya-liga-evropy-22012026-smotret-onlayn.html',
-    ]
-  },
- /* {
-    oyun: ' Galatasaray - Atletico ',
-    saat: '21:45',
-    links: [
-      'https://www.canlitv.me/live/ictimaitv-canli-hd',
-      'https://myfootball.pw/11522317-galatasaray-atletiko-madrid-pryamaya-translyaciya-liga-chempionov-21012026-smotret-onlayn.html',
+      'https://rotabettv381.com/mac/manchester-city-wolverhampton-bein-sports-3/',
+      'https://myfootball.pw/11522870-manchester-siti-vulverhempton-pryamaya-translyaciya-angliya-premer-liga-24012026-smotret-onlayn.html',
     ]
   },
   {
+    oyun: ' Burnley - Tottenham ',
+    saat: '19:00',
+    links: [
+      'https://rotabettv381.com/mac/burnley-tottenham-bein-sports-4/',
+      'https://ovogoal.plus/match-updates/burnley-vs-tottenham-hotspur/',
+      'https://myfootball.pw/11522872-bernli-tottenhem-pryamaya-translyaciya-angliya-premer-liga-24012026-smotret-onlayn.html',
+    ]
+  },
+  /*{
     oyun: ' Marseille - Liverpool ',
     saat: '00:00',
     links: [

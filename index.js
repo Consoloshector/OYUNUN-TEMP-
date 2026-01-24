@@ -18,31 +18,31 @@ let oyunlar = [
       'https://myfootball.pw/11522872-bernli-tottenhem-pryamaya-translyaciya-angliya-premer-liga-24012026-smotret-onlayn.html',
     ]
   },
-  /*{
-    oyun: ' Marseille - Liverpool ',
-    saat: '00:00',
+  {
+    oyun: ' Karagümrük - Galatasaray ',
+    saat: '21:00',
     links: [
-      'https://www.canlitv.me/live/ictimaitv-canli-hd',
-      'https://myfootball.pw/11522325-slaviya-praga-barselona-pryamaya-translyaciya-liga-chempionov-21012026-smotret-onlayn.html'
+      'https://rotabettv381.com/mac/fatih-karagumruk-galatasaray-bein-sports-1/',
+      'https://myfootball.pw/11522891-fatih-karagyumryuk-galatasaray-pryamaya-translyaciya-turciya-superliga-24012026-smotret-onlayn.html'
     ]
   },
   {
-    oyun: ' Slavia - Barcelona ',
-    saat: '00:00',
+    oyun: ' Bournemouth - Liverpool ',
+    saat: '21:30',
     links: [
-      'https://rotabettv380.com/mac/slavia-prag-barcelona-tabii-spor-2/',
-      'https://myfootball.pw/11522325-slaviya-praga-barselona-pryamaya-translyaciya-liga-chempionov-21012026-smotret-onlayn.html'
-    ]
-  },*/
-  /*{
-    oyun: ' Liverpool - Burnley ',
-    saat: '19:00',
-    links: [
-      'https://rotabettv379.com/mac/liverpool-burnley-bein-sports-3/',
-      'https://myfootball.pw/11521278-liverpul-bernli-pryamaya-translyaciya-angliya-premer-liga-17012026-smotret-onlayn.html'
+      'http://idmantv.az/az',
+      'https://myfootball.pw/11522895-bornmut-liverpul-pryamaya-translyaciya-angliya-premer-liga-24012026-smotret-onlayn.html'
     ]
   },
   {
+    oyun: ' Villareal - Real Madrid ',
+    saat: '23:55',
+    links: [
+      'http://idmantv.az/az',
+      'https://myfootball.pw/11522907-vilyarreal-real-madrid-pryamaya-translyaciya-ispaniya-primera-divizion-24012026-smotret-onlayn.html'
+    ]
+  },
+  /*{
     oyun: ' Misir - Nigeriya ',
     saat: '20:00',
     links: [

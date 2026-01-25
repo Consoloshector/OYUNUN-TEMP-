@@ -2,55 +2,54 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Man City - Wolwes ',
-    saat: '19:00',
+    oyun: ' Crystal Palace - Chelsea ',
+    saat: '18:00',
     links: [
-      'https://rotabettv381.com/mac/manchester-city-wolverhampton-bein-sports-3/',
-      'https://myfootball.pw/11522870-manchester-siti-vulverhempton-pryamaya-translyaciya-angliya-premer-liga-24012026-smotret-onlayn.html',
+      'https://golvar683.sbs/mac/crystal-palace-chelsea-bein-sports-3/',
+      'https://myfootball.pw/11522920-kristal-pelas-chelsi-pryamaya-translyaciya-angliya-premer-liga-25012026-smotret-onlayn.html',
     ]
   },
   {
-    oyun: ' Burnley - Tottenham ',
-    saat: '19:00',
+    oyun: ' Barcelona - Oviedo ',
+    saat: '19:15',
     links: [
-      'https://rotabettv381.com/mac/burnley-tottenham-bein-sports-4/',
-      'https://ovogoal.plus/match-updates/burnley-vs-tottenham-hotspur/',
-      'https://myfootball.pw/11522872-bernli-tottenhem-pryamaya-translyaciya-angliya-premer-liga-24012026-smotret-onlayn.html',
+      'https://golvar683.sbs/mac/barcelona-real-oviedo-s-sport/',
+      'https://myfootball.pw/11522931-barselona-real-ovedo-pryamaya-translyaciya-ispaniya-primera-divizion-25012026-smotret-onlayn.html',
     ]
   },
   {
-    oyun: ' Karagümrük - Galatasaray ',
+    oyun: ' Arsenal - Man United',
+    saat: '20:30',
+    links: [
+      'http://idmantv.az/az',
+      'https://myfootball.pw/11522940-arsenal-manchester-yun-pryamaya-translyaciya-angliya-premer-liga-25012026-smotret-onlayn.html'
+    ]
+  },
+  {
+    oyun: ' Fenerbahçe - Göztepe ',
     saat: '21:00',
     links: [
-      'https://rotabettv381.com/mac/fatih-karagumruk-galatasaray-bein-sports-1/',
-      'https://myfootball.pw/11522891-fatih-karagyumryuk-galatasaray-pryamaya-translyaciya-turciya-superliga-24012026-smotret-onlayn.html'
+      'https://golvar683.sbs/mac/fenerbahce-goztepe-bein-sports-1/',
+      'https://myfootball.pw/11522943-fenerbahche-geztepe-pryamaya-translyaciya-turciya-superliga-25012026-smotret-onlayn.html'
     ]
   },
   {
-    oyun: ' Bournemouth - Liverpool ',
-    saat: '21:30',
+    oyun: ' Juventus - Napoli ',
+    saat: '21:00',
     links: [
-      'http://idmantv.az/az',
-      'https://myfootball.pw/11522895-bornmut-liverpul-pryamaya-translyaciya-angliya-premer-liga-24012026-smotret-onlayn.html'
+      'https://golvar683.sbs/mac/juventus-napoli-tivibu-spor-1/',
+      'https://myfootball.pw/11522942-yuventus-napoli-pryamaya-translyaciya-italiya-seriya-a-25012026-smotret-onlayn.html'
     ]
   },
   {
-    oyun: ' Villareal - Real Madrid ',
-    saat: '23:55',
+    oyun: ' Roma - Milan ',
+    saat: '23:45',
     links: [
-      'http://idmantv.az/az',
-      'https://myfootball.pw/11522907-vilyarreal-real-madrid-pryamaya-translyaciya-ispaniya-primera-divizion-24012026-smotret-onlayn.html'
+      'https://golvar683.sbs/mac/roma-milan-s-sport-2/',
+      'https://myfootball.pw/11522950-roma-milan-pryamaya-translyaciya-italiya-seriya-a-25012026-smotret-onlayn.html'
     ]
   },
   /*{
-    oyun: ' Misir - Nigeriya ',
-    saat: '20:00',
-    links: [
-      'https://myfootball.pw/11521297-egipet-nigeriya-pryamaya-translyaciya-kubok-afrikanskih-naciy-17012026-smotret-onlayn.html',
-      'https://myfootball.pw/11521297-egipet-nigeriya-pryamaya-translyaciya-kubok-afrikanskih-naciy-17012026-smotret-onlayn.html'
-    ]
-  },
-  {
     oyun: ' Galatasaray - Gaziantep ',
     saat: '21:00',
     links: [

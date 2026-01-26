@@ -2,22 +2,22 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Crystal Palace - Chelsea ',
-    saat: '18:00',
+    oyun: ' Eyüpspor - Beşiktaş ',
+    saat: '21:00',
     links: [
-      'https://golvar683.sbs/mac/crystal-palace-chelsea-bein-sports-3/',
-      'https://myfootball.pw/11522920-kristal-pelas-chelsi-pryamaya-translyaciya-angliya-premer-liga-25012026-smotret-onlayn.html',
+      'https://rotabettv381.com/mac/eyupspor-besiktas-bein-sports-1/',
+      'https://myfootball.pw/11522958-eyupspor-beshiktash-pryamaya-translyaciya-turciya-superliga-26012026-smotret-onlayn.html',
     ]
   },
   {
-    oyun: ' Barcelona - Oviedo ',
-    saat: '19:15',
+    oyun: ' Al Nassr - Al Taawoun',
+    saat: '21:30',
     links: [
-      'https://golvar683.sbs/mac/barcelona-real-oviedo-s-sport/',
-      'https://myfootball.pw/11522931-barselona-real-ovedo-pryamaya-translyaciya-ispaniya-primera-divizion-25012026-smotret-onlayn.html',
+      'https://shoot4k.com/yallashoottv-live/al-nassr-vs-al-taawoun-saudi-professional-league/27902',
+      'https://www.yalla-shoot-ml.com/matches/al-nassr-fc-vs-al-taawoun/',
     ]
   },
-  {
+ /* {
     oyun: ' Arsenal - Man United',
     saat: '20:30',
     links: [
@@ -48,7 +48,7 @@ let oyunlar = [
       'https://golvar683.sbs/mac/roma-milan-s-sport-2/',
       'https://myfootball.pw/11522950-roma-milan-pryamaya-translyaciya-italiya-seriya-a-25012026-smotret-onlayn.html'
     ]
-  },
+  },*/
   /*{
     oyun: ' Galatasaray - Gaziantep ',
     saat: '21:00',

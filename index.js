@@ -2,23 +2,22 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Liverpool - Qarabağ ',
-    saat: '00:00',
+    oyun: ' UCL püşkatma ',
+    saat: '15:00',
     links: [
-      'https://live.itv.az/',
-      'https://www.canlitv.vin/ictimai-tv-canli',
+      'https://www.youtube.com/live/IRVs2nSvH24?si=ldAcAC7SPPBwl8pu',
+      'https://myfootball.pw/11524926-zherebevka-ligi-chempionov-pryamaya-translyaciya-futbol-liga-chempionov.html',
     ]
   },
   {
-    oyun: ' Frankfurt - Tottenham ',
-    saat: '00:00',
+    oyun: ' UEL püşkatma ',
+    saat: '16:00',
     links: [
-      'https://bahisnowtv615.com/Watch/M908052',
-      'https://www.footybite.to/Eintracht-Frankfurt-vs-Tottenham-Hotspur/57347',
-      'https://myfootball.pw/11523964-ayntraht-tottenhem-pryamaya-translyaciya-liga-chempionov-28012026-smotret-onlayn.html',
+      'https://www.youtube.com/live/cN4nyWYXsOI?si=7EoRqI5OW5p5fbMm',
+      'https://myfootball.pw/11524922-zherebevka-ligi-evropy-pryamaya-translyaciya.html',
     ]
   },
-   {
+   /*{
     oyun: ' Man City - Galatasaray ',
     saat: '00:00',
     links: [
@@ -75,7 +74,7 @@ let oyunlar = [
       'https://ovogoal.plus/match-updates/barcelona-vs-kobenhavn/',
       'https://myfootball.pw/11523953-barselona-kopengagen-pryamaya-translyaciya-liga-chempionov-28012026-smotret-onlayn.html',
     ]
-  }
+  }*/
 ];
 
 oyunlar.forEach(e => {

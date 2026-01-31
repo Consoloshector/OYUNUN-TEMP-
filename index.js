@@ -1,7 +1,7 @@
 const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
-  {
+ /* {
     oyun: ' Leeds - Arsenal ',
     saat: '19:00',
     links: [
@@ -32,21 +32,22 @@ let oyunlar = [
       'https://ovogoal.plus/match-updates/hamburger-sv-vs-bayern-munchen/',
       'https://myfootball.pw/11524746-gamburg-bavariya-pryamaya-translyaciya-germaniya-bundesliga-31012026-smotret-onlayn.html',
     ]
-  },
+  },*/
   {
     oyun: ' Liverpool - Newcastle ',
     saat: '00:00',
     links: [
-      'https://ovogoal.plus/match-updates/arsenal-vs-kairat/',
-      'https://myfootball.pw/11523967-arsenal-kayrat-pryamaya-translyaciya-liga-chempionov-28012026-smotret-onlayn.html'
+      'idmantv.az/az',
+      'https://myfootball.pw/11524755-liverpul-nyukasl-yunayted-pryamaya-translyaciya-angliya-premer-liga-31012026-smotret-onlayn.html'
     ]
   },
   {
     oyun: ' Elche - Barcelona ',
     saat: '00:00',
     links: [
-      'https://macizlevip666.sbs/mac-izle/b-dortmund-inter-tabii-spor-2/',
-      'https://rotabettv381.com/mac/b-dortmund-inter-tabii-spor-2/'
+      'https://aztv.az/az/live',
+      'https://ovogoal.plus/match-updates/elche-vs-barcelona/',
+      'https://myfootball.pw/11524756-elche-barselona-pryamaya-translyaciya-ispaniya-primera-divizion-31012026-smotret-onlayn.html'
     ]
   },
   /*{

@@ -2,32 +2,32 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' UCL püşkatma ',
-    saat: '15:00',
+    oyun: ' Leeds - Arsenal ',
+    saat: '19:00',
     links: [
       'https://www.youtube.com/live/IRVs2nSvH24?si=ldAcAC7SPPBwl8pu',
       'https://myfootball.pw/11524926-zherebevka-ligi-chempionov-pryamaya-translyaciya-futbol-liga-chempionov.html',
     ]
   },
   {
-    oyun: ' UEL püşkatma ',
-    saat: '16:00',
+    oyun: ' Konyaspor - Beşiktaş ',
+    saat: '21:00',
     links: [
       'https://www.youtube.com/live/cN4nyWYXsOI?si=7EoRqI5OW5p5fbMm',
       'https://myfootball.pw/11524922-zherebevka-ligi-evropy-pryamaya-translyaciya.html',
     ]
   },
-   /*{
-    oyun: ' Man City - Galatasaray ',
-    saat: '00:00',
+   {
+    oyun: ' Chelsea - West Ham ',
+    saat: '21:30',
     links: [
       'https://cbcsport.az/live/',
       'https://www.canlitv.vin/cbcsport-canli-yayin'
     ]
   },
   {
-    oyun: ' Benifica - Real Madrid ',
-    saat: '00:00',
+    oyun: ' Hamburg - Bayern ',
+    saat: '21:30',
     links: [
       'https://bahisnowtv615.com/Watch/M126528',
       'https://macizlevip666.sbs/mac-izle/benfica-real-madrid-tabii-spor/',
@@ -35,7 +35,7 @@ let oyunlar = [
     ]
   },
   {
-    oyun: ' Arsenal - Kairat ',
+    oyun: ' Liverpool - Newcastle ',
     saat: '00:00',
     links: [
       'https://ovogoal.plus/match-updates/arsenal-vs-kairat/',
@@ -43,14 +43,14 @@ let oyunlar = [
     ]
   },
   {
-    oyun: ' Dortmund - İnter ',
+    oyun: ' Elche - Barcelona ',
     saat: '00:00',
     links: [
       'https://macizlevip666.sbs/mac-izle/b-dortmund-inter-tabii-spor-2/',
       'https://rotabettv381.com/mac/b-dortmund-inter-tabii-spor-2/'
     ]
   },
-  {
+  /*{
     oyun: ' Napoli - Chelsea ',
     saat: '00:00',
     links: [

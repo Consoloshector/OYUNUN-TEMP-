@@ -5,33 +5,32 @@ let oyunlar = [
     oyun: ' Leeds - Arsenal ',
     saat: '19:00',
     links: [
-      'https://www.youtube.com/live/IRVs2nSvH24?si=ldAcAC7SPPBwl8pu',
-      'https://myfootball.pw/11524926-zherebevka-ligi-chempionov-pryamaya-translyaciya-futbol-liga-chempionov.html',
+      'https://ovogoal.plus/match-updates/leeds-united-vs-arsenal/',
+      'https://myfootball.pw/11524718-lids-yun-arsenal-pryamaya-translyaciya-angliya-premer-liga-31012026-smotret-onlayn.html',
     ]
   },
   {
     oyun: ' Konyaspor - Beşiktaş ',
     saat: '21:00',
     links: [
-      'https://www.youtube.com/live/cN4nyWYXsOI?si=7EoRqI5OW5p5fbMm',
-      'https://myfootball.pw/11524922-zherebevka-ligi-evropy-pryamaya-translyaciya.html',
+      'https://golvar633.sbs/mac/besiktas-konyaspor-bein-sports-1/',
+      'https://myfootball.pw/11524740-beshiktash-konyaspor-pryamaya-translyaciya-turciya-superliga-31012026-smotret-onlayn.html',
     ]
   },
    {
     oyun: ' Chelsea - West Ham ',
     saat: '21:30',
     links: [
-      'https://cbcsport.az/live/',
-      'https://www.canlitv.vin/cbcsport-canli-yayin'
+      'https://ovogoal.plus/match-updates/chelsea-vs-west-ham-united/',
+      'https://myfootball.pw/11524744-chelsi-vest-hem-yunayted-pryamaya-translyaciya-angliya-premer-liga-31012026-smotret-onlayn.html'
     ]
   },
   {
     oyun: ' Hamburg - Bayern ',
     saat: '21:30',
     links: [
-      'https://bahisnowtv615.com/Watch/M126528',
-      'https://macizlevip666.sbs/mac-izle/benfica-real-madrid-tabii-spor/',
-      'https://myfootball.pw/11523956-benfika-real-madrid-pryamaya-translyaciya-liga-chempionov-28012026-smotret-onlayn.html',
+      'https://ovogoal.plus/match-updates/hamburger-sv-vs-bayern-munchen/',
+      'https://myfootball.pw/11524746-gamburg-bavariya-pryamaya-translyaciya-germaniya-bundesliga-31012026-smotret-onlayn.html',
     ]
   },
   {

@@ -1,64 +1,65 @@
 const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
- /* {
-    oyun: ' Leeds - Arsenal ',
-    saat: '19:00',
+  {
+    oyun: ' Real Madrid - Vallecano ',
+    saat: '17:00',
     links: [
-      'https://ovogoal.plus/match-updates/leeds-united-vs-arsenal/',
-      'https://myfootball.pw/11524718-lids-yun-arsenal-pryamaya-translyaciya-angliya-premer-liga-31012026-smotret-onlayn.html',
+      'idmantv.az/az',
+      'https://ovogoal.plus/match-updates/real-madrid-vs-rayo-vallecano/',
+      'https://myfootball.pw/11524764-real-madrid-rayo-valekano-pryamaya-translyaciya-ispaniya-primera-divizion-01022026-smotret-onlayn.html',
     ]
   },
   {
-    oyun: ' Konyaspor - Beşiktaş ',
-    saat: '21:00',
+    oyun: ' Man United - Fulham ',
+    saat: '18:00',
     links: [
-      'https://golvar633.sbs/mac/besiktas-konyaspor-bein-sports-1/',
-      'https://myfootball.pw/11524740-beshiktash-konyaspor-pryamaya-translyaciya-turciya-superliga-31012026-smotret-onlayn.html',
+      'https://ovogoal.plus/match-updates/manchester-united-vs-fulham/',
+      'https://myfootball.pw/11524770-manchester-yun-fulhem-pryamaya-translyaciya-angliya-premer-liga-01022026-smotret-onlayn.html',
     ]
   },
    {
-    oyun: ' Chelsea - West Ham ',
-    saat: '21:30',
+    oyun: ' Tottenham - Man City ',
+    saat: '20:30',
     links: [
-      'https://ovogoal.plus/match-updates/chelsea-vs-west-ham-united/',
-      'https://myfootball.pw/11524744-chelsi-vest-hem-yunayted-pryamaya-translyaciya-angliya-premer-liga-31012026-smotret-onlayn.html'
+      'https://ovogoal.plus/match-updates/tottenham-hotspur-vs-manchester-city/',
+     'idmantv.az/az',
+      'https://myfootball.pw/11524790-tottenhem-manchester-siti-pryamaya-translyaciya-angliya-premer-liga-01022026-smotret-onlayn.html'
     ]
   },
   {
-    oyun: ' Hamburg - Bayern ',
-    saat: '21:30',
+    oyun: ' Galatasaray - Kayserispor ',
+    saat: '21:00',
     links: [
-      'https://ovogoal.plus/match-updates/hamburger-sv-vs-bayern-munchen/',
-      'https://myfootball.pw/11524746-gamburg-bavariya-pryamaya-translyaciya-germaniya-bundesliga-31012026-smotret-onlayn.html',
-    ]
-  },*/
-  {
-    oyun: ' Liverpool - Newcastle ',
-    saat: '00:00',
-    links: [
-      'idmantv.az/az',
-      'https://myfootball.pw/11524755-liverpul-nyukasl-yunayted-pryamaya-translyaciya-angliya-premer-liga-31012026-smotret-onlayn.html'
+      'https://rotabettv382.com/mac/galatasaray-kayserispor-bein-sports-1/',
+      'https://myfootball.pw/11524794-galatasaray-kayserispor-pryamaya-translyaciya-turciya-superliga-01022026-smotret-onlayn.html',
     ]
   },
   {
-    oyun: ' Elche - Barcelona ',
-    saat: '00:00',
+    oyun: ' Cremonese - Inter ',
+    saat: '21:00',
     links: [
-      'https://aztv.az/az/live',
-      'https://ovogoal.plus/match-updates/elche-vs-barcelona/',
-      'https://myfootball.pw/11524756-elche-barselona-pryamaya-translyaciya-ispaniya-primera-divizion-31012026-smotret-onlayn.html'
+      'https://ovogoal.plus/match-updates/cremonese-vs-internazionale/',
+      'https://myfootball.pw/11524793-kremoneze-inter-pryamaya-translyaciya-italiya-seriya-a-01022026-smotret-onlayn.html'
     ]
   },
-  /*{
-    oyun: ' Napoli - Chelsea ',
-    saat: '00:00',
+  {
+    oyun: ' Strasbourg - PSG ',
+    saat: '23:45',
     links: [
-      'https://ovogoal.plus/match-updates/napoli-vs-chelsea/',
-      'https://myfootball.pw/11523957-napoli-chelsi-pryamaya-translyaciya-liga-chempionov-28012026-smotret-onlayn.html',
+      'https://ovogoal.plus/match-updates/strasbourg-vs-psg/',
+      'https://myfootball.pw/11524802-strasbur-pszh-pryamaya-translyaciya-franciya-liga-1-01022026-smotret-onlayn.html',
     ]
   },
-    {
+  {
+    oyun: ' Parma - Juventus ',
+    saat: '23:45',
+    links: [
+      'https://ovogoal.plus/match-updates/parma-vs-juventus/',
+      'https://myfootball.pw/11524801-parma-yuventus-pryamaya-translyaciya-italiya-seriya-a-01022026-smotret-onlayn.html',
+    ]
+  },
+   /* {
     oyun: ' PSG - Newcastle ',
     saat: '00:00',
     links: [

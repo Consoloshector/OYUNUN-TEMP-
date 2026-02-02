@@ -2,15 +2,14 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Real Madrid - Vallecano ',
-    saat: '17:00',
+    oyun: ' Kocaelispor - Fenerbahçe ',
+    saat: '21:00',
     links: [
-      'idmantv.az/az',
-      'https://ovogoal.plus/match-updates/real-madrid-vs-rayo-vallecano/',
-      'https://myfootball.pw/11524764-real-madrid-rayo-valekano-pryamaya-translyaciya-ispaniya-primera-divizion-01022026-smotret-onlayn.html',
+      'https://rotabettv382.com/mac/kocaelispor-fenerbahce-bein-sports-1/',
+      'https://myfootball.pw/11524806-kodzhaelispor-fenerbahche-pryamaya-translyaciya-turciya-superliga-02022026-smotret-onlayn.html',
     ]
   },
-  {
+  /*{
     oyun: ' Man United - Fulham ',
     saat: '18:00',
     links: [
@@ -58,7 +57,7 @@ let oyunlar = [
       'https://ovogoal.plus/match-updates/parma-vs-juventus/',
       'https://myfootball.pw/11524801-parma-yuventus-pryamaya-translyaciya-italiya-seriya-a-01022026-smotret-onlayn.html',
     ]
-  },
+  },*/
    /* {
     oyun: ' PSG - Newcastle ',
     saat: '00:00',

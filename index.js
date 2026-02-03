@@ -2,22 +2,23 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Kocaelispor - Fenerbahçe ',
-    saat: '21:00',
+    oyun: ' Arsenal - Chelsea ',
+    saat: '00:00',
     links: [
-      'https://rotabettv382.com/mac/kocaelispor-fenerbahce-bein-sports-1/',
-      'https://myfootball.pw/11524806-kodzhaelispor-fenerbahche-pryamaya-translyaciya-turciya-superliga-02022026-smotret-onlayn.html',
+      'https://ovogoal.plus/match-updates/arsenal-vs-chelsea/',
+      'https://myfootball.pw/11525697-arsenal-chelsi-pryamaya-translyaciya-angliya-kubok-ligi-03022026-smotret-onlayn.html',
     ]
   },
-  /*{
-    oyun: ' Man United - Fulham ',
-    saat: '18:00',
+  {
+    oyun: ' Albacete - Barcelona',
+    saat: '00:00',
     links: [
-      'https://ovogoal.plus/match-updates/manchester-united-vs-fulham/',
-      'https://myfootball.pw/11524770-manchester-yun-fulhem-pryamaya-translyaciya-angliya-premer-liga-01022026-smotret-onlayn.html',
+      'https://ovogoal.plus/match-updates/albacete-vs-barcelona/',
+      'https://xyzeshoot-org.streamz.zip/?m=28141&lang=en',
+      'https://myfootball.pw/11525698-albasete-barselona-pryamaya-translyaciya-ispaniya-kubok-korolya-03022026-smotret-onlayn.html',
     ]
   },
-   {
+   /*{
     oyun: ' Tottenham - Man City ',
     saat: '20:30',
     links: [

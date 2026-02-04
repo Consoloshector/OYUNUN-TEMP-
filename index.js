@@ -13,18 +13,16 @@ let oyunlar = [
     oyun: ' İnter - Torino',
     saat: '00:00',
     links: [
-      'https://ovogoal.plus/match-updates/albacete-vs-barcelona/',
-      'https://xyzeshoot-org.streamz.zip/?m=28141&lang=en',
-      'https://myfootball.pw/11525698-albasete-barselona-pryamaya-translyaciya-ispaniya-kubok-korolya-03022026-smotret-onlayn.html',
+      'https://ovogoal.plus/match-updates/inter-vs-torino/',
+      'https://myfootball.pw/11525720-inter-torino-pryamaya-translyaciya-italiya-kubok-04022026-smotret-onlayn.html',
     ]
   },
   {
     oyun: ' Newcastle - Man City ',
     saat: '00:00',
     links: [
-      'https://ovogoal.plus/match-updates/tottenham-hotspur-vs-manchester-city/',
-     'idmantv.az/az',
-      'https://myfootball.pw/11524790-tottenhem-manchester-siti-pryamaya-translyaciya-angliya-premer-liga-01022026-smotret-onlayn.html'
+      'https://ovogoal.plus/match-updates/manchester-city-vs-newcastle/',
+     'https://myfootball.pw/11525717-manchester-siti-nyukasl-yunayted-pryamaya-translyaciya-angliya-kubok-ligi-04022026-smotret-onlayn.html',
     ]
   },
   /*{

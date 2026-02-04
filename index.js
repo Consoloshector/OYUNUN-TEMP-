@@ -2,15 +2,15 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Arsenal - Chelsea ',
-    saat: '00:00',
+    oyun: ' Galatasaray - İstanbulspor ',
+    saat: '21:30',
     links: [
-      'https://ovogoal.plus/match-updates/arsenal-vs-chelsea/',
-      'https://myfootball.pw/11525697-arsenal-chelsi-pryamaya-translyaciya-angliya-kubok-ligi-03022026-smotret-onlayn.html',
+      'https://rotabettv382.com/mac/galatasaray-istanbulspor-a-spor/',
+      'https://myfootball.pw/11525705-galatasaray-istanbulspor-pryamaya-translyaciya-turciya-kubok-04022026-smotret-onlayn.html',
     ]
   },
   {
-    oyun: ' Albacete - Barcelona',
+    oyun: ' İnter - Torino',
     saat: '00:00',
     links: [
       'https://ovogoal.plus/match-updates/albacete-vs-barcelona/',
@@ -18,16 +18,16 @@ let oyunlar = [
       'https://myfootball.pw/11525698-albasete-barselona-pryamaya-translyaciya-ispaniya-kubok-korolya-03022026-smotret-onlayn.html',
     ]
   },
-   /*{
-    oyun: ' Tottenham - Man City ',
-    saat: '20:30',
+  {
+    oyun: ' Newcastle - Man City ',
+    saat: '00:00',
     links: [
       'https://ovogoal.plus/match-updates/tottenham-hotspur-vs-manchester-city/',
      'idmantv.az/az',
       'https://myfootball.pw/11524790-tottenhem-manchester-siti-pryamaya-translyaciya-angliya-premer-liga-01022026-smotret-onlayn.html'
     ]
   },
-  {
+  /*{
     oyun: ' Galatasaray - Kayserispor ',
     saat: '21:00',
     links: [

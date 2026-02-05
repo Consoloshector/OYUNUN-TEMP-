@@ -2,22 +2,22 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Galatasaray - İstanbulspor ',
-    saat: '21:30',
+    oyun: ' Kocaelispor - Beşiktaş ',
+    saat: '19:00',
     links: [
-      'https://rotabettv382.com/mac/galatasaray-istanbulspor-a-spor/',
-      'https://myfootball.pw/11525705-galatasaray-istanbulspor-pryamaya-translyaciya-turciya-kubok-04022026-smotret-onlayn.html',
+      'https://golvar588.sbs/mac/kocaelispor-besiktas-a-spor/',
+      'https://myfootball.pw/11525733-kodzhaelispor-beshiktash-pryamaya-translyaciya-turciya-kubok-05022026-smotret-onlayn.html',
     ]
   },
   {
-    oyun: ' İnter - Torino',
-    saat: '00:00',
+    oyun: ' Fenerbahçe - Erzurumspor ',
+    saat: '21:39',
     links: [
-      'https://ovogoal.plus/match-updates/inter-vs-torino/',
-      'https://myfootball.pw/11525720-inter-torino-pryamaya-translyaciya-italiya-kubok-04022026-smotret-onlayn.html',
+      'https://golvar588.sbs/mac/fenerbahce-erzurumspor-atv/',
+      'https://myfootball.pw/11525735-fenerbahche-bb-erzurumspor-pryamaya-translyaciya-turciya-kubok-05022026-smotret-onlayn.html',
     ]
   },
-  {
+  /*{
     oyun: ' Newcastle - Man City ',
     saat: '00:00',
     links: [
@@ -25,7 +25,7 @@ let oyunlar = [
      'https://myfootball.pw/11525717-manchester-siti-nyukasl-yunayted-pryamaya-translyaciya-angliya-kubok-ligi-04022026-smotret-onlayn.html',
     ]
   },
-  /*{
+  {
     oyun: ' Galatasaray - Kayserispor ',
     saat: '21:00',
     links: [

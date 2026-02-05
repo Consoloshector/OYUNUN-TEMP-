@@ -11,7 +11,7 @@ let oyunlar = [
   },
   {
     oyun: ' Fenerbahçe - Erzurumspor ',
-    saat: '21:39',
+    saat: '21:30',
     links: [
       'https://golvar588.sbs/mac/fenerbahce-erzurumspor-atv/',
       'https://myfootball.pw/11525735-fenerbahche-bb-erzurumspor-pryamaya-translyaciya-turciya-kubok-05022026-smotret-onlayn.html',

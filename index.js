@@ -2,38 +2,40 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Kocaelispor - Beşiktaş ',
-    saat: '19:00',
+    oyun: ' Man United - Tottenham ',
+    saat: '16:30',
     links: [
-      'https://golvar588.sbs/mac/kocaelispor-besiktas-a-spor/',
-      'https://myfootball.pw/11525733-kodzhaelispor-beshiktash-pryamaya-translyaciya-turciya-kubok-05022026-smotret-onlayn.html',
+      'idmantv.az/az',
+      'https://ovogoal.plus/match-updates/manchester-united-vs-tottenham/',
+      'https://myfootball.pw/11526617-manchester-yun-tottenhem-pryamaya-translyaciya-angliya-premer-liga-07022026-smotret-onlayn.html',
     ]
   },
   {
-    oyun: ' Fenerbahçe - Erzurumspor ',
-    saat: '21:30',
+    oyun: ' Arsenal - Sunderland ',
+    saat: '19:00',
     links: [
-      'https://golvar588.sbs/mac/fenerbahce-erzurumspor-atv/',
-      'https://myfootball.pw/11525735-fenerbahche-bb-erzurumspor-pryamaya-translyaciya-turciya-kubok-05022026-smotret-onlayn.html',
+      'https://ovogoal.plus/match-updates/arsenal-vs-sunderland/',
+      'https://myfootball.pw/11526629-arsenal-sanderlend-pryamaya-translyaciya-angliya-premer-liga-07022026-smotret-onlayn.html',
+    ]
+  },
+  {
+    oyun: ' Wolwes - Chelsea ',
+    saat: '19:00',
+    links: [
+      'https://ovogoal.plus/match-updates/wolves-vs-chelsea/',
+     'https://myfootball.pw/11526626-vulverhempton-chelsi-pryamaya-translyaciya-angliya-premer-liga-07022026-smotret-onlayn.html',
+    ]
+  },
+  {
+    oyun: ' Barcelona - Mallorca ',
+    saat: '19:15',
+    links: [
+      'idmantv.az/az',
+      'https://ovogoal.plus/match-updates/barcelona-vs-mallorca/',
+      'https://myfootball.pw/11526633-barselona-malorka-pryamaya-translyaciya-ispaniya-primera-divizion-07022026-smotret-onlayn.html'
     ]
   },
   /*{
-    oyun: ' Newcastle - Man City ',
-    saat: '00:00',
-    links: [
-      'https://ovogoal.plus/match-updates/manchester-city-vs-newcastle/',
-     'https://myfootball.pw/11525717-manchester-siti-nyukasl-yunayted-pryamaya-translyaciya-angliya-kubok-ligi-04022026-smotret-onlayn.html',
-    ]
-  },
-  {
-    oyun: ' Galatasaray - Kayserispor ',
-    saat: '21:00',
-    links: [
-      'https://rotabettv382.com/mac/galatasaray-kayserispor-bein-sports-1/',
-      'https://myfootball.pw/11524794-galatasaray-kayserispor-pryamaya-translyaciya-turciya-superliga-01022026-smotret-onlayn.html',
-    ]
-  },
-  {
     oyun: ' Cremonese - Inter ',
     saat: '21:00',
     links: [

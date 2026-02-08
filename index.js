@@ -9,48 +9,49 @@ let oyunlar = [
       'https://myfootball.pw/11526681-rizespor-galatasaray-pryamaya-translyaciya-turciya-superliga-08022026-smotret-onlayn.html',
     ]
   },
-  /*{
-    oyun: ' Arsenal - Sunderland ',
-    saat: '19:00',
+  {
+    oyun: ' Liverpool - Man City ',
+    saat: '20:30',
     links: [
-      'https://ovogoal.plus/match-updates/arsenal-vs-sunderland/',
-      'https://myfootball.pw/11526629-arsenal-sanderlend-pryamaya-translyaciya-angliya-premer-liga-07022026-smotret-onlayn.html',
+      'https://idmantv.az/az',
+      'https://ovogoal.plus/match-updates/liverpool-vs-manchester-city/',
+      'https://myfootball.pw/11526697-liverpul-manchester-siti-pryamaya-translyaciya-angliya-premer-liga-08022026-smotret-onlayn.html',
     ]
   },
   {
-    oyun: ' Wolwes - Chelsea ',
-    saat: '19:00',
-    links: [
-      'https://ovogoal.plus/match-updates/wolves-vs-chelsea/',
-     'https://myfootball.pw/11526626-vulverhempton-chelsi-pryamaya-translyaciya-angliya-premer-liga-07022026-smotret-onlayn.html',
-    ]
-  },
-  {
-    oyun: ' Barcelona - Mallorca ',
-    saat: '19:15',
-    links: [
-      'idmantv.az/az',
-      'https://ovogoal.plus/match-updates/barcelona-vs-mallorca/',
-      'https://myfootball.pw/11526633-barselona-malorka-pryamaya-translyaciya-ispaniya-primera-divizion-07022026-smotret-onlayn.html'
-    ]
-  },*/
-  /*{
-    oyun: ' Cremonese - Inter ',
+    oyun: ' Beşiktaş - Alanyaspor ',
     saat: '21:00',
     links: [
-      'https://ovogoal.plus/match-updates/cremonese-vs-internazionale/',
-      'https://myfootball.pw/11524793-kremoneze-inter-pryamaya-translyaciya-italiya-seriya-a-01022026-smotret-onlayn.html'
+      'https://rotabettv382.com/mac/besiktas-alanyaspor-bein-sports-1/',
+     'https://myfootball.pw/11526701-beshiktash-alanyaspor-pryamaya-translyaciya-turciya-superliga-08022026-smotret-onlayn.html',
     ]
   },
   {
-    oyun: ' Strasbourg - PSG ',
+    oyun: ' Juventus - Lazio ',
     saat: '23:45',
     links: [
-      'https://ovogoal.plus/match-updates/strasbourg-vs-psg/',
-      'https://myfootball.pw/11524802-strasbur-pszh-pryamaya-translyaciya-franciya-liga-1-01022026-smotret-onlayn.html',
+      'idmantv.az/az',
+      'https://myfootball.pw/11526708-yuventus-lacio-pryamaya-translyaciya-italiya-seriya-a-08022026-smotret-onlayn.html'
     ]
   },
   {
+    oyun: ' PSG - Marseille ',
+    saat: '23:45',
+    links: [
+      'https://ovogoal.plus/match-updates/psg-vs-olympique-marseille/',
+      'https://myfootball.pw/11526709-pszh-marsel-pryamaya-translyaciya-franciya-liga-1-08022026-smotret-onlayn.html'
+    ]
+  },
+  {
+    oyun: ' Valencia - Real Madrid ',
+    saat: '00:00',
+    links: [
+      'idmantv.az/az',
+      'https://ovogoal.plus/match-updates/valencia-vs-real-madrid/',
+      'https://myfootball.pw/11526710-valensiya-real-madrid-pryamaya-translyaciya-ispaniya-primera-divizion-08022026-smotret-onlayn.html'
+    ]
+  },
+  /*{
     oyun: ' Parma - Juventus ',
     saat: '23:45',
     links: [

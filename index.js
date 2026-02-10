@@ -2,31 +2,31 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Rizespor - Galatasaray ',
-    saat: '18:00',
+    oyun: ' Chelsea - Leeds ',
+    saat: '23:30',
     links: [
-      'https://golvar787.sbs/mac/c-rizespor-galatasaray-bein-sports-1/',
-      'https://myfootball.pw/11526681-rizespor-galatasaray-pryamaya-translyaciya-turciya-superliga-08022026-smotret-onlayn.html',
+      'https://ovogoal.plus/match-updates/chelsea-vs-leeds/',
+      'https://myfootball.pw/11526726-chelsi-lids-yun-pryamaya-translyaciya-angliya-premer-liga-10022026-smotret-onlayn.html',
     ]
   },
   {
-    oyun: ' Liverpool - Man City ',
-    saat: '20:30',
+    oyun: ' Tottenham - Newcastle ',
+    saat: '23:30',
+    links: [
+      'https://ovogoal.plus/match-updates/tottenham-vs-newcastle/',
+      'https://rotabettv383.com/mac/tottenham-newcastle-bein-sports-2/',
+      'https://myfootball.pw/11526724-tottenhem-nyukasl-yunayted-pryamaya-translyaciya-angliya-premer-liga-10022026-smotret-onlayn.html',
+    ]
+  },
+  {
+    oyun: ' West Ham - Man United ',
+    saat: '00:15',
     links: [
       'https://idmantv.az/az',
-      'https://ovogoal.plus/match-updates/liverpool-vs-manchester-city/',
-      'https://myfootball.pw/11526697-liverpul-manchester-siti-pryamaya-translyaciya-angliya-premer-liga-08022026-smotret-onlayn.html',
+      'https://myfootball.pw/11527389-vest-hem-yunayted-manchester-yun-pryamaya-translyaciya-angliya-premer-liga-10022026-smotret-onlayn.html',
     ]
   },
-  {
-    oyun: ' Beşiktaş - Alanyaspor ',
-    saat: '21:00',
-    links: [
-      'https://rotabettv382.com/mac/besiktas-alanyaspor-bein-sports-1/',
-     'https://myfootball.pw/11526701-beshiktash-alanyaspor-pryamaya-translyaciya-turciya-superliga-08022026-smotret-onlayn.html',
-    ]
-  },
-  {
+  /*{
     oyun: ' Juventus - Lazio ',
     saat: '23:45',
     links: [
@@ -50,7 +50,7 @@ let oyunlar = [
       'https://ovogoal.plus/match-updates/valencia-vs-real-madrid/',
       'https://myfootball.pw/11526710-valensiya-real-madrid-pryamaya-translyaciya-ispaniya-primera-divizion-08022026-smotret-onlayn.html'
     ]
-  },
+  },*/
   /*{
     oyun: ' Parma - Juventus ',
     saat: '23:45',

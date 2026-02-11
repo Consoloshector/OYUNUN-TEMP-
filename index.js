@@ -2,28 +2,27 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Chelsea - Leeds ',
+    oyun: ' Man City - Fulham ',
     saat: '23:30',
     links: [
-      'https://ovogoal.plus/match-updates/chelsea-vs-leeds/',
-      'https://myfootball.pw/11526726-chelsi-lids-yun-pryamaya-translyaciya-angliya-premer-liga-10022026-smotret-onlayn.html',
+      'idmantv.az/az',
+      'https://myfootball.pw/11527392-manchester-siti-fulhem-pryamaya-translyaciya-angliya-premer-liga-11022026-smotret-onlayn.html',
     ]
   },
   {
-    oyun: ' Tottenham - Newcastle ',
-    saat: '23:30',
+    oyun: ' Bayern - Leipzig ',
+    saat: '23:45',
     links: [
-      'https://ovogoal.plus/match-updates/tottenham-vs-newcastle/',
-      'https://rotabettv383.com/mac/tottenham-newcastle-bein-sports-2/',
-      'https://myfootball.pw/11526724-tottenhem-nyukasl-yunayted-pryamaya-translyaciya-angliya-premer-liga-10022026-smotret-onlayn.html',
+      'https://xyzeshoot-org.streamz.zip/?m=28335&lang=en',
+      'https://myfootball.pw/11527398-bavariya-rb-leypcig-pryamaya-translyaciya-germaniya-kubok-dfb-11022026-smotret-onlayn.html',
     ]
   },
   {
-    oyun: ' West Ham - Man United ',
+    oyun: ' Sunderland - Liverpool ',
     saat: '00:15',
     links: [
-      'https://idmantv.az/az',
-      'https://myfootball.pw/11527389-vest-hem-yunayted-manchester-yun-pryamaya-translyaciya-angliya-premer-liga-10022026-smotret-onlayn.html',
+      'https://aztv.az/az/live',
+      'https://myfootball.pw/11527408-sanderlend-liverpul-pryamaya-translyaciya-angliya-premer-liga-11022026-smotret-onlayn.html',
     ]
   },
   /*{

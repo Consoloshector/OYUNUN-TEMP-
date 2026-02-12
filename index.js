@@ -2,29 +2,30 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Man City - Fulham ',
-    saat: '23:30',
+    oyun: ' Brentford - Arsenal ',
+    saat: '00:00',
     links: [
       'idmantv.az/az',
-      'https://myfootball.pw/11527392-manchester-siti-fulhem-pryamaya-translyaciya-angliya-premer-liga-11022026-smotret-onlayn.html',
+      'https://myfootball.pw/11527416-brentford-arsenal-pryamaya-translyaciya-angliya-premer-liga-12022026-smotret-onlayn.html',
     ]
   },
   {
-    oyun: ' Bayern - Leipzig ',
-    saat: '23:45',
+    oyun: ' Atletico - Barcelona ',
+    saat: '00:00',
     links: [
-      'https://xyzeshoot-org.streamz.zip/?m=28335&lang=en',
-      'https://myfootball.pw/11527398-bavariya-rb-leypcig-pryamaya-translyaciya-germaniya-kubok-dfb-11022026-smotret-onlayn.html',
+      'https://ovogoal.plus/match-updates/atl-madrid-vs-barcelona/',
+      'https://rotabettv383.com/mac/atletico-madrid-barcelona-s-sport-plus/',
+      'https://myfootball.pw/11527417-atletiko-madrid-barselona-pryamaya-translyaciya-ispaniya-kubok-korolya-12022026-smotret-onlayn.html'
     ]
   },
-  {
+ /*{
     oyun: ' Sunderland - Liverpool ',
     saat: '00:15',
     links: [
       'https://aztv.az/az/live',
       'https://myfootball.pw/11527408-sanderlend-liverpul-pryamaya-translyaciya-angliya-premer-liga-11022026-smotret-onlayn.html',
     ]
-  },
+  },*/
   /*{
     oyun: ' Juventus - Lazio ',
     saat: '23:45',

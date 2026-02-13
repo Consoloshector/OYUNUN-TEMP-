@@ -2,30 +2,29 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Brentford - Arsenal ',
-    saat: '00:00',
+    oyun: ' Galatasaray - Eyüpspor ',
+    saat: '21:00',
     links: [
-      'idmantv.az/az',
-      'https://myfootball.pw/11527416-brentford-arsenal-pryamaya-translyaciya-angliya-premer-liga-12022026-smotret-onlayn.html',
+      'https://rotabettv383.com/mac/galatasaray-eyupspor-bein-sports-1/',
+      'https://myfootball.pw/11528033-galatasaray-eyupspor-pryamaya-translyaciya-turciya-superliga-13022026-smotret-onlayn.html',
     ]
   },
   {
-    oyun: ' Atletico - Barcelona ',
-    saat: '00:00',
+    oyun: ' Rennes - PSG ',
+    saat: '22:00',
     links: [
-      'https://ovogoal.plus/match-updates/atl-madrid-vs-barcelona/',
-      'https://rotabettv383.com/mac/atletico-madrid-barcelona-s-sport-plus/',
-      'https://myfootball.pw/11527417-atletiko-madrid-barselona-pryamaya-translyaciya-ispaniya-kubok-korolya-12022026-smotret-onlayn.html'
+      'https://ovogoal.plus/match-updates/rennes-vs-psg/',
+      'https://myfootball.pw/11528165-renn-pszh-pryamaya-translyaciya-franciya-liga-1-13022026-smotret-onlayn.html'
     ]
   },
- /*{
-    oyun: ' Sunderland - Liverpool ',
-    saat: '00:15',
+{
+    oyun: ' Hull City - Chelsea ',
+    saat: '23:45',
     links: [
-      'https://aztv.az/az/live',
-      'https://myfootball.pw/11527408-sanderlend-liverpul-pryamaya-translyaciya-angliya-premer-liga-11022026-smotret-onlayn.html',
+      'https://ovogoal.plus/match-updates/hull-city-vs-chelsea/',
+      'https://myfootball.pw/11528041-hall-siti-chelsi-pryamaya-translyaciya-angliya-kubok-fa-13022026-smotret-onlayn.html',
     ]
-  },*/
+  }
   /*{
     oyun: ' Juventus - Lazio ',
     saat: '23:45',

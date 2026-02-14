@@ -2,38 +2,48 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Galatasaray - Eyüpspor ',
+    oyun: ' Trabzonspor - Fenerbahçe ',
     saat: '21:00',
+    links: [
+      'https://golvar528.sbs/mac/trabzonspor-fenerbahce-bein-sports-1/',
+      'https://taraftariumizle20.com/izle/bein-sports-1',
+      'https://ardaspor1.top/izle/bein-sports-1',
+      'https://myfootball.pw/11528083-trabzonspor-fenerbahche-pryamaya-translyaciya-turciya-superliga-14022026-smotret-onlayn.html'
+    ]
+  },
+   {
+    oyun: ' Al Fateh - Al Nassr ',
+    saat: '21:30',
     links: [
       'https://rotabettv383.com/mac/galatasaray-eyupspor-bein-sports-1/',
       'https://myfootball.pw/11528033-galatasaray-eyupspor-pryamaya-translyaciya-turciya-superliga-13022026-smotret-onlayn.html',
     ]
   },
   {
-    oyun: ' Rennes - PSG ',
-    saat: '22:00',
+    oyun: ' Inter - Juventus ',
+    saat: '23:45',
     links: [
-      'https://ovogoal.plus/match-updates/rennes-vs-psg/',
-      'https://myfootball.pw/11528165-renn-pszh-pryamaya-translyaciya-franciya-liga-1-13022026-smotret-onlayn.html'
+      'https://ovogoal.plus/match-updates/internazionale-vs-juventus/',
+      'https://myfootball.pw/11528097-inter-yuventus-pryamaya-translyaciya-italiya-seriya-a-14022026-smotret-onlayn.html'
     ]
   },
 {
-    oyun: ' Hull City - Chelsea ',
-    saat: '23:45',
+    oyun: ' Real Madrid - Real Sociedad ',
+    saat: '00:00',
     links: [
-      'https://ovogoal.plus/match-updates/hull-city-vs-chelsea/',
-      'https://myfootball.pw/11528041-hall-siti-chelsi-pryamaya-translyaciya-angliya-kubok-fa-13022026-smotret-onlayn.html',
-    ]
-  }
-  /*{
-    oyun: ' Juventus - Lazio ',
-    saat: '23:45',
-    links: [
-      'idmantv.az/az',
-      'https://myfootball.pw/11526708-yuventus-lacio-pryamaya-translyaciya-italiya-seriya-a-08022026-smotret-onlayn.html'
+      'https://ovogoal.plus/match-updates/real-madrid-vs-real-sociedad/',
+      'https://myfootball.pw/11528100-real-madrid-real-sosedad-pryamaya-translyaciya-ispaniya-primera-divizion-14022026-smotret-onlayn.html',
     ]
   },
   {
+    oyun: ' Liverpool - Brighton ',
+    saat: '00:00',
+    links: [
+      'https://ovogoal.plus/match-updates/liverpool-vs-brighton/',
+      'https://myfootball.pw/11528099-liverpul-brayton-pryamaya-translyaciya-angliya-kubok-fa-14022026-smotret-onlayn.html'
+    ]
+  },
+  /*{
     oyun: ' PSG - Marseille ',
     saat: '23:45',
     links: [

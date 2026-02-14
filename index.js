@@ -15,8 +15,8 @@ let oyunlar = [
     oyun: ' Al Fateh - Al Nassr ',
     saat: '21:30',
     links: [
-      'https://rotabettv383.com/mac/galatasaray-eyupspor-bein-sports-1/',
-      'https://myfootball.pw/11528033-galatasaray-eyupspor-pryamaya-translyaciya-turciya-superliga-13022026-smotret-onlayn.html',
+      'https://ardaspor1.top/izle/al-fateh-al-nassr-futboi',
+      'https://taraftariumizle20.com/izle/al-fateh-al-nassr-futboi',
     ]
   },
   {
@@ -32,6 +32,7 @@ let oyunlar = [
     saat: '00:00',
     links: [
       'https://ovogoal.plus/match-updates/real-madrid-vs-real-sociedad/',
+      'https://ardaspor1.top/izle/real-madrid-real-sociedad-futboi',
       'https://myfootball.pw/11528100-real-madrid-real-sosedad-pryamaya-translyaciya-ispaniya-primera-divizion-14022026-smotret-onlayn.html',
     ]
   },

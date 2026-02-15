@@ -2,32 +2,30 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Trabzonspor - Fenerbahçe ',
-    saat: '21:00',
+    oyun: ' Arsenal - Wigan ',
+    saat: '20:30',
     links: [
-      'https://golvar528.sbs/mac/trabzonspor-fenerbahce-bein-sports-1/',
-      'https://taraftariumizle20.com/izle/bein-sports-1',
-      'https://ardaspor1.top/izle/bein-sports-1',
-      'https://myfootball.pw/11528083-trabzonspor-fenerbahche-pryamaya-translyaciya-turciya-superliga-14022026-smotret-onlayn.html'
+      'https://ovogoal.plus/match-updates/arsenal-vs-wigan-athletic/',
+      'https://myfootball.pw/11528169-arsenal-uigan-atletik-pryamaya-translyaciya-angliya-kubok-fa-15022026-smotret-onlayn.html'
     ]
   },
    {
-    oyun: ' Al Fateh - Al Nassr ',
-    saat: '21:30',
+    oyun: '  Başakşehir - Beşiktaş ',
+    saat: '21:00',
     links: [
-      'https://ardaspor1.top/izle/al-fateh-al-nassr-futboi',
-      'https://taraftariumizle20.com/izle/al-fateh-al-nassr-futboi',
+      'https://golvar518.sbs/mac/rams-basaksehir-besiktas-bein-sports-1/',
+      'https://myfootball.pw/11528143-bashakshehir-beshiktash-pryamaya-translyaciya-turciya-superliga-15022026-smotret-onlayn.html',
     ]
   },
   {
-    oyun: ' Inter - Juventus ',
+    oyun: ' Napoli - Roma ',
     saat: '23:45',
     links: [
-      'https://ovogoal.plus/match-updates/internazionale-vs-juventus/',
-      'https://myfootball.pw/11528097-inter-yuventus-pryamaya-translyaciya-italiya-seriya-a-14022026-smotret-onlayn.html'
+      'https://golvar518.sbs/mac/napoli-roma-tivibu-spor-1/',
+      'https://myfootball.pw/11528150-napoli-roma-pryamaya-translyaciya-italiya-seriya-a-15022026-smotret-onlayn.html'
     ]
   },
-{
+/*{
     oyun: ' Real Madrid - Real Sociedad ',
     saat: '00:00',
     links: [
@@ -43,7 +41,7 @@ let oyunlar = [
       'https://ovogoal.plus/match-updates/liverpool-vs-brighton/',
       'https://myfootball.pw/11528099-liverpul-brayton-pryamaya-translyaciya-angliya-kubok-fa-14022026-smotret-onlayn.html'
     ]
-  },
+  },*/
   /*{
     oyun: ' PSG - Marseille ',
     saat: '23:45',

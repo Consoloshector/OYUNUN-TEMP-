@@ -2,14 +2,16 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Arsenal - Wigan ',
-    saat: '20:30',
+    oyun: ' Girona - Barcelona ',
+    saat: '00:00',
     links: [
-      'https://ovogoal.plus/match-updates/arsenal-vs-wigan-athletic/',
-      'https://myfootball.pw/11528169-arsenal-uigan-atletik-pryamaya-translyaciya-angliya-kubok-fa-15022026-smotret-onlayn.html'
+      'idmantv.az/az',
+      'https://golvar801.sbs/mac/girona-barcelona-s-sport/',
+      'https://ovogoal.plus/match-updates/girona-vs-barcelona/',
+      'https://myfootball.pw/11528161-zhirona-barselona-pryamaya-translyaciya-ispaniya-primera-divizion-16022026-smotret-onlayn.html'
     ]
   },
-   {
+   /*{
     oyun: '  Başakşehir - Beşiktaş ',
     saat: '21:00',
     links: [
@@ -24,7 +26,7 @@ let oyunlar = [
       'https://golvar518.sbs/mac/napoli-roma-tivibu-spor-1/',
       'https://myfootball.pw/11528150-napoli-roma-pryamaya-translyaciya-italiya-seriya-a-15022026-smotret-onlayn.html'
     ]
-  },
+  },*/
 /*{
     oyun: ' Real Madrid - Real Sociedad ',
     saat: '00:00',

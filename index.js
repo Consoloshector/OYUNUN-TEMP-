@@ -2,20 +2,18 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Girona - Barcelona ',
+    oyun: ' Galatasaray - Juventus ',
     saat: '00:00',
     links: [
-      'idmantv.az/az',
-      'https://golvar801.sbs/mac/girona-barcelona-s-sport/',
-      'https://ovogoal.plus/match-updates/girona-vs-barcelona/',
-      'https://myfootball.pw/11528161-zhirona-barselona-pryamaya-translyaciya-ispaniya-primera-divizion-16022026-smotret-onlayn.html'
+      'https://www.canlitv.me/live/cbcsport-hd',
+      'https://www.canlitv.me/live/trt1-canli-kesintisiz-izle'
     ]
   },
-   /*{
+ /* {
     oyun: '  Başakşehir - Beşiktaş ',
     saat: '21:00',
     links: [
-      'https://golvar518.sbs/mac/rams-basaksehir-besiktas-bein-sports-1/',
+      'https://www.canlitv.me/live/ictimaitv-canli-hd',
       'https://myfootball.pw/11528143-bashakshehir-beshiktash-pryamaya-translyaciya-turciya-superliga-15022026-smotret-onlayn.html',
     ]
   },
@@ -23,11 +21,11 @@ let oyunlar = [
     oyun: ' Napoli - Roma ',
     saat: '23:45',
     links: [
-      'https://golvar518.sbs/mac/napoli-roma-tivibu-spor-1/',
+      'https://www.canlitv.me/live/ictimaitv-canli-hd',
       'https://myfootball.pw/11528150-napoli-roma-pryamaya-translyaciya-italiya-seriya-a-15022026-smotret-onlayn.html'
     ]
-  },*/
-/*{
+  },
+ {
     oyun: ' Real Madrid - Real Sociedad ',
     saat: '00:00',
     links: [
@@ -35,8 +33,8 @@ let oyunlar = [
       'https://ardaspor1.top/izle/real-madrid-real-sociedad-futboi',
       'https://myfootball.pw/11528100-real-madrid-real-sosedad-pryamaya-translyaciya-ispaniya-primera-divizion-14022026-smotret-onlayn.html',
     ]
-  },
-  {
+  },*/
+  /*{
     oyun: ' Liverpool - Brighton ',
     saat: '00:00',
     links: [

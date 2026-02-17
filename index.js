@@ -9,31 +9,30 @@ let oyunlar = [
       'https://www.canlitv.me/live/trt1-canli-kesintisiz-izle'
     ]
   },
- /* {
-    oyun: '  Başakşehir - Beşiktaş ',
-    saat: '21:00',
+  {
+    oyun: '  Benifica - Real Madrid ',
+    saat: '00:00',
     links: [
       'https://www.canlitv.me/live/ictimaitv-canli-hd',
-      'https://myfootball.pw/11528143-bashakshehir-beshiktash-pryamaya-translyaciya-turciya-superliga-15022026-smotret-onlayn.html',
+      'https://myfootball.pw/11529079-benfika-real-madrid-pryamaya-translyaciya-liga-chempionov-17022026-smotret-onlayn.html',
     ]
   },
   {
-    oyun: ' Napoli - Roma ',
-    saat: '23:45',
+    oyun: ' Dortmund - Atalanta ',
+    saat: '00:00',
     links: [
-      'https://www.canlitv.me/live/ictimaitv-canli-hd',
-      'https://myfootball.pw/11528150-napoli-roma-pryamaya-translyaciya-italiya-seriya-a-15022026-smotret-onlayn.html'
+      'https://www.canlitv.me/live/cbcsport-hd',
+      'https://myfootball.pw/11529077-borussiya-d-atalanta-pryamaya-translyaciya-liga-chempionov-17022026-smotret-onlayn.html'
     ]
   },
  {
-    oyun: ' Real Madrid - Real Sociedad ',
+    oyun: ' Monaco - PSG ',
     saat: '00:00',
     links: [
-      'https://ovogoal.plus/match-updates/real-madrid-vs-real-sociedad/',
-      'https://ardaspor1.top/izle/real-madrid-real-sociedad-futboi',
-      'https://myfootball.pw/11528100-real-madrid-real-sosedad-pryamaya-translyaciya-ispaniya-primera-divizion-14022026-smotret-onlayn.html',
+      'https://ovogoal.plus/match-updates/monaco-vs-psg/',
+      'https://myfootball.pw/11529078-as-monako-pszh-pryamaya-translyaciya-liga-chempionov-17022026-smotret-onlayn.html',
     ]
-  },*/
+  },
   /*{
     oyun: ' Liverpool - Brighton ',
     saat: '00:00',

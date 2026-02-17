@@ -3,7 +3,7 @@ const main = document.getElementsByClassName('main')[0];
 let oyunlar = [
   {
     oyun: ' Galatasaray - Juventus ',
-    saat: '00:00',
+    saat: '21:45',
     links: [
       'https://www.canlitv.me/live/cbcsport-hd',
       'https://www.canlitv.me/live/trt1-canli-kesintisiz-izle'

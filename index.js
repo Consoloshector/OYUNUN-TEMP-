@@ -2,15 +2,15 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Qarabağ - Newcastle United ',
-    saat: '21:45',
+    oyun: ' Milan - Como ',
+    saat: '23:45',
     links: [
-      'https://www.canlitv.me/live/cbcsport-hd',
-      'https://myfootball.pw/11529080-karabah-nyukasl-yunayted-pryamaya-translyaciya-liga-chempionov-18022026-smotret-onlayn.html'
+      'https://golvar851.sbs/mac/milan-como-s-sport-2/',
+      'https://myfootball.pw/11529081-milan-komo-pryamaya-translyaciya-italiya-seriya-a-18022026-smotret-onlayn.html'
     ]
   },
- /* {
-    oyun: '  Benifica - Real Madrid ',
+  /*{
+    oyun: ' Bodo Glimt - Atletico Madrid',
     saat: '00:00',
     links: [
       'https://www.canlitv.me/live/ictimaitv-canli-hd',

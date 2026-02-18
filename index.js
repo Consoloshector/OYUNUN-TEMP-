@@ -2,14 +2,14 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Galatasaray - Juventus ',
+    oyun: ' Qarabağ - Newcastle United ',
     saat: '21:45',
     links: [
       'https://www.canlitv.me/live/cbcsport-hd',
-      'https://www.canlitv.me/live/trt1-canli-kesintisiz-izle'
+      'https://myfootball.pw/11529080-karabah-nyukasl-yunayted-pryamaya-translyaciya-liga-chempionov-18022026-smotret-onlayn.html'
     ]
   },
-  {
+ /* {
     oyun: '  Benifica - Real Madrid ',
     saat: '00:00',
     links: [
@@ -32,7 +32,7 @@ let oyunlar = [
       'https://ovogoal.plus/match-updates/monaco-vs-psg/',
       'https://myfootball.pw/11529078-as-monako-pszh-pryamaya-translyaciya-liga-chempionov-17022026-smotret-onlayn.html',
     ]
-  },
+  },*/
   /*{
     oyun: ' Liverpool - Brighton ',
     saat: '00:00',

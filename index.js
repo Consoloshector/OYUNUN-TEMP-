@@ -9,23 +9,23 @@ let oyunlar = [
       'https://myfootball.pw/11529081-milan-komo-pryamaya-translyaciya-italiya-seriya-a-18022026-smotret-onlayn.html'
     ]
   },
-  /*{
-    oyun: ' Bodo Glimt - Atletico Madrid',
+  {
+    oyun: ' Bodo Glimt - Inter ',
     saat: '00:00',
     links: [
-      'https://www.canlitv.me/live/ictimaitv-canli-hd',
-      'https://myfootball.pw/11529079-benfika-real-madrid-pryamaya-translyaciya-liga-chempionov-17022026-smotret-onlayn.html',
+      'https://golvar851.sbs/mac/bodo-glimt-inter-tabii-spor/',
+      'https://myfootball.pw/11529084-bude-glimt-inter-pryamaya-translyaciya-liga-chempionov-18022026-smotret-onlayn.html',
     ]
   },
   {
-    oyun: ' Dortmund - Atalanta ',
+    oyun: ' Wolwes - Arsenal ',
     saat: '00:00',
     links: [
-      'https://www.canlitv.me/live/cbcsport-hd',
-      'https://myfootball.pw/11529077-borussiya-d-atalanta-pryamaya-translyaciya-liga-chempionov-17022026-smotret-onlayn.html'
+      'https://aztv.az/az/live',
+      'https://myfootball.pw/11529082-vulverhempton-arsenal-pryamaya-translyaciya-angliya-premer-liga-18022026-smotret-onlayn.html'
     ]
   },
- {
+ /*{
     oyun: ' Monaco - PSG ',
     saat: '00:00',
     links: [

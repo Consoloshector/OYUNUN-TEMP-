@@ -2,14 +2,14 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Milan - Como ',
-    saat: '23:45',
+    oyun: ' Fenerbahçe - Nottingham ',
+    saat: '21:45',
     links: [
-      'https://golvar851.sbs/mac/milan-como-s-sport-2/',
-      'https://myfootball.pw/11529081-milan-komo-pryamaya-translyaciya-italiya-seriya-a-18022026-smotret-onlayn.html'
+      'https://www.canlitv.me/live/cbcsport-hd',
+      'https://myfootball.pw/11529086-fenerbahche-nottingem-forest-pryamaya-translyaciya-liga-evropy-19022026-smotret-onlayn.html'
     ]
   },
-  {
+ /* {
     oyun: ' Bodo Glimt - Inter ',
     saat: '00:00',
     links: [
@@ -24,7 +24,7 @@ let oyunlar = [
       'https://aztv.az/az/live',
       'https://myfootball.pw/11529082-vulverhempton-arsenal-pryamaya-translyaciya-angliya-premer-liga-18022026-smotret-onlayn.html'
     ]
-  },
+  },*/
  /*{
     oyun: ' Monaco - PSG ',
     saat: '00:00',

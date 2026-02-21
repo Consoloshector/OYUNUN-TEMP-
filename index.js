@@ -1,28 +1,29 @@
 const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
-  {
-    oyun: ' Juventus - Como ',
-    saat: '18:00',
-    links: [
-      'https://ovogoal.plus/match-updates/juventus-vs-como/',
-      'https://myfootball.pw/11529605-yuventus-komo-pryamaya-translyaciya-italiya-seriya-a-21022026-smotret-onlayn.html'
-    ]
-  },
-  {
-    oyun: ' Bayern - Frankfurt ',
-    saat: '18:30',
-    links: [
-      'https://rotabettv383.com/mac/bayern-munih-eintracht-frankfurt-tivibu-spor-2/',
-      'https://myfootball.pw/11529611-bavariya-ayntraht-pryamaya-translyaciya-germaniya-bundesliga-21022026-smotret-onlayn.html',
-    ]
-  },
-  {
+    {
     oyun: ' Chelsea - Burnley ',
     saat: '19:00',
     links: [
       'https://ovogoal.plus/match-updates/chelsea-vs-burnley/',
       'https://myfootball.pw/11529613-chelsi-bernli-pryamaya-translyaciya-angliya-premer-liga-21022026-smotret-onlayn.html'
+    ]
+  },
+  {
+    oyun: ' Konyaspor - Galatasaray ',
+    saat: '21:00',
+    links: [
+      'https://rotabettv383.com/mac/konyaspor-galatasaray-bein-sports-1/',
+      'https://myfootball.pw/11529637-konyaspor-galatasaray-pryamaya-translyaciya-turciya-superliga-21022026-smotret-onlayn.html'
+    ]
+  },
+  {
+    oyun: ' Osasuna - Real Madrid ',
+    saat: '21:30',
+    links: [
+      'idmantv.az/az',
+      'https://rotabettv383.com/mac/osasuna-real-madrid-s-sport/',
+      'https://myfootball.pw/11529642-osasuna-real-madrid-pryamaya-translyaciya-ispaniya-primera-divizion-21022026-smotret-onlayn.html'
     ]
   },
  /*{

@@ -2,29 +2,29 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Fenerbahçe - Nottingham ',
-    saat: '21:45',
+    oyun: ' Juventus - Como ',
+    saat: '18:00',
     links: [
-      'https://www.canlitv.me/live/cbcsport-hd',
-      'https://myfootball.pw/11529086-fenerbahche-nottingem-forest-pryamaya-translyaciya-liga-evropy-19022026-smotret-onlayn.html'
-    ]
-  },
- /* {
-    oyun: ' Bodo Glimt - Inter ',
-    saat: '00:00',
-    links: [
-      'https://golvar851.sbs/mac/bodo-glimt-inter-tabii-spor/',
-      'https://myfootball.pw/11529084-bude-glimt-inter-pryamaya-translyaciya-liga-chempionov-18022026-smotret-onlayn.html',
+      'https://ovogoal.plus/match-updates/juventus-vs-como/',
+      'https://myfootball.pw/11529605-yuventus-komo-pryamaya-translyaciya-italiya-seriya-a-21022026-smotret-onlayn.html'
     ]
   },
   {
-    oyun: ' Wolwes - Arsenal ',
-    saat: '00:00',
+    oyun: ' Bayern - Frankfurt ',
+    saat: '18:30',
     links: [
-      'https://aztv.az/az/live',
-      'https://myfootball.pw/11529082-vulverhempton-arsenal-pryamaya-translyaciya-angliya-premer-liga-18022026-smotret-onlayn.html'
+      'https://rotabettv383.com/mac/bayern-munih-eintracht-frankfurt-tivibu-spor-2/',
+      'https://myfootball.pw/11529611-bavariya-ayntraht-pryamaya-translyaciya-germaniya-bundesliga-21022026-smotret-onlayn.html',
     ]
-  },*/
+  },
+  {
+    oyun: ' Chelsea - Burnley ',
+    saat: '19:00',
+    links: [
+      'https://ovogoal.plus/match-updates/chelsea-vs-burnley/',
+      'https://myfootball.pw/11529613-chelsi-bernli-pryamaya-translyaciya-angliya-premer-liga-21022026-smotret-onlayn.html'
+    ]
+  },
  /*{
     oyun: ' Monaco - PSG ',
     saat: '00:00',

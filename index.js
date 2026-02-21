@@ -1,14 +1,6 @@
 const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
-    {
-    oyun: ' Chelsea - Burnley ',
-    saat: '19:00',
-    links: [
-      'https://ovogoal.plus/match-updates/chelsea-vs-burnley/',
-      'https://myfootball.pw/11529613-chelsi-bernli-pryamaya-translyaciya-angliya-premer-liga-21022026-smotret-onlayn.html'
-    ]
-  },
   {
     oyun: ' Konyaspor - Galatasaray ',
     saat: '21:00',
@@ -24,6 +16,14 @@ let oyunlar = [
       'idmantv.az/az',
       'https://rotabettv383.com/mac/osasuna-real-madrid-s-sport/',
       'https://myfootball.pw/11529642-osasuna-real-madrid-pryamaya-translyaciya-ispaniya-primera-divizion-21022026-smotret-onlayn.html'
+    ]
+  },
+    {
+    oyun: ' Man City - Newcastle United',
+    saat: '00:00',
+    links: [
+      'https://ovogoal.plus/match-updates/man-city-vs-newcastle/',
+      'https://myfootball.pw/11529655-manchester-siti-nyukasl-yunayted-pryamaya-translyaciya-angliya-premer-liga-21022026-smotret-onlayn.html'
     ]
   },
  /*{

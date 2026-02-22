@@ -17,30 +17,30 @@ let oyunlar = [
       'https://myfootball.pw/11529680-nottingem-forest-liverpul-pryamaya-translyaciya-angliya-premer-liga-22022026-smotret-onlayn.html'
     ]
   },
-   /* {
-    oyun: ' Man City - Newcastle United',
-    saat: '00:00',
+    {
+    oyun: ' Barcelona - Levante ',
+    saat: '19:15',
     links: [
       'https://ovogoal.plus/match-updates/man-city-vs-newcastle/',
       'https://myfootball.pw/11529655-manchester-siti-nyukasl-yunayted-pryamaya-translyaciya-angliya-premer-liga-21022026-smotret-onlayn.html'
     ]
-  },*/
- /*{
-    oyun: ' Monaco - PSG ',
-    saat: '00:00',
+  },
+ {
+    oyun: ' Tottenham - Arsenal ',
+    saat: '20:30',
     links: [
       'https://ovogoal.plus/match-updates/monaco-vs-psg/',
       'https://myfootball.pw/11529078-as-monako-pszh-pryamaya-translyaciya-liga-chempionov-17022026-smotret-onlayn.html',
     ]
-  },*/
-  /*{
-    oyun: ' Liverpool - Brighton ',
-    saat: '00:00',
+  },
+  {
+    oyun: ' Beşiktaş - Göztepe ',
+    saat: '21:00',
     links: [
       'https://ovogoal.plus/match-updates/liverpool-vs-brighton/',
       'https://myfootball.pw/11528099-liverpul-brayton-pryamaya-translyaciya-angliya-kubok-fa-14022026-smotret-onlayn.html'
     ]
-  },*/
+  },
   /*{
     oyun: ' PSG - Marseille ',
     saat: '23:45',

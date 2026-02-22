@@ -21,24 +21,26 @@ let oyunlar = [
     oyun: ' Barcelona - Levante ',
     saat: '19:15',
     links: [
-      'https://ovogoal.plus/match-updates/man-city-vs-newcastle/',
-      'https://myfootball.pw/11529655-manchester-siti-nyukasl-yunayted-pryamaya-translyaciya-angliya-premer-liga-21022026-smotret-onlayn.html'
+      'https://rotabettv383.com/mac/barcelona-levante-s-sport/',
+      'https://ovogoal.plus/match-updates/barcelona-vs-levante/',
+      'https://myfootball.pw/11529689-barselona-levante-pryamaya-translyaciya-ispaniya-primera-divizion-22022026-smotret-onlayn.html'
     ]
   },
  {
     oyun: ' Tottenham - Arsenal ',
     saat: '20:30',
     links: [
-      'https://ovogoal.plus/match-updates/monaco-vs-psg/',
-      'https://myfootball.pw/11529078-as-monako-pszh-pryamaya-translyaciya-liga-chempionov-17022026-smotret-onlayn.html',
+      'idmantv.az/az',
+      'https://ovogoal.plus/match-updates/tottenham-vs-arsenal/',
+      'https://myfootball.pw/11529698-tottenhem-arsenal-pryamaya-translyaciya-angliya-premer-liga-22022026-smotret-onlayn.html',
     ]
   },
   {
     oyun: ' Beşiktaş - Göztepe ',
     saat: '21:00',
     links: [
-      'https://ovogoal.plus/match-updates/liverpool-vs-brighton/',
-      'https://myfootball.pw/11528099-liverpul-brayton-pryamaya-translyaciya-angliya-kubok-fa-14022026-smotret-onlayn.html'
+      'https://rotabettv383.com/mac/besiktas-goztepe-bein-sports-1/',
+      'https://myfootball.pw/11529704-beshiktash-geztepe-pryamaya-translyaciya-turciya-superliga-22022026-smotret-onlayn.html'
     ]
   },
   /*{

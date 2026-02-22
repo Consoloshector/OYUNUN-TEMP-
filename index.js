@@ -2,30 +2,29 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Konyaspor - Galatasaray ',
-    saat: '21:00',
+    oyun: ' Atalanta - Napoli ',
+    saat: '18:00',
     links: [
-      'https://rotabettv383.com/mac/konyaspor-galatasaray-bein-sports-1/',
-      'https://myfootball.pw/11529637-konyaspor-galatasaray-pryamaya-translyaciya-turciya-superliga-21022026-smotret-onlayn.html'
+      'https://ovogoal.plus/match-updates/atalanta-vs-napoli/',
+      'https://myfootball.pw/11529682-atalanta-napoli-pryamaya-translyaciya-italiya-seriya-a-22022026-smotret-onlayn.html'
     ]
   },
   {
-    oyun: ' Osasuna - Real Madrid ',
-    saat: '21:30',
+    oyun: ' Nottingham Forest - Liverpool ',
+    saat: '18:00',
     links: [
-      'idmantv.az/az',
-      'https://rotabettv383.com/mac/osasuna-real-madrid-s-sport/',
-      'https://myfootball.pw/11529642-osasuna-real-madrid-pryamaya-translyaciya-ispaniya-primera-divizion-21022026-smotret-onlayn.html'
+      'https://ovogoal.plus/match-updates/nottingham-vs-liverpool/',
+      'https://myfootball.pw/11529680-nottingem-forest-liverpul-pryamaya-translyaciya-angliya-premer-liga-22022026-smotret-onlayn.html'
     ]
   },
-    {
+   /* {
     oyun: ' Man City - Newcastle United',
     saat: '00:00',
     links: [
       'https://ovogoal.plus/match-updates/man-city-vs-newcastle/',
       'https://myfootball.pw/11529655-manchester-siti-nyukasl-yunayted-pryamaya-translyaciya-angliya-premer-liga-21022026-smotret-onlayn.html'
     ]
-  },
+  },*/
  /*{
     oyun: ' Monaco - PSG ',
     saat: '00:00',

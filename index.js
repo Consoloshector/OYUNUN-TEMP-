@@ -2,31 +2,31 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Fenerbahçe - Kasımpaşa ',
-    saat: '21:00',
+    oyun: ' Newcastle - Qarabağ ',
+    saat: '00:00',
     links: [
-      'https://rotabettv383.com/mac/fenerbahce-kasimpasa-bein-sports-1/',
-      'https://myfootball.pw/11529720-fenerbahche-kasympasha-pryamaya-translyaciya-turciya-superliga-23022026-smotret-onlayn.html'
+      'https://www.google.com/amp/s/tv.canlitvme.com/metv/ictimaitv-canli-hd',
+      'https://myfootball.pw/11530719-nyukasl-yunayted-karabah-pryamaya-translyaciya-liga-chempionov-24022026-smotret-onlayn.html'
     ]
   },
-  /*{
-    oyun: ' Nottingham Forest - Liverpool ',
-    saat: '18:00',
+   {
+    oyun: ' Leverkusen - Olympiacos',
+    saat: '00:00',
     links: [
-      'https://ovogoal.plus/match-updates/nottingham-vs-liverpool/',
-      'https://myfootball.pw/11529680-nottingem-forest-liverpul-pryamaya-translyaciya-angliya-premer-liga-22022026-smotret-onlayn.html'
+      'https://rotabettv383.com/mac/bayer-leverkusen-olympiakos-tabii-spor-1/',
+      'https://myfootball.pw/11530718-bayer-l-olimpiakos-pryamaya-translyaciya-liga-chempionov-24022026-smotret-onlayn.html'
     ]
   },
     {
-    oyun: ' Barcelona - Levante ',
-    saat: '19:15',
+    oyun: ' Inter - Bodø Glimt ',
+    saat: '00:00',
     links: [
-      'https://rotabettv383.com/mac/barcelona-levante-s-sport/',
-      'https://ovogoal.plus/match-updates/barcelona-vs-levante/',
-      'https://myfootball.pw/11529689-barselona-levante-pryamaya-translyaciya-ispaniya-primera-divizion-22022026-smotret-onlayn.html'
+      'https://www.canlitv.me/live/cbcsport-hd',
+      'https://myfootball.pw/11530720-inter-bude-glimt-pryamaya-translyaciya-liga-chempionov-24022026-smotret-onlayn.html',
+
     ]
   },
- {
+ /*{
     oyun: ' Tottenham - Arsenal ',
     saat: '20:30',
     links: [

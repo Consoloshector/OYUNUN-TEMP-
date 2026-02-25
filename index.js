@@ -2,27 +2,27 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Newcastle - Qarabağ ',
+    oyun: ' Real Madrid - Benifica ',
     saat: '00:00',
     links: [
       'https://www.google.com/amp/s/tv.canlitvme.com/metv/ictimaitv-canli-hd',
-      'https://myfootball.pw/11530719-nyukasl-yunayted-karabah-pryamaya-translyaciya-liga-chempionov-24022026-smotret-onlayn.html'
+      'https://myfootball.pw/11530737-real-madrid-benfika-pryamaya-translyaciya-liga-chempionov-25022026-smotret-onlayn.html'
     ]
   },
    {
-    oyun: ' Leverkusen - Olympiacos',
-    saat: '00:00',
-    links: [
-      'https://rotabettv383.com/mac/bayer-leverkusen-olympiakos-tabii-spor-1/',
-      'https://myfootball.pw/11530718-bayer-l-olimpiakos-pryamaya-translyaciya-liga-chempionov-24022026-smotret-onlayn.html'
-    ]
-  },
-    {
-    oyun: ' Inter - Bodø Glimt ',
+    oyun: ' Juventus - Galatasaray ',
     saat: '00:00',
     links: [
       'https://www.canlitv.me/live/cbcsport-hd',
-      'https://myfootball.pw/11530720-inter-bude-glimt-pryamaya-translyaciya-liga-chempionov-24022026-smotret-onlayn.html',
+      'https://myfootball.pw/11530735-yuventus-galatasaray-pryamaya-translyaciya-liga-chempionov-25022026-smotret-onlayn.html'
+    ]
+  },
+    {
+    oyun: ' PSG - Monaco ',
+    saat: '00:00',
+    links: [
+      'https://rotabettv384.com/mac/psg-monaco-tabii-spor/',
+      'https://myfootball.pw/11530736-pszh-as-monako-pryamaya-translyaciya-liga-chempionov-25022026-smotret-onlayn.html',
 
     ]
   },

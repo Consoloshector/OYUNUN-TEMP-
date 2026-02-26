@@ -2,14 +2,14 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Real Madrid - Benifica ',
+    oyun: ' Nottingham Forest - Fenerbahçe',
     saat: '00:00',
     links: [
       'https://www.google.com/amp/s/tv.canlitvme.com/metv/ictimaitv-canli-hd',
-      'https://myfootball.pw/11530737-real-madrid-benfika-pryamaya-translyaciya-liga-chempionov-25022026-smotret-onlayn.html'
+      'https://myfootball.pw/11530754-nottingem-forest-fenerbahche-pryamaya-translyaciya-liga-evropy-26022026-smotret-onlayn.html'
     ]
   },
-   {
+   /*{
     oyun: ' Juventus - Galatasaray ',
     saat: '00:00',
     links: [
@@ -25,7 +25,7 @@ let oyunlar = [
       'https://myfootball.pw/11530736-pszh-as-monako-pryamaya-translyaciya-liga-chempionov-25022026-smotret-onlayn.html',
 
     ]
-  },
+  },*/
  /*{
     oyun: ' Tottenham - Arsenal ',
     saat: '20:30',

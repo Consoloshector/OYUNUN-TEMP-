@@ -2,11 +2,11 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Nottingham Forest - Fenerbahçe',
-    saat: '00:00',
+    oyun: ' Çempionlar liqası püşkatma ',
+    saat: '15:00',
     links: [
-      'https://www.google.com/amp/s/tv.canlitvme.com/metv/ictimaitv-canli-hd',
-      'https://myfootball.pw/11530754-nottingem-forest-fenerbahche-pryamaya-translyaciya-liga-evropy-26022026-smotret-onlayn.html'
+      'https://www.uefa.com/uefachampionsleague/draws/',
+      'https://myfootball.pw/11531621-zherebevka-ligi-chempionov-pryamaya-translyaciya-futbol-liga-chempionov.html'
     ]
   },
    /*{

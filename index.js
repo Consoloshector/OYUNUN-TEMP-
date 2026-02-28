@@ -9,57 +9,56 @@ let oyunlar = [
       'https://myfootball.pw/11531261-kodzhaelispor-beshiktash-pryamaya-translyaciya-turciya-superliga-28022026-smotret-onlayn.html'
     ]
   },
-   /*{
-    oyun: ' Juventus - Galatasaray ',
-    saat: '00:00',
+   {
+    oyun: ' Liverpool - West Ham ',
+    saat: '19:00',
     links: [
-      'https://www.canlitv.me/live/cbcsport-hd',
-      'https://myfootball.pw/11530735-yuventus-galatasaray-pryamaya-translyaciya-liga-chempionov-25022026-smotret-onlayn.html'
+      'https://rotabettv387.com/mac/liverpool-west-ham-bein-sports-3/',
+      'https://myfootball.pw/11531273-liverpul-vest-hem-yunayted-pryamaya-translyaciya-angliya-premer-liga-28022026-smotret-onlayn.html'
     ]
   },
     {
-    oyun: ' PSG - Monaco ',
-    saat: '00:00',
+    oyun: ' Barcelona - Villarreal ',
+    saat: '19:15',
     links: [
-      'https://rotabettv384.com/mac/psg-monaco-tabii-spor/',
-      'https://myfootball.pw/11530736-pszh-as-monako-pryamaya-translyaciya-liga-chempionov-25022026-smotret-onlayn.html',
+      'idmantv.az/az',
+      'https://myfootball.pw/11531288-barselona-vilyarreal-pryamaya-translyaciya-ispaniya-primera-divizion-28022026-smotret-onlayn.html',
 
     ]
-  },*/
- /*{
-    oyun: ' Tottenham - Arsenal ',
-    saat: '20:30',
-    links: [
-      'idmantv.az/az',
-      'https://ovogoal.plus/match-updates/tottenham-vs-arsenal/',
-      'https://myfootball.pw/11529698-tottenhem-arsenal-pryamaya-translyaciya-angliya-premer-liga-22022026-smotret-onlayn.html',
-    ]
   },
-  {
-    oyun: ' Beşiktaş - Göztepe ',
+ {
+    oyun: ' Galatasaray - Alanyaspor ',
     saat: '21:00',
     links: [
-      'https://rotabettv383.com/mac/besiktas-goztepe-bein-sports-1/',
-      'https://myfootball.pw/11529704-beshiktash-geztepe-pryamaya-translyaciya-turciya-superliga-22022026-smotret-onlayn.html'
-    ]
-  },*/
-  /*{
-    oyun: ' PSG - Marseille ',
-    saat: '23:45',
-    links: [
-      'https://ovogoal.plus/match-updates/psg-vs-olympique-marseille/',
-      'https://myfootball.pw/11526709-pszh-marsel-pryamaya-translyaciya-franciya-liga-1-08022026-smotret-onlayn.html'
+      'https://rotabettv387.com/mac/galatasaray-alanyaspor-bein-sports-1/',
+      'https://myfootball.pw/11531295-galatasaray-alanyaspor-pryamaya-translyaciya-turciya-superliga-28022026-smotret-onlayn.html',
     ]
   },
   {
-    oyun: ' Valencia - Real Madrid ',
-    saat: '00:00',
+    oyun: ' Dortmund - Bayern ',
+    saat: '21:30',
+    links: [
+      'https://rotabettv387.com/mac/b-dortmund-bayern-munih-tivibu-spor-2/',
+      'https://myfootball.pw/11531301-borussiya-d-bavariya-pryamaya-translyaciya-germaniya-bundesliga-28022026-smotret-onlayn.html'
+    ]
+  },
+  {
+    oyun: ' Leeds - Man City ',
+    saat: '21:30',
     links: [
       'idmantv.az/az',
-      'https://ovogoal.plus/match-updates/valencia-vs-real-madrid/',
-      'https://myfootball.pw/11526710-valensiya-real-madrid-pryamaya-translyaciya-ispaniya-primera-divizion-08022026-smotret-onlayn.html'
+      'https://myfootball.pw/11531299-lids-yun-manchester-siti-pryamaya-translyaciya-angliya-premer-liga-28022026-smotret-onlayn.html'
     ]
-  },*/
+  },
+  {
+    oyun: ' Al Fahya - Al Nassr ',
+    saat: '23:00',
+    links: [
+      '#',
+      '#',
+      '#'
+    ]
+  },
   /*{
     oyun: ' Parma - Juventus ',
     saat: '23:45',

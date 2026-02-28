@@ -14,6 +14,7 @@ let oyunlar = [
     saat: '19:00',
     links: [
       'https://rotabettv387.com/mac/liverpool-west-ham-bein-sports-3/',
+      'https://ovogoal.plus/match-updates/liverpool-vs-west-ham-united/',
       'https://myfootball.pw/11531273-liverpul-vest-hem-yunayted-pryamaya-translyaciya-angliya-premer-liga-28022026-smotret-onlayn.html'
     ]
   },
@@ -22,6 +23,7 @@ let oyunlar = [
     saat: '19:15',
     links: [
       'idmantv.az/az',
+      'https://ovogoal.plus/match-updates/barcelona-vs-villarreal/',
       'https://myfootball.pw/11531288-barselona-vilyarreal-pryamaya-translyaciya-ispaniya-primera-divizion-28022026-smotret-onlayn.html',
 
     ]
@@ -39,6 +41,7 @@ let oyunlar = [
     saat: '21:30',
     links: [
       'https://rotabettv387.com/mac/b-dortmund-bayern-munih-tivibu-spor-2/',
+      'https://patronmac33.cfd/',
       'https://myfootball.pw/11531301-borussiya-d-bavariya-pryamaya-translyaciya-germaniya-bundesliga-28022026-smotret-onlayn.html'
     ]
   },
@@ -47,6 +50,7 @@ let oyunlar = [
     saat: '21:30',
     links: [
       'idmantv.az/az',
+      'https://ovogoal.plus/match-updates/leeds-united-vs-manchester-city/',
       'https://myfootball.pw/11531299-lids-yun-manchester-siti-pryamaya-translyaciya-angliya-premer-liga-28022026-smotret-onlayn.html'
     ]
   },

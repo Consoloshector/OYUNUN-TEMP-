@@ -2,11 +2,11 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Çempionlar liqası püşkatma ',
-    saat: '15:00',
+    oyun: ' Kocaelispor - Beşiktaş ',
+    saat: '17:00',
     links: [
-      'https://www.uefa.com/uefachampionsleague/draws/',
-      'https://myfootball.pw/11531621-zherebevka-ligi-chempionov-pryamaya-translyaciya-futbol-liga-chempionov.html'
+      'https://rotabettv387.com/mac/kocaelispor-besiktas-bein-sports-1/',
+      'https://myfootball.pw/11531261-kodzhaelispor-beshiktash-pryamaya-translyaciya-turciya-superliga-28022026-smotret-onlayn.html'
     ]
   },
    /*{

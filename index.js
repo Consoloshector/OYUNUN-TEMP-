@@ -2,41 +2,40 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Kocaelispor - Beşiktaş ',
-    saat: '17:00',
+    oyun: ' Man United - Crystal Palace',
+    saat: '18:00',
     links: [
-      'https://rotabettv387.com/mac/kocaelispor-besiktas-bein-sports-1/',
-      'https://myfootball.pw/11531261-kodzhaelispor-beshiktash-pryamaya-translyaciya-turciya-superliga-28022026-smotret-onlayn.html'
+      'https://ovogoal.plus/match-updates/manchester-united-vs-crystal-palace/',
+      'https://myfootball.pw/11531329-manchester-yun-kristal-pelas-pryamaya-translyaciya-angliya-premer-liga-01032026-smotret-onlayn.html'
     ]
   },
    {
-    oyun: ' Liverpool - West Ham ',
-    saat: '19:00',
+    oyun: ' Fulham - Tottenham',
+    saat: '18:00',
     links: [
-      'https://rotabettv387.com/mac/liverpool-west-ham-bein-sports-3/',
-      'https://ovogoal.plus/match-updates/liverpool-vs-west-ham-united/',
-      'https://myfootball.pw/11531273-liverpul-vest-hem-yunayted-pryamaya-translyaciya-angliya-premer-liga-28022026-smotret-onlayn.html'
+      'https://rotabettv387.com/mac/fulham-tottenham-bein-sports-4/',
+      'https://ovogoal.plus/match-updates/fulham-vs-tottenham-hotspur/',
+      'https://myfootball.pw/11531327-fulhem-tottenhem-pryamaya-translyaciya-angliya-premer-liga-01032026-smotret-onlayn.html'
     ]
   },
     {
-    oyun: ' Barcelona - Villarreal ',
-    saat: '19:15',
+    oyun: ' Arsenal - Chelsea',
+    saat: '20:30',
     links: [
-      'idmantv.az/az',
-      'https://ovogoal.plus/match-updates/barcelona-vs-villarreal/',
-      'https://myfootball.pw/11531288-barselona-vilyarreal-pryamaya-translyaciya-ispaniya-primera-divizion-28022026-smotret-onlayn.html',
+      'https://medeniyyettv.az/az',
+      'https://myfootball.pw/11531359-arsenal-chelsi-pryamaya-translyaciya-angliya-premer-liga-01032026-smotret-onlayn.html',
 
     ]
   },
  {
-    oyun: ' Galatasaray - Alanyaspor ',
+    oyun: ' Antalyaspor - Fenerbahçe ',
     saat: '21:00',
     links: [
-      'https://rotabettv387.com/mac/galatasaray-alanyaspor-bein-sports-1/',
-      'https://myfootball.pw/11531295-galatasaray-alanyaspor-pryamaya-translyaciya-turciya-superliga-28022026-smotret-onlayn.html',
+      'https://rotabettv387.com/mac/antalyaspor-fenerbahce-bein-sports-1/',
+      'https://myfootball.pw/11531370-antalyaspor-fenerbahche-pryamaya-translyaciya-turciya-superliga-01032026-smotret-onlayn.html',
     ]
   },
-  {
+ /* {
     oyun: ' Dortmund - Bayern ',
     saat: '21:30',
     links: [
@@ -62,7 +61,7 @@ let oyunlar = [
       '#',
       '#'
     ]
-  },
+  },*/
   /*{
     oyun: ' Parma - Juventus ',
     saat: '23:45',

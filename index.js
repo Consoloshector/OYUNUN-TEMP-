@@ -13,7 +13,7 @@ let oyunlar = [
     oyun: ' Fulham - Tottenham',
     saat: '18:00',
     links: [
-      'https://rotabettv387.com/mac/fulham-tottenham-bein-sports-4/',
+      'https://monotv535.com/channel?id=b4',
       'https://ovogoal.plus/match-updates/fulham-vs-tottenham-hotspur/',
       'https://myfootball.pw/11531327-fulhem-tottenhem-pryamaya-translyaciya-angliya-premer-liga-01032026-smotret-onlayn.html'
     ]

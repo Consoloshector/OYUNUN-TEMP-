@@ -5,6 +5,7 @@ let oyunlar = [
     oyun: ' Real Madrid - Getafe ',
     saat: '00:00',
     links: [
+      'https://rotabettv387.com/mac/real-madrid-getafe-s-sport/',
       'idmantv.az/az',
       'https://myfootball.pw/11531387-real-madrid-hetafe-pryamaya-translyaciya-ispaniya-primera-divizion-02032026-smotret-onlayn.htmlml'
     ]

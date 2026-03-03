@@ -2,17 +2,17 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Real Madrid - Getafe ',
-    saat: '00:00',
+    oyun: ' Alanyaspor - Galatasaray ',
+    saat: '21:30',
     links: [
       'https://rotabettv387.com/mac/real-madrid-getafe-s-sport/',
       'idmantv.az/az',
       'https://myfootball.pw/11531387-real-madrid-hetafe-pryamaya-translyaciya-ispaniya-primera-divizion-02032026-smotret-onlayn.htmlml'
     ]
   },
-   /*{
-    oyun: ' Fulham - Tottenham',
-    saat: '18:00',
+   {
+    oyun: ' Barcelona - Atletico Madrid ',
+    saat: '00:00',
     links: [
       'https://monotv535.com/channel?id=b4',
       'https://ovogoal.plus/match-updates/fulham-vs-tottenham-hotspur/',
@@ -20,8 +20,8 @@ let oyunlar = [
     ]
   },
     {
-    oyun: ' Arsenal - Chelsea',
-    saat: '20:30',
+    oyun: ' Como - Inter ',
+    saat: '00:00',
     links: [
       'https://medeniyyettv.az/az',
       'https://myfootball.pw/11531359-arsenal-chelsi-pryamaya-translyaciya-angliya-premer-liga-01032026-smotret-onlayn.html',
@@ -29,13 +29,13 @@ let oyunlar = [
     ]
   },
  {
-    oyun: ' Antalyaspor - Fenerbahçe ',
-    saat: '21:00',
+    oyun: ' Wolverhampton - Liverpool ',
+    saat: '00:15',
     links: [
       'https://rotabettv387.com/mac/antalyaspor-fenerbahce-bein-sports-1/',
       'https://myfootball.pw/11531370-antalyaspor-fenerbahche-pryamaya-translyaciya-turciya-superliga-01032026-smotret-onlayn.html',
     ]
-  },*/
+  },
  /* {
     oyun: ' Dortmund - Bayern ',
     saat: '21:30',

@@ -5,26 +5,25 @@ let oyunlar = [
     oyun: ' Alanyaspor - Galatasaray ',
     saat: '21:30',
     links: [
-      'https://rotabettv387.com/mac/real-madrid-getafe-s-sport/',
-      'idmantv.az/az',
-      'https://myfootball.pw/11531387-real-madrid-hetafe-pryamaya-translyaciya-ispaniya-primera-divizion-02032026-smotret-onlayn.htmlml'
+      'https://www.atv.com.tr/canli-yayin',
+      'https://myfootball.pw/11532264-alanyaspor-galatasaray-pryamaya-translyaciya-turciya-kubok-03032026-smotret-onlayn.html'
     ]
   },
    {
     oyun: ' Barcelona - Atletico Madrid ',
     saat: '00:00',
     links: [
-      'https://monotv535.com/channel?id=b4',
-      'https://ovogoal.plus/match-updates/fulham-vs-tottenham-hotspur/',
-      'https://myfootball.pw/11531327-fulhem-tottenhem-pryamaya-translyaciya-angliya-premer-liga-01032026-smotret-onlayn.html'
+      'https://monotv535.com/channel?id=ss',
+      'https://ovogoal.plus/match-updates/barcelona-vs-atl-madrid/',
+      'https://myfootball.pw/11532275-barselona-atletiko-madrid-pryamaya-translyaciya-ispaniya-kubok-korolya-03032026-smotret-onlayn.html'
     ]
   },
     {
     oyun: ' Como - Inter ',
     saat: '00:00',
     links: [
-      'https://medeniyyettv.az/az',
-      'https://myfootball.pw/11531359-arsenal-chelsi-pryamaya-translyaciya-angliya-premer-liga-01032026-smotret-onlayn.html',
+      'https://rotabettv387.com/mac/como-inter-trt-spor/',
+      'https://myfootball.pw/11532276-komo-inter-pryamaya-translyaciya-italiya-kubok-03032026-smotret-onlayn.html',
 
     ]
   },
@@ -32,8 +31,9 @@ let oyunlar = [
     oyun: ' Wolverhampton - Liverpool ',
     saat: '00:15',
     links: [
-      'https://rotabettv387.com/mac/antalyaspor-fenerbahce-bein-sports-1/',
-      'https://myfootball.pw/11531370-antalyaspor-fenerbahche-pryamaya-translyaciya-turciya-superliga-01032026-smotret-onlayn.html',
+      'idmantv.az/az',
+      'https://rotabettv387.com/mac/wolverhampton-liverpool-bein-sports-3/',
+      'https://myfootball.pw/11532278-vulverhempton-liverpul-pryamaya-translyaciya-angliya-premer-liga-03032026-smotret-onlayn.html',
     ]
   },
  /* {

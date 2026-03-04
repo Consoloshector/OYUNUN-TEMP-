@@ -2,24 +2,24 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Gaziantep - Fenerbahçe ',
-    saat: '21:30',
+    oyun: ' Brighton - Arsenal ',
+    saat: '23:30',
     links: [
       'https://www.atv.com.tr/canli-yayin',
       'https://myfootball.pw/11532288-gaziantep-fenerbahche-pryamaya-translyaciya-turciya-kubok-04032026-smotret-onlayn.html'
     ]
   },
    {
-    oyun: ' Beşiktaş - Rizespor ',
-    saat: '21:30',
+    oyun: ' Aston Villa - Chelsea ',
+    saat: '23:30',
     links: [
       'https://rotabettv387.com/mac/besiktas-c-rizespor-a-haber/',
       'https://myfootball.pw/11532287-beshiktash-rizespor-pryamaya-translyaciya-turciya-kubok-04032026-smotret-onlayn.html'
     ]
   },
-   /* {
-    oyun: ' Como - Inter ',
-    saat: '00:00',
+  {
+    oyun: ' Man City - Nottingham Forest',
+    saat: '23:30',
     links: [
       'https://rotabettv387.com/mac/como-inter-trt-spor/',
       'https://myfootball.pw/11532276-komo-inter-pryamaya-translyaciya-italiya-kubok-03032026-smotret-onlayn.html',
@@ -27,14 +27,14 @@ let oyunlar = [
     ]
   },
  {
-    oyun: ' Wolverhampton - Liverpool ',
+    oyun: ' Newcastle - Man United',
     saat: '00:15',
     links: [
       'idmantv.az/az',
       'https://rotabettv387.com/mac/wolverhampton-liverpool-bein-sports-3/',
       'https://myfootball.pw/11532278-vulverhempton-liverpul-pryamaya-translyaciya-angliya-premer-liga-03032026-smotret-onlayn.html',
     ]
-  },*/
+  },
  /* {
     oyun: ' Dortmund - Bayern ',
     saat: '21:30',

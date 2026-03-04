@@ -2,23 +2,22 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Alanyaspor - Galatasaray ',
+    oyun: ' Gaziantep - Fenerbahçe ',
     saat: '21:30',
     links: [
       'https://www.atv.com.tr/canli-yayin',
-      'https://myfootball.pw/11532264-alanyaspor-galatasaray-pryamaya-translyaciya-turciya-kubok-03032026-smotret-onlayn.html'
+      'https://myfootball.pw/11532288-gaziantep-fenerbahche-pryamaya-translyaciya-turciya-kubok-04032026-smotret-onlayn.html'
     ]
   },
    {
-    oyun: ' Barcelona - Atletico Madrid ',
-    saat: '00:00',
+    oyun: ' Beşiktaş - Rizespor ',
+    saat: '21:30',
     links: [
-      'https://monotv535.com/channel?id=ss',
-      'https://ovogoal.plus/match-updates/barcelona-vs-atl-madrid/',
-      'https://myfootball.pw/11532275-barselona-atletiko-madrid-pryamaya-translyaciya-ispaniya-kubok-korolya-03032026-smotret-onlayn.html'
+      'https://rotabettv387.com/mac/besiktas-c-rizespor-a-haber/',
+      'https://myfootball.pw/11532287-beshiktash-rizespor-pryamaya-translyaciya-turciya-kubok-04032026-smotret-onlayn.html'
     ]
   },
-    {
+   /* {
     oyun: ' Como - Inter ',
     saat: '00:00',
     links: [
@@ -35,7 +34,7 @@ let oyunlar = [
       'https://rotabettv387.com/mac/wolverhampton-liverpool-bein-sports-3/',
       'https://myfootball.pw/11532278-vulverhempton-liverpul-pryamaya-translyaciya-angliya-premer-liga-03032026-smotret-onlayn.html',
     ]
-  },
+  },*/
  /* {
     oyun: ' Dortmund - Bayern ',
     saat: '21:30',

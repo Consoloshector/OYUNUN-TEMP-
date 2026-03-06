@@ -2,38 +2,40 @@ const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
   {
-    oyun: ' Brighton - Arsenal ',
-    saat: '23:30',
+    oyun: ' PSG - Monaco ',
+    saat: '23:45',
     links: [
-      'https://ovogoal.plus/match-updates/brighton-vs-arsenal/',
-      'https://myfootball.pw/11532293-brayton-arsenal-pryamaya-translyaciya-angliya-premer-liga-04032026-smotret-onlayn.html'
+      'https://rotabettv387.com/mac/psg-monaco-bein-sports-3/',
+      'https://myfootball.pw/11532913-pszh-as-monako-pryamaya-translyaciya-franciya-liga-1-06032026-smotret-onlayn.html'
     ]
   },
    {
-    oyun: ' Aston Villa - Chelsea ',
-    saat: '23:30',
+    oyun: ' Celta - Real Madrid ',
+    saat: '00:00',
     links: [
-      'https://rotabettv387.com/mac/aston-villa-chelsea-bein-sports-4/',
-      'idmantv.az/az'
+      'idmantv.az/az',
+      'https://ovogoal.plus/match-update/celta-vigo-vs-real-madrid/',
+      'https://myfootball.pw/11533119-selta-real-madrid-pryamaya-translyaciya-ispaniya-primera-divizion-06032026-smotret-onlayn.html'
     ]
   },
   {
-    oyun: ' Man City - Nottingham Forest',
-    saat: '23:30',
+    oyun: ' Wolwerhampton - Liverpool',
+    saat: '00:00',
     links: [
-      'https://rotabettv387.com/mac/manchester-city-nottingham-forest-bein-sports-2/',
-      'https://myfootball.pw/11532291-manchester-siti-nottingem-forest-pryamaya-translyaciya-angliya-premer-liga-04032026-smotret-onlayn.html',
+      'https://rotabettv387.com/mac/wolverhampton-liverpool-tabii-spor/',
+      'https://ovogoal.plus/match-update/wolves-vs-liverpool/',
+      'https://myfootball.pw/11532915-vulverhempton-liverpul-pryamaya-translyaciya-angliya-kubok-fa-06032026-smotret-onlayn.htmlayn.html',
 
     ]
   },
- {
+/* {
     oyun: ' Newcastle - Man United',
     saat: '00:15',
     links: [
       'https://rotabettv387.com/mac/newcastle-manchester-utd-bein-sports-5/',
       'https://myfootball.pw/11532303-nyukasl-yunayted-manchester-yun-pryamaya-translyaciya-angliya-premer-liga-04032026-smotret-onlayn.html',
     ]
-  },
+  },*/
  /* {
     oyun: ' Dortmund - Bayern ',
     saat: '21:30',

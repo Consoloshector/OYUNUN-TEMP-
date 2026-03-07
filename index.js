@@ -29,9 +29,9 @@ let oyunlar = [
     oyun: ' Athletic - Barcelona ',
     saat: '00:00',
     links: [
-      'https://rotabettv387.com/mac/wolverhampton-liverpool-tabii-spor/',
-      'https://ovogoal.plus/match-update/wolves-vs-liverpool/',
-      'https://myfootball.pw/11532915-vulverhempton-liverpul-pryamaya-translyaciya-angliya-kubok-fa-06032026-smotret-onlayn.htmlayn.html',
+      'https://rotabettv387.com/mac/athletic-bilbao-barcelona-s-sport/',
+      'idmantv.az/az',
+      'https://ovogoal.plus/match-update/athletic-club-vs-barcelona/',
 
     ]
   },
@@ -39,8 +39,8 @@ let oyunlar = [
     oyun: ' Newcastle - Man City ',
     saat: '00:00',
     links: [
-      'https://rotabettv387.com/mac/newcastle-manchester-utd-bein-sports-5/',
-      'https://myfootball.pw/11532303-nyukasl-yunayted-manchester-yun-pryamaya-translyaciya-angliya-premer-liga-04032026-smotret-onlayn.html',
+      'https://rotabettv387.com/mac/newcastle-manchester-city-tabii-spor/',
+      'https://ovogoal.plus/match-update/newcastle-united-vs-manchester-city/',
     ]
   },
  /* {

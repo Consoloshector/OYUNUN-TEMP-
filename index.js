@@ -1,7 +1,7 @@
 const main = document.getElementsByClassName('main')[0];
 
 let oyunlar = [
-  {
+  /*{
     oyun: ' Beşiktaş - Galatasaray ',
     saat: '21:00',
     links: [
@@ -16,7 +16,7 @@ let oyunlar = [
       'https://tvjustin.net/event.html?id=androstreamlivebs1',
       'https://monotv535.com/channel?id=zirve'
     ]
-  },
+  },*/
    {
     oyun: ' Wrexham - Chelsea ',
     saat: '21:45',
@@ -25,8 +25,8 @@ let oyunlar = [
       'https://myfootball.pw/11532955-reksem-chelsi-pryamaya-translyaciya-angliya-kubok-fa-07032026-smotret-onlayn.html'
     ]
   },
-  /*{
-    oyun: ' Wolwerhampton - Liverpool',
+  {
+    oyun: ' Athletic - Barcelona ',
     saat: '00:00',
     links: [
       'https://rotabettv387.com/mac/wolverhampton-liverpool-tabii-spor/',
@@ -34,15 +34,15 @@ let oyunlar = [
       'https://myfootball.pw/11532915-vulverhempton-liverpul-pryamaya-translyaciya-angliya-kubok-fa-06032026-smotret-onlayn.htmlayn.html',
 
     ]
-  },*/
-/* {
-    oyun: ' Newcastle - Man United',
-    saat: '00:15',
+  },
+  {
+    oyun: ' Newcastle - Man City ',
+    saat: '00:00',
     links: [
       'https://rotabettv387.com/mac/newcastle-manchester-utd-bein-sports-5/',
       'https://myfootball.pw/11532303-nyukasl-yunayted-manchester-yun-pryamaya-translyaciya-angliya-premer-liga-04032026-smotret-onlayn.html',
     ]
-  },*/
+  },
  /* {
     oyun: ' Dortmund - Bayern ',
     saat: '21:30',

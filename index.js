@@ -12,7 +12,9 @@ let oyunlar = [
       'https://myfootball.pw/11532949-beshiktash-galatasaray-pryamaya-translyaciya-turciya-superliga-07032026-smotret-onlayn.html',
       'https://patronmac34.cfd/',
       'https://www.match.az/match-futbol-3-canli-izle.html',
-      'https://www.kooora-sport.com/matches/%d8%a8%d8%b4%d9%83%d8%aa%d8%a7%d8%b4-%d9%88-%d8%ba%d9%84%d8%b7%d8%a9-%d8%b3%d8%b1%d8%a7%d9%8a/'
+      'https://www.kooora-sport.com/matches/%d8%a8%d8%b4%d9%83%d8%aa%d8%a7%d8%b4-%d9%88-%d8%ba%d9%84%d8%b7%d8%a9-%d8%b3%d8%b1%d8%a7%d9%8a/',
+      'https://tvjustin.net/event.html?id=androstreamlivebs1',
+      'https://monotv535.com/channel?id=zirve'
     ]
   },
    {

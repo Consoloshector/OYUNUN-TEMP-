@@ -5,8 +5,14 @@ let oyunlar = [
     oyun: ' Beşiktaş - Galatasaray ',
     saat: '21:00',
     links: [
-      'https://rotabettv387.com/mac/psg-monaco-bein-sports-3/',
-      'https://myfootball.pw/11532913-pszh-as-monako-pryamaya-translyaciya-franciya-liga-1-06032026-smotret-onlayn.html'
+      'https://izlemac437.sbs/mac-izle/besiktas-galatasaray-bein-sports-1/',
+      'https://vidobettv5.live/',
+      'https://taraftarium24sd.online/izle/besiktas-galatasaray-futboi',
+      'https://bosstv42.com/',
+      'https://myfootball.pw/11532949-beshiktash-galatasaray-pryamaya-translyaciya-turciya-superliga-07032026-smotret-onlayn.html',
+      'https://patronmac34.cfd/',
+      'https://www.match.az/match-futbol-3-canli-izle.html',
+      'https://www.kooora-sport.com/matches/%d8%a8%d8%b4%d9%83%d8%aa%d8%a7%d8%b4-%d9%88-%d8%ba%d9%84%d8%b7%d8%a9-%d8%b3%d8%b1%d8%a7%d9%8a/'
     ]
   },
    {

@@ -17,15 +17,15 @@ let oyunlar = [
       'https://monotv535.com/channel?id=zirve'
     ]
   },*/
-   {
-    oyun: ' Wrexham - Chelsea ',
+  {
+    oyun: ' Milan - İnter ',
     saat: '21:45',
     links: [
       'https://rotabettv387.com/mac/wrexham-chelsea-tabii-spor/',
       'https://myfootball.pw/11532955-reksem-chelsi-pryamaya-translyaciya-angliya-kubok-fa-07032026-smotret-onlayn.html'
     ]
   },
-  {
+  /*{
     oyun: ' Athletic - Barcelona ',
     saat: '00:00',
     links: [
@@ -42,7 +42,7 @@ let oyunlar = [
       'https://rotabettv387.com/mac/newcastle-manchester-city-tabii-spor/',
       'https://ovogoal.plus/match-update/newcastle-united-vs-manchester-city/',
     ]
-  },
+  },*/
  /* {
     oyun: ' Dortmund - Bayern ',
     saat: '21:30',

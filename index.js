@@ -19,10 +19,11 @@ let oyunlar = [
   },*/
   {
     oyun: ' Milan - İnter ',
-    saat: '21:45',
+    saat: '23:45',
     links: [
-      'https://rotabettv387.com/mac/wrexham-chelsea-tabii-spor/',
-      'https://myfootball.pw/11532955-reksem-chelsi-pryamaya-translyaciya-angliya-kubok-fa-07032026-smotret-onlayn.html'
+      'https://rotabettv387.com/mac/milan-inter-s-sport-2/',
+      'https://rotabettv387.com/mac/milan-inter-tivibu-spor-1/',
+      'https://myfootball.pw/11533022-milan-inter-pryamaya-translyaciya-italiya-seriya-a-08032026-smotret-onlayn.html'
     ]
   },
   /*{

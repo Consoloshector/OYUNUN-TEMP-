@@ -21,18 +21,18 @@ let oyunlar = [
     oyun: ' Galatasaray - Liverpool ',
     saat: '21:45',
     links: [
-      'https://rotabettv387.com/mac/milan-inter-s-sport-2/',
-      'https://rotabettv387.com/mac/milan-inter-tivibu-spor-1/',
-      'https://myfootball.pw/11533022-milan-inter-pryamaya-translyaciya-italiya-seriya-a-08032026-smotret-onlayn.html'
+      'https://tv.canlitvme.com/livetv/trt1-canli-kesintisiz-izle',
+      'https://www.youtube.com/live/NUWBIEyqMVU?si=XtqqY1dqt5FUduXq',
+      'https://myfootball.pw/11533800-galatasaray-liverpul-pryamaya-translyaciya-liga-chempionov-10032026-smotret-onlayn.html'
     ]
   },
   {
     oyun: ' Newcastle - Barcelona',
     saat: '00:00',
     links: [
-      'https://rotabettv387.com/mac/athletic-bilbao-barcelona-s-sport/',
-      'idmantv.az/az',
-      'https://ovogoal.plus/match-update/athletic-club-vs-barcelona/',
+      'https://www.canlitv.me/live/ictimaitv-canli-hd',
+      'https://rotabettv387.com/mac/newcastle-barcelona-tabii-spor/',
+      'https://myfootball.pw/11533808-nyukasl-yunayted-barselona-pryamaya-translyaciya-liga-chempionov-10032026-smotret-onlayn.html',
 
     ]
   },
@@ -40,17 +40,18 @@ let oyunlar = [
     oyun: ' Atalanta - Bayern ',
     saat: '00:00',
     links: [
-      'https://rotabettv387.com/mac/newcastle-manchester-city-tabii-spor/',
-      'https://ovogoal.plus/match-update/newcastle-united-vs-manchester-city/',
+      'https://rotabettv387.com/mac/atalanta-bayern-munih-tabii-spor-1/',
+      'https://ovogoal.plus/match-update/atalanta-vs-bayern/',
+      'https://myfootball.pw/11533807-atalanta-bavariya-pryamaya-translyaciya-liga-chempionov-10032026-smotret-onlayn.html',
     ]
   },
   {
     oyun: ' Atletico Madrid - Tottenham ',
     saat: '00:00',
     links: [
-      'https://rotabettv387.com/mac/b-dortmund-bayern-munih-tivibu-spor-2/',
-      'https://patronmac33.cfd/',
-      'https://myfootball.pw/11531301-borussiya-d-bavariya-pryamaya-translyaciya-germaniya-bundesliga-28022026-smotret-onlayn.html'
+      'https://rotabettv387.com/mac/atletico-madrid-tottenham-tabii-spor-2/',
+      'https://patronizle9.cfd/',
+      'https://myfootball.pw/11533806-atletiko-madrid-tottenhem-pryamaya-translyaciya-liga-chempionov-10032026-smotret-onlayn.html'
     ]
   },
   /*{

@@ -18,16 +18,16 @@ let oyunlar = [
     ]
   },*/
   {
-    oyun: ' Milan - İnter ',
-    saat: '23:45',
+    oyun: ' Galatasaray - Liverpool ',
+    saat: '21:45',
     links: [
       'https://rotabettv387.com/mac/milan-inter-s-sport-2/',
       'https://rotabettv387.com/mac/milan-inter-tivibu-spor-1/',
       'https://myfootball.pw/11533022-milan-inter-pryamaya-translyaciya-italiya-seriya-a-08032026-smotret-onlayn.html'
     ]
   },
-  /*{
-    oyun: ' Athletic - Barcelona ',
+  {
+    oyun: ' Newcastle - Barcelona',
     saat: '00:00',
     links: [
       'https://rotabettv387.com/mac/athletic-bilbao-barcelona-s-sport/',
@@ -37,23 +37,23 @@ let oyunlar = [
     ]
   },
   {
-    oyun: ' Newcastle - Man City ',
+    oyun: ' Atalanta - Bayern ',
     saat: '00:00',
     links: [
       'https://rotabettv387.com/mac/newcastle-manchester-city-tabii-spor/',
       'https://ovogoal.plus/match-update/newcastle-united-vs-manchester-city/',
     ]
-  },*/
- /* {
-    oyun: ' Dortmund - Bayern ',
-    saat: '21:30',
+  },
+  {
+    oyun: ' Atletico Madrid - Tottenham ',
+    saat: '00:00',
     links: [
       'https://rotabettv387.com/mac/b-dortmund-bayern-munih-tivibu-spor-2/',
       'https://patronmac33.cfd/',
       'https://myfootball.pw/11531301-borussiya-d-bavariya-pryamaya-translyaciya-germaniya-bundesliga-28022026-smotret-onlayn.html'
     ]
   },
-  {
+  /*{
     oyun: ' Leeds - Man City ',
     saat: '21:30',
     links: [

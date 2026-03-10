@@ -50,7 +50,7 @@ let oyunlar = [
     saat: '00:00',
     links: [
       'https://bahisnowtv285.com/Watch/M825223',
-      'https://monotv535.com/channel?id=tb2',
+      'https://ovogoal.plus/match-update/atletico-madrid-vs-tottenham/',
       'https://myfootball.pw/11533806-atletiko-madrid-tottenhem-pryamaya-translyaciya-liga-chempionov-10032026-smotret-onlayn.html'
     ]
   },

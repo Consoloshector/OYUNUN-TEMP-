@@ -49,8 +49,8 @@ let oyunlar = [
     oyun: ' Atletico Madrid - Tottenham ',
     saat: '00:00',
     links: [
-      'https://rotabettv387.com/mac/atletico-madrid-tottenham-tabii-spor-2/',
-      'https://patronizle9.cfd/',
+      'https://bahisnowtv285.com/Watch/M825223',
+      'https://monotv535.com/channel?id=tb2',
       'https://myfootball.pw/11533806-atletiko-madrid-tottenhem-pryamaya-translyaciya-liga-chempionov-10032026-smotret-onlayn.html'
     ]
   },

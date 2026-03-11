@@ -18,34 +18,34 @@ let oyunlar = [
     ]
   },*/
   {
-    oyun: ' Galatasaray - Liverpool ',
-    saat: '21:45',
+    oyun: ' Real Madrid - Man City ',
+    saat: '00:00',
     links: [
-      'https://tv.canlitvme.com/livetv/trt1-canli-kesintisiz-izle',
-      'https://www.youtube.com/live/NUWBIEyqMVU?si=XtqqY1dqt5FUduXq',
-      'https://myfootball.pw/11533800-galatasaray-liverpul-pryamaya-translyaciya-liga-chempionov-10032026-smotret-onlayn.html'
+      'https://rotabettv389.com/mac/real-madrid-manchester-city-tabii-spor/',
+      'https://www.youtube.com/live/UIE1Md-oefM?si=fimYbpFCqW0veNhB',
+      'https://ovogoal.plus/match-update/real-madrid-vs-manchester-city/'
     ]
   },
   {
-    oyun: ' Newcastle - Barcelona',
+    oyun: ' PSG - Chelsea ',
     saat: '00:00',
     links: [
-      'https://www.canlitv.me/live/ictimaitv-canli-hd',
-      'https://rotabettv387.com/mac/newcastle-barcelona-tabii-spor/',
-      'https://myfootball.pw/11533808-nyukasl-yunayted-barselona-pryamaya-translyaciya-liga-chempionov-10032026-smotret-onlayn.html',
+      'https://www.youtube.com/live/8LVDOrTk7dI?si=5OgO-bHMoA9R3Nzn',
+      'https://rotabettv389.com/mac/psg-chelsea-tabii-spor-1/',
+      'https://ovogoal.plus/match-update/psg-vs-chelsea/',
 
     ]
   },
   {
-    oyun: ' Atalanta - Bayern ',
+    oyun: ' Bodo Glimt - Sporting',
     saat: '00:00',
     links: [
-      'https://rotabettv387.com/mac/atalanta-bayern-munih-tabii-spor-1/',
-      'https://ovogoal.plus/match-update/atalanta-vs-bayern/',
-      'https://myfootball.pw/11533807-atalanta-bavariya-pryamaya-translyaciya-liga-chempionov-10032026-smotret-onlayn.html',
+      'https://rotabettv389.com/mac/bodo-glimt-sporting-lisbon-tabii-spor-2/',
+      'https://patronizle11.cfd/',
+      'https://ovogoal.plus/match-update/bodo-oglimt-vs-sporting/',
     ]
   },
-  {
+ /* {
     oyun: ' Atletico Madrid - Tottenham ',
     saat: '00:00',
     links: [
@@ -53,7 +53,7 @@ let oyunlar = [
       'https://ovogoal.plus/match-update/atletico-madrid-vs-tottenham/',
       'https://myfootball.pw/11533806-atletiko-madrid-tottenhem-pryamaya-translyaciya-liga-chempionov-10032026-smotret-onlayn.html'
     ]
-  },
+  },*/
   /*{
     oyun: ' Leeds - Man City ',
     saat: '21:30',

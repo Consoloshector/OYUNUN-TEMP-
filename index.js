@@ -18,15 +18,14 @@ let oyunlar = [
     ]
   },*/
   {
-    oyun: ' Real Madrid - Man City ',
-    saat: '00:00',
+    oyun: ' Karagümrük - Fenerbahçe ',
+    saat: '21:00',
     links: [
-      'https://rotabettv389.com/mac/real-madrid-manchester-city-tabii-spor/',
-      'https://www.youtube.com/live/UIE1Md-oefM?si=fimYbpFCqW0veNhB',
-      'https://ovogoal.plus/match-update/real-madrid-vs-manchester-city/'
+      'https://rotabettv389.com/mac/fatih-karagumruk-fenerbahce-bein-sports-1/',
+      'https://myfootball.pw/11534479-fatih-karagyumryuk-fenerbahche-pryamaya-translyaciya-turciya-superliga-13032026-smotret-onlayn.html',
     ]
   },
-  {
+  /*{
     oyun: ' PSG - Chelsea ',
     saat: '00:00',
     links: [
@@ -44,7 +43,7 @@ let oyunlar = [
       'https://patronizle11.cfd/',
       'https://ovogoal.plus/match-update/bodo-oglimt-vs-sporting/',
     ]
-  },
+  },*/
  /* {
     oyun: ' Atletico Madrid - Tottenham ',
     saat: '00:00',

@@ -18,11 +18,11 @@ let oyunlar = [
     ]
   },*/
   {
-    oyun: ' Karagümrük - Fenerbahçe ',
-    saat: '21:00',
+    oyun: ' Leverkusen - Bayern',
+    saat: '18:30',
     links: [
-      'https://rotabettv389.com/mac/fatih-karagumruk-fenerbahce-bein-sports-1/',
-      'https://myfootball.pw/11534479-fatih-karagyumryuk-fenerbahche-pryamaya-translyaciya-turciya-superliga-13032026-smotret-onlayn.html',
+      'https://myfootball.pw/11534505-bayer-l-bavariya-pryamaya-translyaciya-germaniya-bundesliga-14032026-smotret-onlayn.html',
+      'https://myfootball.pw/11534505-bayer-l-bavariya-pryamaya-translyaciya-germaniya-bundesliga-14032026-smotret-onlayn.html',
     ]
   },
   /*{

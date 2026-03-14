@@ -17,29 +17,30 @@ let oyunlar = [
       'https://monotv535.com/channel?id=zirve'
     ]
   },*/
-  {
+  /*{
     oyun: ' Galatasaray - Başakşehir ',
     saat: '21:00',
     links: [
       'https://rotabettv389.com/mac/galatasaray-rams-basaksehir-bein-sports-1/',
       'https://myfootball.pw/11534532-galatasaray-bashakshehir-pryamaya-translyaciya-turciya-superliga-14032026-smotret-onlayn.html',
     ]
-  },
+  },*/
   {
-    oyun: ' Arsenal - Everton ',
-    saat: '21:30',
+    oyun: ' Real Madrid - Elche ',
+    saat: '00:00',
     links: [
-      'idmantv.az/az',
-      'https://myfootball.pw/11534537-arsenal-everton-pryamaya-translyaciya-angliya-premer-liga-14032026-smotret-onlayn.html',
+      'https://rotabettv390.com/mac/real-madrid-elche-s-sport/',
+      'https://aztv.az/az',
+      'https://myfootball.pw/11534550-real-madrid-elche-pryamaya-translyaciya-ispaniya-primera-divizion-14032026-smotret-onlayn.html'
 
     ]
   },
   {
-    oyun: ' Chelsea - Newcastle',
-    saat: '21:30',
+    oyun: ' West Ham - Man City ',
+    saat: '00:00',
     links: [
-      'https://rotabettv389.com/mac/chelsea-newcastle-bein-sports-max-1/',
-      'https://myfootball.pw/11534536-chelsi-nyukasl-yunayted-pryamaya-translyaciya-angliya-premer-liga-14032026-smotret-onlayn.html',
+      'https://rotabettv390.com/mac/west-ham-manchester-city-bein-sports-3/',
+      'idmantv.az/az',
     ]
   },
  /* {

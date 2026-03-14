@@ -21,17 +21,16 @@ let oyunlar = [
     oyun: ' Galatasaray - Başakşehir ',
     saat: '21:00',
     links: [
-      'https://myfootball.pw/11534505-bayer-l-bavariya-pryamaya-translyaciya-germaniya-bundesliga-14032026-smotret-onlayn.html',
-      'https://myfootball.pw/11534505-bayer-l-bavariya-pryamaya-translyaciya-germaniya-bundesliga-14032026-smotret-onlayn.html',
+      'https://rotabettv389.com/mac/galatasaray-rams-basaksehir-bein-sports-1/',
+      'https://myfootball.pw/11534532-galatasaray-bashakshehir-pryamaya-translyaciya-turciya-superliga-14032026-smotret-onlayn.html',
     ]
   },
   {
     oyun: ' Arsenal - Everton ',
     saat: '21:30',
     links: [
-      'https://www.youtube.com/live/8LVDOrTk7dI?si=5OgO-bHMoA9R3Nzn',
-      'https://rotabettv389.com/mac/psg-chelsea-tabii-spor-1/',
-      'https://ovogoal.plus/match-update/psg-vs-chelsea/',
+      'idmantv.az/az',
+      'https://myfootball.pw/11534537-arsenal-everton-pryamaya-translyaciya-angliya-premer-liga-14032026-smotret-onlayn.html',
 
     ]
   },
@@ -39,9 +38,8 @@ let oyunlar = [
     oyun: ' Chelsea - Newcastle',
     saat: '21:30',
     links: [
-      'https://rotabettv389.com/mac/bodo-glimt-sporting-lisbon-tabii-spor-2/',
-      'https://patronizle11.cfd/',
-      'https://ovogoal.plus/match-update/bodo-oglimt-vs-sporting/',
+      'https://rotabettv389.com/mac/chelsea-newcastle-bein-sports-max-1/',
+      'https://myfootball.pw/11534536-chelsi-nyukasl-yunayted-pryamaya-translyaciya-angliya-premer-liga-14032026-smotret-onlayn.html',
     ]
   },
  /* {

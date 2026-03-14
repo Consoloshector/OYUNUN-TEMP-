@@ -18,16 +18,16 @@ let oyunlar = [
     ]
   },*/
   {
-    oyun: ' Leverkusen - Bayern',
-    saat: '18:30',
+    oyun: ' Galatasaray - Başakşehir ',
+    saat: '21:00',
     links: [
       'https://myfootball.pw/11534505-bayer-l-bavariya-pryamaya-translyaciya-germaniya-bundesliga-14032026-smotret-onlayn.html',
       'https://myfootball.pw/11534505-bayer-l-bavariya-pryamaya-translyaciya-germaniya-bundesliga-14032026-smotret-onlayn.html',
     ]
   },
-  /*{
-    oyun: ' PSG - Chelsea ',
-    saat: '00:00',
+  {
+    oyun: ' Arsenal - Everton ',
+    saat: '21:30',
     links: [
       'https://www.youtube.com/live/8LVDOrTk7dI?si=5OgO-bHMoA9R3Nzn',
       'https://rotabettv389.com/mac/psg-chelsea-tabii-spor-1/',
@@ -36,14 +36,14 @@ let oyunlar = [
     ]
   },
   {
-    oyun: ' Bodo Glimt - Sporting',
-    saat: '00:00',
+    oyun: ' Chelsea - Newcastle',
+    saat: '21:30',
     links: [
       'https://rotabettv389.com/mac/bodo-glimt-sporting-lisbon-tabii-spor-2/',
       'https://patronizle11.cfd/',
       'https://ovogoal.plus/match-update/bodo-oglimt-vs-sporting/',
     ]
-  },*/
+  },
  /* {
     oyun: ' Atletico Madrid - Tottenham ',
     saat: '00:00',

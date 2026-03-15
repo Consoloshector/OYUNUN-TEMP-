@@ -17,41 +17,42 @@ let oyunlar = [
       'https://monotv535.com/channel?id=zirve'
     ]
   },*/
-  /*{
-    oyun: ' Galatasaray - Başakşehir ',
-    saat: '21:00',
+{
+    oyun: ' Man United - Aston Villa ',
+    saat: '18:00',
     links: [
-      'https://rotabettv389.com/mac/galatasaray-rams-basaksehir-bein-sports-1/',
-      'https://myfootball.pw/11534532-galatasaray-bashakshehir-pryamaya-translyaciya-turciya-superliga-14032026-smotret-onlayn.html',
+      'https://rotabettv390.com/mac/manchester-utd-aston-villa-bein-sports-3/',
+      'https://myfootball.pw/11534574-manchester-yun-aston-villa-pryamaya-translyaciya-angliya-premer-liga-15032026-smotret-onlayn.html',
     ]
-  },*/
+  },
   {
-    oyun: ' Real Madrid - Elche ',
-    saat: '00:00',
+    oyun: ' Barcelona - Sevilla ',
+    saat: '19:15',
     links: [
-      'https://rotabettv390.com/mac/real-madrid-elche-s-sport/',
-      'https://aztv.az/az',
-      'https://myfootball.pw/11534550-real-madrid-elche-pryamaya-translyaciya-ispaniya-primera-divizion-14032026-smotret-onlayn.html'
+      'https://rotabettv390.com/mac/barcelona-sevilla-s-sport/',
+      'idmantv.az/az',
+      'https://myfootball.pw/11534583-barselona-sevilya-pryamaya-translyaciya-ispaniya-primera-divizion-15032026-smotret-onlayn.html'
 
     ]
   },
   {
-    oyun: ' West Ham - Man City ',
-    saat: '00:00',
+    oyun: ' Liverpool - Tottenham ',
+    saat: '20:30',
     links: [
-      'https://rotabettv390.com/mac/west-ham-manchester-city-bein-sports-3/',
-      'idmantv.az/az',
+      'https://ovogoal.plus/match-update/liverpool-vs-tottenham-hotspur/',
+      'https://restmacizle54.cfd/',
+      'https://myfootball.pw/11534595-liverpul-tottenhem-pryamaya-translyaciya-angliya-premer-liga-15032026-smotret-onlayn.html',
     ]
   },
- /* {
-    oyun: ' Atletico Madrid - Tottenham ',
-    saat: '00:00',
+  {
+    oyun: ' Gençlerbirliği - Beşiktaş ',
+    saat: '21:00',
     links: [
-      'https://bahisnowtv285.com/Watch/M825223',
-      'https://ovogoal.plus/match-update/atletico-madrid-vs-tottenham/',
-      'https://myfootball.pw/11533806-atletiko-madrid-tottenhem-pryamaya-translyaciya-liga-chempionov-10032026-smotret-onlayn.html'
+      'https://rotabettv390.com/mac/genclerbirligi-besiktas-bein-sports-1/',
+      'https://restmacizle54.cfd/',
+      'https://myfootball.pw/11534600-genchlerbirligi-beshiktash-pryamaya-translyaciya-turciya-superliga-15032026-smotret-onlayn.html'
     ]
-  },*/
+  },
   /*{
     oyun: ' Leeds - Man City ',
     saat: '21:30',

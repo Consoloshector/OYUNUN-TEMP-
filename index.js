@@ -40,7 +40,7 @@ let oyunlar = [
     saat: '20:30',
     links: [
       'https://ovogoal.plus/match-update/liverpool-vs-tottenham-hotspur/',
-      'https://restmacizle54.cfd/',
+      'https://monotv539.com/channel?id=b3',
       'https://myfootball.pw/11534595-liverpul-tottenhem-pryamaya-translyaciya-angliya-premer-liga-15032026-smotret-onlayn.html',
     ]
   },

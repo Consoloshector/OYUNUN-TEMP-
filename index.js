@@ -18,14 +18,14 @@ let oyunlar = [
     ]
   },*/
 {
-    oyun: ' Man United - Aston Villa ',
-    saat: '18:00',
+    oyun: ' Fenerbahçe - Gaziantep ',
+    saat: '21:00',
     links: [
-      'https://rotabettv390.com/mac/manchester-utd-aston-villa-bein-sports-3/',
-      'https://myfootball.pw/11534574-manchester-yun-aston-villa-pryamaya-translyaciya-angliya-premer-liga-15032026-smotret-onlayn.html',
+      'https://rotabettv390.com/mac/fenerbahce-gaziantep-fk-bein-sports-1/',
+      'https://myfootball.pw/11535420-fenerbahche-gaziantep-pryamaya-translyaciya-turciya-superliga-17032026-smotret-onlayn.html',
     ]
   },
-  {
+  /*{
     oyun: ' Barcelona - Sevilla ',
     saat: '19:15',
     links: [
@@ -52,7 +52,7 @@ let oyunlar = [
       'https://restmacizle54.cfd/',
       'https://myfootball.pw/11534600-genchlerbirligi-beshiktash-pryamaya-translyaciya-turciya-superliga-15032026-smotret-onlayn.html'
     ]
-  },
+  },*/
   /*{
     oyun: ' Leeds - Man City ',
     saat: '21:30',

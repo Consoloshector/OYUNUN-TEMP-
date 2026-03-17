@@ -21,17 +21,16 @@ let oyunlar = [
     oyun: ' Man City - Real Madrid ',
     saat: '00:00',
     links: [
-      'https://rotabettv390.com/mac/fenerbahce-gaziantep-fk-bein-sports-1/',
-      'https://myfootball.pw/11535420-fenerbahche-gaziantep-pryamaya-translyaciya-turciya-superliga-17032026-smotret-onlayn.html',
+      'https://www.youtube.com/live/0Q_rajDX5Hw?si=CmIqCLsBrZDDcC6D',
+      'https://myfootball.pw/11535424-manchester-siti-real-madrid-pryamaya-translyaciya-liga-chempionov-17032026-smotret-onlayn.html',
     ]
   },
   {
     oyun: ' Chelsea - PSG ',
     saat: '00:00',
     links: [
-      'https://rotabettv390.com/mac/barcelona-sevilla-s-sport/',
-      'idmantv.az/az',
-      'https://myfootball.pw/11534583-barselona-sevilya-pryamaya-translyaciya-ispaniya-primera-divizion-15032026-smotret-onlayn.html'
+      'https://rotabettv390.com/mac/chelsea-psg-tabii-spor-1/',
+      'https://myfootball.pw/11535425-chelsi-pszh-pryamaya-translyaciya-liga-chempionov-17032026-smotret-onlayn.html'
 
     ]
   },
@@ -39,9 +38,8 @@ let oyunlar = [
     oyun: ' Arsenal - Leverkusen ',
     saat: '00:00',
     links: [
-      'https://ovogoal.plus/match-update/liverpool-vs-tottenham-hotspur/',
-      'https://monotv539.com/channel?id=b3',
-      'https://myfootball.pw/11534595-liverpul-tottenhem-pryamaya-translyaciya-angliya-premer-liga-15032026-smotret-onlayn.html',
+      'https://rotabettv390.com/mac/arsenal-bayer-leverkusen-tabii-spor-2/',
+      'https://myfootball.pw/11535423-arsenal-bayer-l-pryamaya-translyaciya-liga-chempionov-17032026-smotret-onlayn.html',
     ]
   },
  /* {

@@ -18,15 +18,15 @@ let oyunlar = [
     ]
   },*/
 {
-    oyun: ' Barcelona - Newcastle ',
-    saat: '21:45',
+    oyun: ' Liverpool - Galatasaray ',
+    saat: '00:00',
     links: [
       'https://live.itv.az/',
       'https://myfootball.pw/11535435-barselona-nyukasl-yunayted-pryamaya-translyaciya-liga-chempionov-18032026-smotret-onlayn.html',
     ]
   },
-  /*{
-    oyun: ' Chelsea - PSG ',
+  {
+    oyun: ' Tottenham - Atletico ',
     saat: '00:00',
     links: [
       'https://rotabettv390.com/mac/chelsea-psg-tabii-spor-1/',
@@ -35,13 +35,13 @@ let oyunlar = [
     ]
   },
   {
-    oyun: ' Arsenal - Leverkusen ',
+    oyun: ' Bayern - Atalanta ',
     saat: '00:00',
     links: [
       'https://rotabettv390.com/mac/arsenal-bayer-leverkusen-tabii-spor-2/',
       'https://myfootball.pw/11535423-arsenal-bayer-l-pryamaya-translyaciya-liga-chempionov-17032026-smotret-onlayn.html',
     ]
-  },*/
+  },
  /* {
     oyun: ' Gençlerbirliği - Beşiktaş ',
     saat: '21:00',

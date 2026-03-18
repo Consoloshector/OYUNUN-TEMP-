@@ -21,16 +21,17 @@ let oyunlar = [
     oyun: ' Liverpool - Galatasaray ',
     saat: '00:00',
     links: [
-      'https://live.itv.az/',
-      'https://myfootball.pw/11535435-barselona-nyukasl-yunayted-pryamaya-translyaciya-liga-chempionov-18032026-smotret-onlayn.html',
+      'https://www.youtube.com/live/jYvt7b6ARMY?si=QrmDyY3t0MX8I_tN',
+      'https://myfootball.pw/11535440-liverpul-galatasaray-pryamaya-translyaciya-liga-chempionov-18032026-smotret-onlayn.html',
     ]
   },
   {
     oyun: ' Tottenham - Atletico ',
     saat: '00:00',
     links: [
-      'https://rotabettv390.com/mac/chelsea-psg-tabii-spor-1/',
-      'https://myfootball.pw/11535425-chelsi-pszh-pryamaya-translyaciya-liga-chempionov-17032026-smotret-onlayn.html'
+      'https://monotv540.com/channel?id=ex7',
+      'https://ovogoal.plus/match-update/tottenham-vs-atletico-madrid/',
+      'https://myfootball.pw/11535438-tottenhem-atletiko-madrid-pryamaya-translyaciya-liga-chempionov-18032026-smotret-onlayn.html'
 
     ]
   },
@@ -38,8 +39,8 @@ let oyunlar = [
     oyun: ' Bayern - Atalanta ',
     saat: '00:00',
     links: [
-      'https://rotabettv390.com/mac/arsenal-bayer-leverkusen-tabii-spor-2/',
-      'https://myfootball.pw/11535423-arsenal-bayer-l-pryamaya-translyaciya-liga-chempionov-17032026-smotret-onlayn.html',
+      'https://ovogoal.plus/match-update/bayern-munchen-vs-atalanta/',
+      'https://myfootball.pw/11535439-bavariya-atalanta-pryamaya-translyaciya-liga-chempionov-18032026-smotret-onlayn.html',
     ]
   },
  /* {

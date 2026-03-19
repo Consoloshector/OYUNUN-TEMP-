@@ -18,14 +18,14 @@ let oyunlar = [
     ]
   },*/
 {
-    oyun: ' Liverpool - Galatasaray ',
-    saat: '00:00',
+    oyun: ' Beşiktaş - Kasımpaşa ',
+    saat: '21:00',
     links: [
-      'https://www.youtube.com/live/jYvt7b6ARMY?si=QrmDyY3t0MX8I_tN',
-      'https://myfootball.pw/11535440-liverpul-galatasaray-pryamaya-translyaciya-liga-chempionov-18032026-smotret-onlayn.html',
+      'https://golvar334.sbs/mac/besiktas-kasimpasa-bein-sports-1/',
+      'https://myfootball.pw/11535453-beshiktash-kasympasha-pryamaya-translyaciya-turciya-superliga-19032026-smotret-onlayn.html',
     ]
   },
-  {
+ /* {
     oyun: ' Tottenham - Atletico ',
     saat: '00:00',
     links: [
@@ -42,7 +42,7 @@ let oyunlar = [
       'https://ovogoal.plus/match-update/bayern-munchen-vs-atalanta/',
       'https://myfootball.pw/11535439-bavariya-atalanta-pryamaya-translyaciya-liga-chempionov-18032026-smotret-onlayn.html',
     ]
-  },
+  },*/
  /* {
     oyun: ' Gençlerbirliği - Beşiktaş ',
     saat: '21:00',

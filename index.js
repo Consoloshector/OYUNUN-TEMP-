@@ -18,41 +18,42 @@ let oyunlar = [
     ]
   },*/
 {
-    oyun: ' Beşiktaş - Kasımpaşa ',
-    saat: '21:00',
+    oyun: ' Barcelona - Rayo Vallecano',
+    saat: '17:00',
     links: [
-      'https://golvar334.sbs/mac/besiktas-kasimpasa-bein-sports-1/',
-      'https://myfootball.pw/11535453-beshiktash-kasympasha-pryamaya-translyaciya-turciya-superliga-19032026-smotret-onlayn.html',
+      'idmantv.az/az',
+      'https://ovogoal.plus/match-update/barcelona-vs-rayo-vallecano/',
+      'https://myfootball.pw/11536311-barselona-rayo-valekano-pryamaya-translyaciya-ispaniya-primera-divizion-22032026-smotret-onlayn.html',
     ]
   },
- /* {
-    oyun: ' Tottenham - Atletico ',
-    saat: '00:00',
+  {
+    oyun: ' Tottenham - Forest ',
+    saat: '18:15',
     links: [
-      'https://monotv540.com/channel?id=ex7',
-      'https://ovogoal.plus/match-update/tottenham-vs-atletico-madrid/',
-      'https://myfootball.pw/11535438-tottenhem-atletiko-madrid-pryamaya-translyaciya-liga-chempionov-18032026-smotret-onlayn.html'
+      'https://golvar334.sbs/mac/tottenham-nottingham-forest-bein-sports-max-2/',
+      'https://ovogoal.plus/match-update/tottenham-vs-nottingham/',
+      'https://myfootball.pw/11536324-tottenhem-nottingem-forest-pryamaya-translyaciya-angliya-premer-liga-22032026-smotret-onlayn.html'
 
     ]
   },
   {
-    oyun: ' Bayern - Atalanta ',
+    oyun: ' Arsenal - Man City ',
+    saat: '20:30',
+    links: [
+      'https://ovogoal.plus/match-update/arsenal-vs-manchester-city/',
+      'https://myfootball.pw/11536339-arsenal-manchester-siti-pryamaya-translyaciya-angliya-kubok-ligi-22032026-smotret-onlayn.html',
+    ]
+  },
+  {
+    oyun: ' Real Madrid - Atletico',
     saat: '00:00',
     links: [
-      'https://ovogoal.plus/match-update/bayern-munchen-vs-atalanta/',
-      'https://myfootball.pw/11535439-bavariya-atalanta-pryamaya-translyaciya-liga-chempionov-18032026-smotret-onlayn.html',
+      'idmantv.az/az',
+      'https://ovogoal.plus/match-update/real-madrid-vs-atletico-madrid/',
+      'https://myfootball.pw/11536364-real-madrid-atletiko-madrid-pryamaya-translyaciya-ispaniya-primera-divizion-22032026-smotret-onlayn.html'
     ]
-  },*/
+  },
  /* {
-    oyun: ' Gençlerbirliği - Beşiktaş ',
-    saat: '21:00',
-    links: [
-      'https://rotabettv390.com/mac/genclerbirligi-besiktas-bein-sports-1/',
-      'https://restmacizle54.cfd/',
-      'https://myfootball.pw/11534600-genchlerbirligi-beshiktash-pryamaya-translyaciya-turciya-superliga-15032026-smotret-onlayn.html'
-    ]
-  },*/
-  /*{
     oyun: ' Leeds - Man City ',
     saat: '21:30',
     links: [

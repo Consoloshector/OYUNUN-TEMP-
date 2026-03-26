@@ -18,15 +18,14 @@ let oyunlar = [
     ]
   },*/
 {
-    oyun: ' Barcelona - Rayo Vallecano',
-    saat: '17:00',
+    oyun: ' Türkiyə - Rumıniya ',
+    saat: '21:00',
     links: [
-      'idmantv.az/az',
-      'https://ovogoal.plus/match-update/barcelona-vs-rayo-vallecano/',
-      'https://myfootball.pw/11536311-barselona-rayo-valekano-pryamaya-translyaciya-ispaniya-primera-divizion-22032026-smotret-onlayn.html',
+      'https://live.itv.az/',
+      'https://myfootball.cc/11537149-turciya-tur-rumyniya-rum-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-26032026-smotret-onlayn.htmltml',
     ]
   },
-  {
+ /* {
     oyun: ' Tottenham - Forest ',
     saat: '18:15',
     links: [
@@ -52,7 +51,7 @@ let oyunlar = [
       'https://ovogoal.plus/match-update/real-madrid-vs-atletico-madrid/',
       'https://myfootball.pw/11536364-real-madrid-atletiko-madrid-pryamaya-translyaciya-ispaniya-primera-divizion-22032026-smotret-onlayn.html'
     ]
-  },
+  },*/
  /* {
     oyun: ' Leeds - Man City ',
     saat: '21:30',

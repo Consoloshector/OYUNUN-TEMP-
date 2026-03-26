@@ -18,32 +18,31 @@ let oyunlar = [
     ]
   },*/
 {
-    oyun: ' Türkiyə - Rumıniya ',
-    saat: '21:00',
+    oyun: ' İtaliya - Şm.İrlandiya ',
+    saat: '23:45',
     links: [
-      'https://live.itv.az/',
-      'https://myfootball.cc/11537149-turciya-tur-rumyniya-rum-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-26032026-smotret-onlayn.htmltml',
+      'https://izlesenetv-matijastrnisa-com.cdn.ampproject.org/c/s/izlesenetv.matijastrnisa.com/2026/03/25/italya-kuzey-irlanda-justintv-izle-26-mart-2026/amp/?c=1',
+      'https://myfootball.cc/11537167-italiya-ita-severnaya-irlandiya-sil-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-26032026-smotret-onlayn.htmll',
     ]
   },
- /* {
-    oyun: ' Tottenham - Forest ',
-    saat: '18:15',
+  {
+    oyun: ' Ukrayna - İsveç ',
+    saat: '23:45',
     links: [
-      'https://golvar334.sbs/mac/tottenham-nottingham-forest-bein-sports-max-2/',
-      'https://ovogoal.plus/match-update/tottenham-vs-nottingham/',
-      'https://myfootball.pw/11536324-tottenhem-nottingem-forest-pryamaya-translyaciya-angliya-premer-liga-22032026-smotret-onlayn.html'
+      'https://live.itv.az/',
+      'https://myfootball.cc/11537166-ukraina-ukr-shveciya-shve-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-26032026-smotret-onlayn.html'
 
     ]
   },
   {
-    oyun: ' Arsenal - Man City ',
-    saat: '20:30',
+    oyun: ' Braziliya - Fransa ',
+    saat: '00:00',
     links: [
-      'https://ovogoal.plus/match-update/arsenal-vs-manchester-city/',
-      'https://myfootball.pw/11536339-arsenal-manchester-siti-pryamaya-translyaciya-angliya-kubok-ligi-22032026-smotret-onlayn.html',
+      'https://www.canlitv.me/live/trtspor-canli-yayin',
+      'https://myfootball.cc/11537168-braziliya-bra-franciya-fra-pryamaya-translyaciya-tovarischeskiy-match-sbornye-26032026-smotret-onlayn.html',
     ]
   },
-  {
+ /* {
     oyun: ' Real Madrid - Atletico',
     saat: '00:00',
     links: [

@@ -18,10 +18,11 @@ let oyunlar = [
     ]
   },*/
 {
-    oyun: ' Man City',
+    oyun: ' Man City - Liverpool ',
     saat: '15:45',
     links: [
-      'https://izlesenetv-matijastrnisa-com.cdn.ampproject.org/c/s/izlesenetv.matijastrnisa.com/2026/03/25/italya-kuzey-irlanda-justintv-izle-26-mart-2026/amp/?c=1',
+      'https://izlemac461.sbs/mac-izle/manchester-city-liverpool-tabii-spor/',
+      'https://rotabettv391.com/mac/manchester-city-liverpool-tabii-spor/mart-2026/amp/?c=1',
       'https://myfootball.cc/11538790-manchester-siti-liverpul-pryamaya-translyaciya-angliya-kubok-fa-04042026-smotret-onlayn.html6-smotret-onlayn.htmll',
     ]
   },
@@ -29,16 +30,16 @@ let oyunlar = [
     oyun: ' Freiburg - Bayern ',
     saat: '17:30',
     links: [
-      'https://live.itv.az/',
-      'https://myfootball.cc/11538799-frayburg-bavariya-pryamaya-translyaciya-germaniya-bundesliga-04042026-smotret-onlayn.html'
-
+      'https://rotabettv391.com/mac/freiburg-bayern-munih-tivibu-spor-2/',
+      'https://myfootball.cc/11538799-frayburg-bavariya-pryamaya-translyaciya-germaniya-bundesliga-04042026-smotret-onlayn.html',
     ]
   },
   {
     oyun: ' Mallorca - Real Madrid ',
     saat: '18:15',
     links: [
-      'https://www.canlitv.me/live/trtspor-canli-yayin',
+      'idmantv.az/az',
+      'https://rotabettv391.com/mac/mallorca-real-madrid-s-sport/',
       'https://myfootball.cc/11538809-malorka-real-madrid-pryamaya-translyaciya-ispaniya-primera-divizion-04042026-smotret-onlayn.htmllayn.html',
     ]
   },
@@ -46,8 +47,8 @@ let oyunlar = [
     oyun: ' Trabzonspor - Galatasaray ',
     saat: '21:00',
     links: [
-      'idmantv.az/az',
-      'https://ovogoal.plus/match-update/real-madrid-vs-atletico-madrid/',
+      'https://izlemac461.sbs/mac-izle/trabzonspor-galatasaray-bein-sports-1/',
+      'https://rotabettv391.com/mac/trabzonspor-galatasaray-bein-sports-1/',
       'https://myfootball.cc/11538831-trabzonspor-galatasaray-pryamaya-translyaciya-turciya-superliga-04042026-smotret-onlayn.htmlyn.html'
     ]
   },
@@ -56,7 +57,7 @@ let oyunlar = [
     saat: '23:00',
     links: [
       'idmantv.az/az',
-      'https://ovogoal.plus/match-updates/leeds-united-vs-manchester-city/',
+      'https://rotabettv391.com/mac/atletico-madrid-barcelona-s-sport/',
       'https://myfootball.cc/11538838-atletiko-madrid-barselona-pryamaya-translyaciya-ispaniya-primera-divizion-04042026-smotret-onlayn.html'
     ]
   },

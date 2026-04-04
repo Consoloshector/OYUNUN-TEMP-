@@ -18,49 +18,49 @@ let oyunlar = [
     ]
   },*/
 {
-    oyun: ' İtaliya - Şm.İrlandiya ',
-    saat: '23:45',
+    oyun: ' Man City',
+    saat: '15:45',
     links: [
       'https://izlesenetv-matijastrnisa-com.cdn.ampproject.org/c/s/izlesenetv.matijastrnisa.com/2026/03/25/italya-kuzey-irlanda-justintv-izle-26-mart-2026/amp/?c=1',
-      'https://myfootball.cc/11537167-italiya-ita-severnaya-irlandiya-sil-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-26032026-smotret-onlayn.htmll',
+      'https://myfootball.cc/11538790-manchester-siti-liverpul-pryamaya-translyaciya-angliya-kubok-fa-04042026-smotret-onlayn.html6-smotret-onlayn.htmll',
     ]
   },
   {
-    oyun: ' Ukrayna - İsveç ',
-    saat: '23:45',
+    oyun: ' Freiburg - Bayern ',
+    saat: '17:30',
     links: [
       'https://live.itv.az/',
-      'https://myfootball.cc/11537166-ukraina-ukr-shveciya-shve-pryamaya-translyaciya-otborochnyy-turnir-chm-evropa-26032026-smotret-onlayn.html'
+      'https://myfootball.cc/11538799-frayburg-bavariya-pryamaya-translyaciya-germaniya-bundesliga-04042026-smotret-onlayn.html'
 
     ]
   },
   {
-    oyun: ' Braziliya - Fransa ',
-    saat: '00:00',
+    oyun: ' Mallorca - Real Madrid ',
+    saat: '18:15',
     links: [
       'https://www.canlitv.me/live/trtspor-canli-yayin',
-      'https://myfootball.cc/11537168-braziliya-bra-franciya-fra-pryamaya-translyaciya-tovarischeskiy-match-sbornye-26032026-smotret-onlayn.html',
-    ]
-  },
- /* {
-    oyun: ' Real Madrid - Atletico',
-    saat: '00:00',
-    links: [
-      'idmantv.az/az',
-      'https://ovogoal.plus/match-update/real-madrid-vs-atletico-madrid/',
-      'https://myfootball.pw/11536364-real-madrid-atletiko-madrid-pryamaya-translyaciya-ispaniya-primera-divizion-22032026-smotret-onlayn.html'
-    ]
-  },*/
- /* {
-    oyun: ' Leeds - Man City ',
-    saat: '21:30',
-    links: [
-      'idmantv.az/az',
-      'https://ovogoal.plus/match-updates/leeds-united-vs-manchester-city/',
-      'https://myfootball.pw/11531299-lids-yun-manchester-siti-pryamaya-translyaciya-angliya-premer-liga-28022026-smotret-onlayn.html'
+      'https://myfootball.cc/11538809-malorka-real-madrid-pryamaya-translyaciya-ispaniya-primera-divizion-04042026-smotret-onlayn.htmllayn.html',
     ]
   },
   {
+    oyun: ' Trabzonspor - Galatasaray ',
+    saat: '21:00',
+    links: [
+      'idmantv.az/az',
+      'https://ovogoal.plus/match-update/real-madrid-vs-atletico-madrid/',
+      'https://myfootball.cc/11538831-trabzonspor-galatasaray-pryamaya-translyaciya-turciya-superliga-04042026-smotret-onlayn.htmlyn.html'
+    ]
+  },
+  {
+    oyun: ' Atletico Madrid - Barcelona ',
+    saat: '23:00',
+    links: [
+      'idmantv.az/az',
+      'https://ovogoal.plus/match-updates/leeds-united-vs-manchester-city/',
+      'https://myfootball.cc/11538838-atletiko-madrid-barselona-pryamaya-translyaciya-ispaniya-primera-divizion-04042026-smotret-onlayn.html'
+    ]
+  },
+ /* {
     oyun: ' Al Fahya - Al Nassr ',
     saat: '23:00',
     links: [
